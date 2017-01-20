@@ -1,0 +1,1819 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AES_BLOCK_SIZE	ch02/aes.c	387;"	d	file:
+AES_BLOCK_SIZE	ch09/aes.c	388;"	d	file:
+AES_H	ch02/aes.h	2;"	d
+AES_H	ch09/aes.h	2;"	d
+ASN1_BER	ch05/asn1.h	20;"	d
+ASN1_BIT_STRING	ch05/asn1.h	23;"	d
+ASN1_BMP_STRING	ch05/asn1.h	51;"	d
+ASN1_BOOLEAN	ch05/asn1.h	21;"	d
+ASN1_CHARACTER_STRING	ch05/asn1.h	50;"	d
+ASN1_CLASS_APPLICATION	ch05/asn1.h	16;"	d
+ASN1_CLASS_UNIVERSAL	ch05/asn1.h	15;"	d
+ASN1_CONTEXT_SPECIFIC	ch05/asn1.h	17;"	d
+ASN1_EMBEDDED_PPV	ch05/asn1.h	31;"	d
+ASN1_ENUMERATED	ch05/asn1.h	30;"	d
+ASN1_GENERALIZED_TIME	ch05/asn1.h	44;"	d
+ASN1_GENERAL_STRING	ch05/asn1.h	48;"	d
+ASN1_GRAPHIC_STRING	ch05/asn1.h	45;"	d
+ASN1_H	ch05/asn1.h	2;"	d
+ASN1_IA5_STRING	ch05/asn1.h	42;"	d
+ASN1_INSTANCE_OF_EXTERNAL	ch05/asn1.h	28;"	d
+ASN1_INTEGER	ch05/asn1.h	22;"	d
+ASN1_ISO64_STRING	ch05/asn1.h	47;"	d
+ASN1_NULL	ch05/asn1.h	25;"	d
+ASN1_NUMERIC_STRING	ch05/asn1.h	37;"	d
+ASN1_OBJECT_DESCRIPTOR	ch05/asn1.h	27;"	d
+ASN1_OBJECT_IDENTIFIER	ch05/asn1.h	26;"	d
+ASN1_OCTET_STRING	ch05/asn1.h	24;"	d
+ASN1_PRINTABLE_STRING	ch05/asn1.h	38;"	d
+ASN1_PRIVATE	ch05/asn1.h	18;"	d
+ASN1_REAL	ch05/asn1.h	29;"	d
+ASN1_RELATIVE_OID	ch05/asn1.h	33;"	d
+ASN1_SEQUENCE	ch05/asn1.h	35;"	d
+ASN1_SET	ch05/asn1.h	36;"	d
+ASN1_T61_STRING	ch05/asn1.h	40;"	d
+ASN1_TELETEX_STRING	ch05/asn1.h	39;"	d
+ASN1_UNIVERSAL_STRING	ch05/asn1.h	49;"	d
+ASN1_UTC_TIME	ch05/asn1.h	43;"	d
+ASN1_UTF8_STRING	ch05/asn1.h	32;"	d
+ASN1_VIDEOTEX_STRING	ch05/asn1.h	41;"	d
+ASN1_VISIBLE_STRING	ch05/asn1.h	46;"	d
+Alert	ch06/tls.h	/^Alert;$/;"	t	typeref:struct:__anon21
+Alert	ch07/tls.h	/^Alert;$/;"	t	typeref:struct:__anon53
+Alert	ch08/tls.h	/^Alert;$/;"	t	typeref:struct:__anon74
+Alert	ch09/tls.h	/^Alert;$/;"	t	typeref:struct:__anon110
+AlertDescription	ch06/tls.h	/^AlertDescription;$/;"	t	typeref:enum:__anon20
+AlertDescription	ch07/tls.h	/^AlertDescription;$/;"	t	typeref:enum:__anon52
+AlertDescription	ch08/tls.h	/^AlertDescription;$/;"	t	typeref:enum:__anon73
+AlertDescription	ch09/tls.h	/^AlertDescription;$/;"	t	typeref:enum:__anon109
+AlertLevel	ch06/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	t	typeref:enum:__anon19
+AlertLevel	ch07/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	t	typeref:enum:__anon51
+AlertLevel	ch08/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	t	typeref:enum:__anon72
+AlertLevel	ch09/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	t	typeref:enum:__anon108
+BASE64_H	ch01/base64.h	2;"	d
+BASE_T	ch04/md5.c	26;"	d	file:
+BIT_CERT_SIGNER	ch05/x509.c	473;"	d	file:
+BIT_CERT_SIGNER	ch06/x509.c	475;"	d	file:
+BIT_CERT_SIGNER	ch08/x509.c	475;"	d	file:
+BIT_CERT_SIGNER	ch09/x509.c	517;"	d	file:
+BUFFER_SIZE	appC/https.c	90;"	d	file:
+BUFFER_SIZE	ch01/http.c	176;"	d	file:
+BUFFER_SIZE	ch06/https.c	150;"	d	file:
+BUFFER_SIZE	ch08/https.c	151;"	d	file:
+BUFFER_SIZE	ch10/https.c	121;"	d	file:
+BUFFER_SIZE	ch10/https_openssl.c	26;"	d	file:
+CHALLENGE_LEN	appC/ssl.h	55;"	d
+CLEAR_BIT	ch02/des.c	13;"	d	file:
+CertificateRequest	ch08/tls.c	/^CertificateRequest;$/;"	t	typeref:struct:__anon64	file:
+CertificateRequest	ch09/tls.c	/^CertificateRequest;$/;"	t	typeref:struct:__anon96	file:
+CipherSpec	appC/ssl.h	/^CipherSpec;$/;"	t	typeref:struct:__anon29
+CipherSuite	ch06/tls.h	/^CipherSuite;$/;"	t	typeref:struct:__anon15
+CipherSuite	ch07/tls.h	/^CipherSuite;$/;"	t	typeref:struct:__anon46
+CipherSuite	ch08/tls.h	/^CipherSuite;$/;"	t	typeref:struct:__anon67
+CipherSuite	ch09/tls.h	/^CipherSuite;$/;"	t	typeref:struct:__anon103
+CipherSuiteIdentifier	ch06/tls.h	/^} CipherSuiteIdentifier;$/;"	t	typeref:enum:__anon14
+CipherSuiteIdentifier	ch07/tls.h	/^} CipherSuiteIdentifier;$/;"	t	typeref:enum:__anon45
+CipherSuiteIdentifier	ch08/tls.h	/^} CipherSuiteIdentifier;$/;"	t	typeref:enum:__anon66
+CipherSuiteIdentifier	ch09/tls.h	/^} CipherSuiteIdentifier;$/;"	t	typeref:enum:__anon100
+ClientFinished	appC/ssl.h	/^ClientFinished; $/;"	t	typeref:struct:__anon34
+ClientHello	appC/ssl.h	/^ClientHello; $/;"	t	typeref:struct:__anon31
+ClientHello	ch06/tls.h	/^ClientHello;$/;"	t	typeref:struct:__anon27
+ClientHello	ch07/tls.h	/^ClientHello;$/;"	t	typeref:struct:__anon59
+ClientHello	ch08/tls.h	/^ClientHello;$/;"	t	typeref:struct:__anon80
+ClientHello	ch09/tls.h	/^ClientHello;$/;"	t	typeref:struct:__anon116
+ClientMasterKey	appC/ssl.h	/^ClientMasterKey; $/;"	t	typeref:struct:__anon33
+ConnectionEnd	ch07/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	t	typeref:enum:__anon48
+ConnectionEnd	ch08/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	t	typeref:enum:__anon69
+ConnectionEnd	ch09/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	t	typeref:enum:__anon105
+ContentType	ch06/tls.h	/^ContentType;$/;"	t	typeref:enum:__anon18
+ContentType	ch07/tls.h	/^ContentType;$/;"	t	typeref:enum:__anon50
+ContentType	ch08/tls.h	/^ContentType;$/;"	t	typeref:enum:__anon71
+ContentType	ch09/tls.h	/^ContentType;$/;"	t	typeref:enum:__anon107
+DEFAULT_LINE_LEN	ch01/webserver.c	18;"	d	file:
+DEFAULT_LINE_LEN	ch07/ssl_webserver.c	20;"	d	file:
+DES_BLOCK_SIZE	ch02/des.c	190;"	d	file:
+DES_H	ch02/des.h	2;"	d
+DES_KEY_SIZE	ch02/des.h	4;"	d
+DH_H	ch03/dh.h	2;"	d
+DIGEST_BLOCK_SIZE	ch04/digest.h	10;"	d
+DIGEST_H	ch04/digest.h	2;"	d
+DSA_H	ch04/dsa.h	2;"	d
+ECC_H	ch04/ecc.h	2;"	d
+ECC_H	ch09/ecc.h	2;"	d
+ECC_INT_H	ch03/ecc_int.h	2;"	d
+ECDSA_H	ch04/ecdsa.h	2;"	d
+EXPANSION_BLOCK_SIZE	ch02/des.c	191;"	d	file:
+ExtensionType	ch08/tls.c	/^ExtensionType;$/;"	t	typeref:enum:__anon61	file:
+ExtensionType	ch09/tls.c	/^ExtensionType;$/;"	t	typeref:enum:__anon89	file:
+F	ch04/md5.c	/^unsigned int F( unsigned int x, unsigned int y, unsigned int z )$/;"	f
+FILE_H	ch07/file.h	2;"	d
+G	ch03/ecc_int.h	/^  point G;  \/\/ base point $/;"	m	struct:__anon3
+G	ch04/ecc.h	/^  point G;$/;"	m	struct:__anon41
+G	ch04/md5.c	/^unsigned int G( unsigned int x, unsigned int y, unsigned int z )$/;"	f
+G	ch09/ecc.h	/^  point G;$/;"	m	struct:__anon98
+GET_BIT	ch02/des.c	9;"	d	file:
+H	ch04/md5.c	/^unsigned int H( unsigned int x, unsigned int y, unsigned int z )$/;"	f
+HASH_TABLE_SIZE	ch08/tls.c	423;"	d	file:
+HASH_TABLE_SIZE	ch09/tls.c	453;"	d	file:
+HEADERS	appC/Makefile	/^HEADERS = ssl.h \\$/;"	m
+HEADER_FILES	ch06/Makefile	/^HEADER_FILES=tls.h \\$/;"	m
+HEADER_FILES	ch07/Makefile	/^HEADER_FILES=tls.h \\$/;"	m
+HEADER_FILES	ch08/Makefile	/^HEADER_FILES=tls.h \\$/;"	m
+HEADER_FILES	ch09/Makefile	/^HEADER_FILES=tls.h \\$/;"	m
+HEADER_FILES	ch10/Makefile	/^HEADER_FILES=..\/ch08\/tls.h \\$/;"	m
+HEX_H	ch02/hex.h	2;"	d
+HMAC_H	ch04/hmac.h	2;"	d
+HTTPS_PORT	appC/https.c	18;"	d	file:
+HTTPS_PORT	ch06/https.c	18;"	d	file:
+HTTPS_PORT	ch07/ssl_webserver.c	19;"	d	file:
+HTTPS_PORT	ch08/https.c	19;"	d	file:
+HTTPS_PORT	ch10/https.c	24;"	d	file:
+HTTPS_PORT	ch10/https_openssl.c	24;"	d	file:
+HTTP_PORT	appC/https.c	111;"	d	file:
+HTTP_PORT	ch01/http.c	194;"	d	file:
+HTTP_PORT	ch01/http.c	21;"	d	file:
+HTTP_PORT	ch01/webserver.c	17;"	d	file:
+HTTP_PORT	ch06/https.c	17;"	d	file:
+HTTP_PORT	ch07/ssl_webserver.c	18;"	d	file:
+HTTP_PORT	ch08/https.c	18;"	d	file:
+HTTP_PORT	ch10/https.c	23;"	d	file:
+HTTP_PORT	ch10/https_openssl.c	23;"	d	file:
+HUGE_H	ch03/huge.h	2;"	d
+Handshake	ch06/tls.h	/^Handshake;$/;"	t	typeref:struct:__anon26
+Handshake	ch07/tls.h	/^Handshake;$/;"	t	typeref:struct:__anon58
+Handshake	ch08/tls.h	/^Handshake;$/;"	t	typeref:struct:__anon79
+Handshake	ch09/tls.h	/^Handshake;$/;"	t	typeref:struct:__anon115
+HandshakeType	ch06/tls.h	/^HandshakeType;$/;"	t	typeref:enum:__anon25
+HandshakeType	ch07/tls.h	/^HandshakeType;$/;"	t	typeref:enum:__anon57
+HandshakeType	ch08/tls.h	/^HandshakeType;$/;"	t	typeref:enum:__anon78
+HandshakeType	ch09/tls.h	/^HandshakeType;$/;"	t	typeref:enum:__anon114
+HashAlgorithm	ch09/tls.h	/^HashAlgorithm;$/;"	t	typeref:enum:__anon101
+I	ch04/md5.c	/^unsigned int I( unsigned int x, unsigned int y, unsigned int z )$/;"	f
+INCLUDES	ch06/Makefile	/^INCLUDES=-I..\/ch01 -I..\/ch02 -I..\/ch03 -I..\/ch04 -I..\/ch05$/;"	m
+INCLUDES	ch07/Makefile	/^INCLUDES=-I..\/ch01 -I..\/ch02 -I..\/ch03 -I..\/ch04 -I..\/ch06 -I..\/ch05$/;"	m
+INCLUDES	ch08/Makefile	/^INCLUDES=-I..\/ch06 -I..\/ch01 -I..\/ch02 -I..\/ch03 -I..\/ch04 -I..\/ch05 -I..\/ch07$/;"	m
+INCLUDES	ch09/Makefile	/^INCLUDES=-I..\/ch08 -I..\/ch06 -I..\/ch01 -I..\/ch02 -I..\/ch03 -I..\/ch04 -I..\/ch05 -I..\/ch07$/;"	m
+INCLUDES	ch10/Makefile	/^INCLUDES=-I..\/ch08 -I..\/ch06 -I..\/ch01 -I..\/ch02 -I..\/ch03 -I..\/ch04 -I..\/ch05 -I..\/ch07$/;"	m
+INPUT_BLOCK_SIZE	ch04/digest.h	11;"	d
+IV	ch06/tls.h	/^  unsigned char *IV;$/;"	m	struct:__anon16
+IV	ch07/tls.h	/^  unsigned char *IV;$/;"	m	struct:__anon47
+IV	ch08/tls.h	/^  unsigned char *IV;$/;"	m	struct:__anon68
+IV	ch09/tls.h	/^  unsigned char *IV;$/;"	m	struct:__anon104
+IV_size	appC/ssl.h	/^  int                   IV_size;$/;"	m	struct:__anon29
+IV_size	ch06/tls.h	/^  int                   IV_size;$/;"	m	struct:__anon15
+IV_size	ch07/tls.h	/^  int                   IV_size;$/;"	m	struct:__anon46
+IV_size	ch08/tls.h	/^  int                   IV_size;$/;"	m	struct:__anon67
+IV_size	ch09/tls.h	/^  int                   IV_size;$/;"	m	struct:__anon103
+MAC_LENGTH	ch09/aes.c	495;"	d	file:
+MAC_secret	ch06/tls.h	/^  unsigned char *MAC_secret;$/;"	m	struct:__anon16
+MAC_secret	ch07/tls.h	/^  unsigned char *MAC_secret;$/;"	m	struct:__anon47
+MAC_secret	ch08/tls.h	/^  unsigned char *MAC_secret;$/;"	m	struct:__anon68
+MAC_secret	ch09/tls.h	/^  unsigned char *MAC_secret;$/;"	m	struct:__anon104
+MASTER_SECRET_LENGTH	ch06/tls.h	110;"	d
+MASTER_SECRET_LENGTH	ch07/tls.h	112;"	d
+MASTER_SECRET_LENGTH	ch08/tls.h	112;"	d
+MASTER_SECRET_LENGTH	ch09/tls.h	149;"	d
+MAX_CERTIFICATE_TYPES	ch08/tls.c	1456;"	d	file:
+MAX_CERTIFICATE_TYPES	ch09/tls.c	1655;"	d	file:
+MAX_GET_COMMAND	appC/https.c	54;"	d	file:
+MAX_GET_COMMAND	ch01/http.c	117;"	d	file:
+MAX_GET_COMMAND	ch06/https.c	114;"	d	file:
+MAX_GET_COMMAND	ch08/https.c	115;"	d	file:
+MAX_GET_COMMAND	ch10/https.c	120;"	d	file:
+MAX_GET_COMMAND	ch10/https_openssl.c	25;"	d	file:
+MAX_SESSION_ID_LENGTH	ch08/tls.h	120;"	d
+MAX_SESSION_ID_LENGTH	ch09/tls.h	157;"	d
+MAX_SIGNATURE_ALGORITHMS	ch09/tls.c	1666;"	d	file:
+MAX_SUPPORTED_CIPHER_SUITE	ch07/tls.h	/^  MAX_SUPPORTED_CIPHER_SUITE        = 0x003B$/;"	e	enum:__anon45
+MAX_SUPPORTED_CIPHER_SUITE	ch08/tls.h	/^  MAX_SUPPORTED_CIPHER_SUITE        = 0x003B$/;"	e	enum:__anon66
+MAX_SUPPORTED_CIPHER_SUITE	ch09/tls.h	/^  MAX_SUPPORTED_CIPHER_SUITE        = 0xC00A$/;"	e	enum:__anon100
+MD5_BLOCK_SIZE	ch04/md5.c	139;"	d	file:
+MD5_BYTE_SIZE	ch04/md5.h	6;"	d
+MD5_H	ch04/md5.h	2;"	d
+MD5_INPUT_BLOCK_SIZE	ch04/md5.c	140;"	d	file:
+MD5_RESULT_SIZE	ch04/md5.c	141;"	d	file:
+MD5_RESULT_SIZE	ch04/md5.h	5;"	d
+NUM_CIPHER_SPECS	appC/ssl.c	10;"	d	file:
+NameType	ch08/tls.c	/^NameType;$/;"	t	typeref:enum:__anon62	file:
+NameType	ch09/tls.c	/^NameType;$/;"	t	typeref:enum:__anon90	file:
+OID_DSA	ch05/x509.c	/^static const unsigned char OID_DSA[] = $/;"	v	file:
+OID_DSA	ch06/x509.c	/^static const unsigned char OID_DSA[] = $/;"	v	file:
+OID_DSA	ch08/x509.c	/^static const unsigned char OID_DSA[] = $/;"	v	file:
+OID_DSA	ch09/x509.c	/^static const unsigned char OID_DSA[] = $/;"	v	file:
+OID_ECDSA	ch09/x509.c	/^static const unsigned char OID_ECDSA[] = $/;"	v	file:
+OID_PRIME192V1	ch09/x509.c	/^static const unsigned char OID_PRIME192V1[] = $/;"	v	file:
+OID_RSA	ch05/x509.c	/^static const unsigned char OID_RSA[] = $/;"	v	file:
+OID_RSA	ch06/x509.c	/^static const unsigned char OID_RSA[] = $/;"	v	file:
+OID_RSA	ch08/x509.c	/^static const unsigned char OID_RSA[] = $/;"	v	file:
+OID_RSA	ch09/x509.c	/^static const unsigned char OID_RSA[] = $/;"	v	file:
+OID_RSAPrivateKey	ch07/privkey.c	/^static unsigned char OID_RSAPrivateKey [] = $/;"	v	file:
+OID_idAtCommonName	ch05/x509.c	/^static unsigned char OID_idAtCommonName[] = { 0x55, 0x04, 0x03 };$/;"	v	file:
+OID_idAtCommonName	ch06/x509.c	/^static unsigned char OID_idAtCommonName[] = { 0x55, 0x04, 0x03 };$/;"	v	file:
+OID_idAtCommonName	ch08/x509.c	/^static unsigned char OID_idAtCommonName[] = { 0x55, 0x04, 0x03 };$/;"	v	file:
+OID_idAtCommonName	ch09/x509.c	/^static unsigned char OID_idAtCommonName[] = { 0x55, 0x04, 0x03 };$/;"	v	file:
+OID_idAtCountryName	ch05/x509.c	/^static unsigned char OID_idAtCountryName[] = { 0x55, 0x04, 0x06 };$/;"	v	file:
+OID_idAtCountryName	ch06/x509.c	/^static unsigned char OID_idAtCountryName[] = { 0x55, 0x04, 0x06 };$/;"	v	file:
+OID_idAtCountryName	ch08/x509.c	/^static unsigned char OID_idAtCountryName[] = { 0x55, 0x04, 0x06 };$/;"	v	file:
+OID_idAtCountryName	ch09/x509.c	/^static unsigned char OID_idAtCountryName[] = { 0x55, 0x04, 0x06 };$/;"	v	file:
+OID_idAtLocalityName	ch05/x509.c	/^static unsigned char OID_idAtLocalityName[] = { 0x55, 0x04, 0x07 };$/;"	v	file:
+OID_idAtLocalityName	ch06/x509.c	/^static unsigned char OID_idAtLocalityName[] = { 0x55, 0x04, 0x07 };$/;"	v	file:
+OID_idAtLocalityName	ch08/x509.c	/^static unsigned char OID_idAtLocalityName[] = { 0x55, 0x04, 0x07 };$/;"	v	file:
+OID_idAtLocalityName	ch09/x509.c	/^static unsigned char OID_idAtLocalityName[] = { 0x55, 0x04, 0x07 };$/;"	v	file:
+OID_idAtOrganizationName	ch05/x509.c	/^static unsigned char OID_idAtOrganizationName[] = { 0x55, 0x04, 0x0A }; $/;"	v	file:
+OID_idAtOrganizationName	ch06/x509.c	/^static unsigned char OID_idAtOrganizationName[] = { 0x55, 0x04, 0x0A }; $/;"	v	file:
+OID_idAtOrganizationName	ch08/x509.c	/^static unsigned char OID_idAtOrganizationName[] = { 0x55, 0x04, 0x0A }; $/;"	v	file:
+OID_idAtOrganizationName	ch09/x509.c	/^static unsigned char OID_idAtOrganizationName[] = { 0x55, 0x04, 0x0A }; $/;"	v	file:
+OID_idAtOrganizationalUnitName	ch05/x509.c	/^static unsigned char OID_idAtOrganizationalUnitName[] = { 0x55, 0x04, 0x0B };$/;"	v	file:
+OID_idAtOrganizationalUnitName	ch06/x509.c	/^static unsigned char OID_idAtOrganizationalUnitName[] = { 0x55, 0x04, 0x0B };$/;"	v	file:
+OID_idAtOrganizationalUnitName	ch08/x509.c	/^static unsigned char OID_idAtOrganizationalUnitName[] = { 0x55, 0x04, 0x0B };$/;"	v	file:
+OID_idAtOrganizationalUnitName	ch09/x509.c	/^static unsigned char OID_idAtOrganizationalUnitName[] = { 0x55, 0x04, 0x0B };$/;"	v	file:
+OID_idAtStateOrProvinceName	ch05/x509.c	/^static unsigned char OID_idAtStateOrProvinceName[] = { 0x55, 0x04, 0x08 };$/;"	v	file:
+OID_idAtStateOrProvinceName	ch06/x509.c	/^static unsigned char OID_idAtStateOrProvinceName[] = { 0x55, 0x04, 0x08 };$/;"	v	file:
+OID_idAtStateOrProvinceName	ch08/x509.c	/^static unsigned char OID_idAtStateOrProvinceName[] = { 0x55, 0x04, 0x08 };$/;"	v	file:
+OID_idAtStateOrProvinceName	ch09/x509.c	/^static unsigned char OID_idAtStateOrProvinceName[] = { 0x55, 0x04, 0x08 };$/;"	v	file:
+OID_keyUsage	ch05/x509.c	/^static const unsigned char OID_keyUsage[] = { 0x55, 0x1D, 0x0F };$/;"	v	file:
+OID_keyUsage	ch06/x509.c	/^static const unsigned char OID_keyUsage[] = { 0x55, 0x1D, 0x0F };$/;"	v	file:
+OID_keyUsage	ch08/x509.c	/^static const unsigned char OID_keyUsage[] = { 0x55, 0x1D, 0x0F };$/;"	v	file:
+OID_keyUsage	ch09/x509.c	/^static const unsigned char OID_keyUsage[] = { 0x55, 0x1D, 0x0F };$/;"	v	file:
+OID_md5WithRSA	ch05/x509.c	/^static const unsigned char OID_md5WithRSA[] = $/;"	v	file:
+OID_md5WithRSA	ch06/x509.c	/^static const unsigned char OID_md5WithRSA[] = $/;"	v	file:
+OID_md5WithRSA	ch08/x509.c	/^static const unsigned char OID_md5WithRSA[] = $/;"	v	file:
+OID_md5WithRSA	ch09/x509.c	/^static const unsigned char OID_md5WithRSA[] = $/;"	v	file:
+OID_pbeWithMD5andDES_CBC	ch07/privkey.c	/^static unsigned char OID_pbeWithMD5andDES_CBC[] = $/;"	v	file:
+OID_sha1WithDSA	ch05/x509.c	/^static const unsigned char OID_sha1WithDSA[] = $/;"	v	file:
+OID_sha1WithDSA	ch06/x509.c	/^static const unsigned char OID_sha1WithDSA[] = $/;"	v	file:
+OID_sha1WithDSA	ch08/x509.c	/^static const unsigned char OID_sha1WithDSA[] = $/;"	v	file:
+OID_sha1WithDSA	ch09/x509.c	/^static const unsigned char OID_sha1WithDSA[] = $/;"	v	file:
+OID_sha1WithRSA	ch05/x509.c	/^static const unsigned char OID_sha1WithRSA[] = $/;"	v	file:
+OID_sha1WithRSA	ch06/x509.c	/^static const unsigned char OID_sha1WithRSA[] = $/;"	v	file:
+OID_sha1WithRSA	ch08/x509.c	/^static const unsigned char OID_sha1WithRSA[] = $/;"	v	file:
+OID_sha1WithRSA	ch09/x509.c	/^static const unsigned char OID_sha1WithRSA[] = $/;"	v	file:
+OID_sha256WithECDSA	ch09/x509.c	/^static const unsigned char OID_sha256WithECDSA[] = $/;"	v	file:
+OPENSSL_HOME	ch10/Makefile	/^OPENSSL_HOME=\/usr\/local\/ssl\/include$/;"	m
+OPTS	appC/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch01/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch02/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch03/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch04/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch05/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch06/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch07/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch08/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch09/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OPTS	ch10/Makefile	/^OPTS = -g -Wall -Wno-pointer-sign$/;"	m
+OP_DECRYPT	ch02/des.c	/^typedef enum { OP_ENCRYPT, OP_DECRYPT } op_type;$/;"	e	enum:__anon43	file:
+OP_ENCRYPT	ch02/des.c	/^typedef enum { OP_ENCRYPT, OP_DECRYPT } op_type;$/;"	e	enum:__anon43	file:
+PC1_KEY_SIZE	ch02/des.c	192;"	d	file:
+PRF	ch06/prf.c	/^void PRF( const unsigned char *secret,$/;"	f
+PRF	ch09/prf.c	/^void PRF( const unsigned char *secret,$/;"	f
+PRF_H	ch06/prf.h	2;"	d
+PRF_H	ch09/prf.h	2;"	d
+PRIVKEY_H	ch07/privkey.h	2;"	d
+P_hash	ch06/prf.c	/^static void P_hash( const unsigned char *secret,$/;"	f	file:
+P_hash	ch09/prf.c	/^static void P_hash( const unsigned char *secret,$/;"	f	file:
+ProtectionParameters	ch06/tls.h	/^ProtectionParameters;$/;"	t	typeref:struct:__anon16
+ProtectionParameters	ch07/tls.h	/^ProtectionParameters;$/;"	t	typeref:struct:__anon47
+ProtectionParameters	ch08/tls.h	/^ProtectionParameters;$/;"	t	typeref:struct:__anon68
+ProtectionParameters	ch09/tls.h	/^ProtectionParameters;$/;"	t	typeref:struct:__anon104
+ProtocolVersion	ch06/tls.h	/^ProtocolVersion;$/;"	t	typeref:struct:__anon22
+ProtocolVersion	ch07/tls.h	/^ProtocolVersion;$/;"	t	typeref:struct:__anon54
+ProtocolVersion	ch08/tls.h	/^ProtocolVersion;$/;"	t	typeref:struct:__anon75
+ProtocolVersion	ch09/tls.h	/^ProtocolVersion;$/;"	t	typeref:struct:__anon111
+Q	ch04/ecc.h	/^  point Q; \/\/ Q = d * G; this is the public key$/;"	m	struct:__anon42
+Q	ch09/ecc.h	/^  point Q; \/\/ Q = d * G; this is the public key$/;"	m	struct:__anon99
+RANDOM_LENGTH	ch06/tls.h	113;"	d
+RANDOM_LENGTH	ch07/tls.h	115;"	d
+RANDOM_LENGTH	ch08/tls.h	115;"	d
+RANDOM_LENGTH	ch09/tls.h	152;"	d
+RC4_H	ch02/rc4.h	2;"	d
+RC4_STATE_ARRAY_LEN	ch02/rc4.h	4;"	d
+ROUND	ch04/md5.c	28;"	d	file:
+RSA_H	ch03/rsa.h	2;"	d
+RSA_H	ch08/rsa.h	2;"	d
+Random	ch06/tls.h	/^Random;$/;"	t	typeref:struct:__anon24
+Random	ch07/tls.h	/^Random;$/;"	t	typeref:struct:__anon56
+Random	ch08/tls.h	/^Random;$/;"	t	typeref:struct:__anon77
+Random	ch09/tls.h	/^Random;$/;"	t	typeref:struct:__anon113
+S	ch02/rc4.h	/^  unsigned char S[ RC4_STATE_ARRAY_LEN ];$/;"	m	struct:__anon44
+SET_BIT	ch02/des.c	11;"	d	file:
+SHA1_BLOCK_SIZE	ch04/sha.c	234;"	d	file:
+SHA1_BYTE_SIZE	ch04/sha.h	5;"	d
+SHA1_INPUT_BLOCK_SIZE	ch04/sha.c	233;"	d	file:
+SHA1_RESULT_SIZE	ch04/sha.h	4;"	d
+SHA256_BYTE_SIZE	ch04/sha.h	8;"	d
+SHA256_RESULT_SIZE	ch04/sha.h	7;"	d
+SHA_H	ch04/sha.h	2;"	d
+SOURCES	appC/Makefile	/^SOURCES = https.c \\$/;"	m
+SOURCE_FILES	ch06/Makefile	/^SOURCE_FILES=https.c \\$/;"	m
+SOURCE_FILES	ch07/Makefile	/^SOURCE_FILES=ssl_webserver.c \\$/;"	m
+SOURCE_FILES	ch08/Makefile	/^SOURCE_FILES=https.c \\$/;"	m
+SOURCE_FILES	ch09/Makefile	/^SOURCE_FILES=..\/ch08\/https.c \\$/;"	m
+SOURCE_FILES	ch10/Makefile	/^SOURCE_FILES=https.c \\$/;"	m
+SSLParameters	appC/ssl.h	/^SSLParameters;$/;"	t	typeref:struct:__anon30
+SSL_CK_DES_192_EDE3_CBC_WITH_MD5	appC/ssl.h	31;"	d
+SSL_CK_DES_64_CBC_WITH_MD5	appC/ssl.h	30;"	d
+SSL_CK_IDEA_128_CBC_WITH_MD5	appC/ssl.h	35;"	d
+SSL_CK_RC2_128_CBC_EXPORT40_WITH_MD5	appC/ssl.h	34;"	d
+SSL_CK_RC2_128_CBC_WITH_MD5	appC/ssl.h	33;"	d
+SSL_CK_RC4_128_EXPORT40_WITH_MD5	appC/ssl.h	32;"	d
+SSL_CK_RC4_128_WITH_MD5	appC/ssl.h	29;"	d
+SSL_CT_X509_CERTIFICATE	appC/ssl.h	42;"	d
+SSL_H	appC/ssl.h	2;"	d
+SSL_MT_CLIENT_FINISHED	appC/ssl.h	47;"	d
+SSL_MT_CLIENT_HELLO	appC/ssl.c	214;"	d	file:
+SSL_MT_CLIENT_HELLO	appC/ssl.h	45;"	d
+SSL_MT_CLIENT_MASTER_KEY	appC/ssl.h	46;"	d
+SSL_MT_ERROR	appC/ssl.h	44;"	d
+SSL_MT_SERVER_FINISHED	appC/ssl.h	50;"	d
+SSL_MT_SERVER_HELLO	appC/ssl.h	48;"	d
+SSL_MT_SERVER_VERIFY	appC/ssl.h	49;"	d
+SSL_PE_BAD_CERTIFICATE	appC/ssl.h	39;"	d
+SSL_PE_NO_CERTIFICATE	appC/ssl.h	38;"	d
+SSL_PE_NO_CIPHER	appC/ssl.h	37;"	d
+SSL_PE_UNSUPPORTED_CERTIFICATE_TYPE	appC/ssl.h	40;"	d
+SUBKEY_SIZE	ch02/des.c	193;"	d	file:
+ServerFinished	appC/ssl.h	/^ServerFinished; $/;"	t	typeref:struct:__anon36
+ServerHello	appC/ssl.h	/^ServerHello; $/;"	t	typeref:struct:__anon32
+ServerHello	ch06/tls.h	/^ServerHello;$/;"	t	typeref:struct:__anon28
+ServerHello	ch07/tls.h	/^ServerHello;$/;"	t	typeref:struct:__anon60
+ServerHello	ch08/tls.h	/^ServerHello;$/;"	t	typeref:struct:__anon81
+ServerHello	ch09/tls.h	/^ServerHello;$/;"	t	typeref:struct:__anon117
+ServerVerify	appC/ssl.h	/^ServerVerify;$/;"	t	typeref:struct:__anon35
+SignatureAlgorithm	ch09/tls.h	/^SignatureAlgorithm;$/;"	t	typeref:enum:__anon102
+SignatureAndHashAlgorithm	ch09/tls.c	/^SignatureAndHashAlgorithm;$/;"	t	typeref:struct:__anon95	file:
+StoredSessionsList	ch08/tls.c	/^StoredSessionsList;$/;"	t	typeref:struct:StoredSessionsList_t	file:
+StoredSessionsList	ch09/tls.c	/^StoredSessionsList;$/;"	t	typeref:struct:StoredSessionsList_t	file:
+StoredSessionsList_t	ch08/tls.c	/^typedef struct StoredSessionsList_t$/;"	s	file:
+StoredSessionsList_t	ch09/tls.c	/^typedef struct StoredSessionsList_t$/;"	s	file:
+TLSParameters	ch06/tls.h	/^TLSParameters;$/;"	t	typeref:struct:__anon17
+TLSParameters	ch07/tls.h	/^TLSParameters;$/;"	t	typeref:struct:__anon49
+TLSParameters	ch08/tls.h	/^TLSParameters;$/;"	t	typeref:struct:__anon70
+TLSParameters	ch09/tls.h	/^TLSParameters;$/;"	t	typeref:struct:__anon106
+TLSPlaintext	ch06/tls.h	/^TLSPlaintext;$/;"	t	typeref:struct:__anon23
+TLSPlaintext	ch07/tls.h	/^TLSPlaintext;$/;"	t	typeref:struct:__anon55
+TLSPlaintext	ch08/tls.h	/^TLSPlaintext;$/;"	t	typeref:struct:__anon76
+TLSPlaintext	ch09/tls.h	/^TLSPlaintext;$/;"	t	typeref:struct:__anon112
+TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA	ch06/tls.h	/^  TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA = 0x0011,$/;"	e	enum:__anon14
+TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA	ch07/tls.h	/^  TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA = 0x0011,$/;"	e	enum:__anon45
+TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA	ch08/tls.h	/^  TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA = 0x0011,$/;"	e	enum:__anon66
+TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA	ch09/tls.h	/^  TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA = 0x0011,$/;"	e	enum:__anon100
+TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA	ch06/tls.h	/^  TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA     = 0x0013,$/;"	e	enum:__anon14
+TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA	ch07/tls.h	/^  TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA     = 0x0013,$/;"	e	enum:__anon45
+TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA	ch08/tls.h	/^  TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA     = 0x0013,$/;"	e	enum:__anon66
+TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA	ch09/tls.h	/^  TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA     = 0x0013,$/;"	e	enum:__anon100
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA	ch06/tls.h	/^  TLS_DHE_DSS_WITH_AES_128_CBC_SHA  = 0x0032,$/;"	e	enum:__anon14
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA	ch07/tls.h	/^  TLS_DHE_DSS_WITH_AES_128_CBC_SHA  = 0x0032,$/;"	e	enum:__anon45
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA	ch08/tls.h	/^  TLS_DHE_DSS_WITH_AES_128_CBC_SHA  = 0x0032,$/;"	e	enum:__anon66
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA	ch09/tls.h	/^  TLS_DHE_DSS_WITH_AES_128_CBC_SHA  = 0x0032,$/;"	e	enum:__anon100
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA	ch06/tls.h	/^  TLS_DHE_DSS_WITH_AES_256_CBC_SHA  = 0x0038,$/;"	e	enum:__anon14
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA	ch07/tls.h	/^  TLS_DHE_DSS_WITH_AES_256_CBC_SHA  = 0x0038,$/;"	e	enum:__anon45
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA	ch08/tls.h	/^  TLS_DHE_DSS_WITH_AES_256_CBC_SHA  = 0x0038,$/;"	e	enum:__anon66
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA	ch09/tls.h	/^  TLS_DHE_DSS_WITH_AES_256_CBC_SHA  = 0x0038,$/;"	e	enum:__anon100
+TLS_DHE_DSS_WITH_DES_CBC_SHA	ch06/tls.h	/^  TLS_DHE_DSS_WITH_DES_CBC_SHA          = 0x0012,$/;"	e	enum:__anon14
+TLS_DHE_DSS_WITH_DES_CBC_SHA	ch07/tls.h	/^  TLS_DHE_DSS_WITH_DES_CBC_SHA          = 0x0012,$/;"	e	enum:__anon45
+TLS_DHE_DSS_WITH_DES_CBC_SHA	ch08/tls.h	/^  TLS_DHE_DSS_WITH_DES_CBC_SHA          = 0x0012,$/;"	e	enum:__anon66
+TLS_DHE_DSS_WITH_DES_CBC_SHA	ch09/tls.h	/^  TLS_DHE_DSS_WITH_DES_CBC_SHA          = 0x0012,$/;"	e	enum:__anon100
+TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA	ch06/tls.h	/^  TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA = 0x0014,$/;"	e	enum:__anon14
+TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA	ch07/tls.h	/^  TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA = 0x0014,$/;"	e	enum:__anon45
+TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA	ch08/tls.h	/^  TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA = 0x0014,$/;"	e	enum:__anon66
+TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA	ch09/tls.h	/^  TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA = 0x0014,$/;"	e	enum:__anon100
+TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA	ch06/tls.h	/^  TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA     = 0x0016,$/;"	e	enum:__anon14
+TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA	ch07/tls.h	/^  TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA     = 0x0016,$/;"	e	enum:__anon45
+TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA	ch08/tls.h	/^  TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA     = 0x0016,$/;"	e	enum:__anon66
+TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA	ch09/tls.h	/^  TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA     = 0x0016,$/;"	e	enum:__anon100
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA	ch06/tls.h	/^  TLS_DHE_RSA_WITH_AES_128_CBC_SHA  = 0x0033,$/;"	e	enum:__anon14
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA	ch07/tls.h	/^  TLS_DHE_RSA_WITH_AES_128_CBC_SHA  = 0x0033,$/;"	e	enum:__anon45
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA	ch08/tls.h	/^  TLS_DHE_RSA_WITH_AES_128_CBC_SHA  = 0x0033,$/;"	e	enum:__anon66
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA	ch09/tls.h	/^  TLS_DHE_RSA_WITH_AES_128_CBC_SHA  = 0x0033,$/;"	e	enum:__anon100
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA	ch06/tls.h	/^  TLS_DHE_RSA_WITH_AES_256_CBC_SHA  = 0x0039,$/;"	e	enum:__anon14
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA	ch07/tls.h	/^  TLS_DHE_RSA_WITH_AES_256_CBC_SHA  = 0x0039,$/;"	e	enum:__anon45
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA	ch08/tls.h	/^  TLS_DHE_RSA_WITH_AES_256_CBC_SHA  = 0x0039,$/;"	e	enum:__anon66
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA	ch09/tls.h	/^  TLS_DHE_RSA_WITH_AES_256_CBC_SHA  = 0x0039,$/;"	e	enum:__anon100
+TLS_DHE_RSA_WITH_DES_CBC_SHA	ch06/tls.h	/^  TLS_DHE_RSA_WITH_DES_CBC_SHA          = 0x0015,$/;"	e	enum:__anon14
+TLS_DHE_RSA_WITH_DES_CBC_SHA	ch07/tls.h	/^  TLS_DHE_RSA_WITH_DES_CBC_SHA          = 0x0015,$/;"	e	enum:__anon45
+TLS_DHE_RSA_WITH_DES_CBC_SHA	ch08/tls.h	/^  TLS_DHE_RSA_WITH_DES_CBC_SHA          = 0x0015,$/;"	e	enum:__anon66
+TLS_DHE_RSA_WITH_DES_CBC_SHA	ch09/tls.h	/^  TLS_DHE_RSA_WITH_DES_CBC_SHA          = 0x0015,$/;"	e	enum:__anon100
+TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA	ch06/tls.h	/^  TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA  = 0x000B,$/;"	e	enum:__anon14
+TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA	ch07/tls.h	/^  TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA  = 0x000B,$/;"	e	enum:__anon45
+TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA	ch08/tls.h	/^  TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA  = 0x000B,$/;"	e	enum:__anon66
+TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA	ch09/tls.h	/^  TLS_DH_DSS_EXPORT_WITH_DES40_CBC_SHA  = 0x000B,$/;"	e	enum:__anon100
+TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA	ch06/tls.h	/^  TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA      = 0x000D,$/;"	e	enum:__anon14
+TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA	ch07/tls.h	/^  TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA      = 0x000D,$/;"	e	enum:__anon45
+TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA	ch08/tls.h	/^  TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA      = 0x000D,$/;"	e	enum:__anon66
+TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA	ch09/tls.h	/^  TLS_DH_DSS_WITH_3DES_EDE_CBC_SHA      = 0x000D,$/;"	e	enum:__anon100
+TLS_DH_DSS_WITH_AES_128_CBC_SHA	ch06/tls.h	/^  TLS_DH_DSS_WITH_AES_128_CBC_SHA   = 0x0030,$/;"	e	enum:__anon14
+TLS_DH_DSS_WITH_AES_128_CBC_SHA	ch07/tls.h	/^  TLS_DH_DSS_WITH_AES_128_CBC_SHA   = 0x0030,$/;"	e	enum:__anon45
+TLS_DH_DSS_WITH_AES_128_CBC_SHA	ch08/tls.h	/^  TLS_DH_DSS_WITH_AES_128_CBC_SHA   = 0x0030,$/;"	e	enum:__anon66
+TLS_DH_DSS_WITH_AES_128_CBC_SHA	ch09/tls.h	/^  TLS_DH_DSS_WITH_AES_128_CBC_SHA   = 0x0030,$/;"	e	enum:__anon100
+TLS_DH_DSS_WITH_AES_256_CBC_SHA	ch06/tls.h	/^  TLS_DH_DSS_WITH_AES_256_CBC_SHA   = 0x0036,$/;"	e	enum:__anon14
+TLS_DH_DSS_WITH_AES_256_CBC_SHA	ch07/tls.h	/^  TLS_DH_DSS_WITH_AES_256_CBC_SHA   = 0x0036,$/;"	e	enum:__anon45
+TLS_DH_DSS_WITH_AES_256_CBC_SHA	ch08/tls.h	/^  TLS_DH_DSS_WITH_AES_256_CBC_SHA   = 0x0036,$/;"	e	enum:__anon66
+TLS_DH_DSS_WITH_AES_256_CBC_SHA	ch09/tls.h	/^  TLS_DH_DSS_WITH_AES_256_CBC_SHA   = 0x0036,$/;"	e	enum:__anon100
+TLS_DH_DSS_WITH_DES_CBC_SHA	ch06/tls.h	/^  TLS_DH_DSS_WITH_DES_CBC_SHA           = 0x000C,$/;"	e	enum:__anon14
+TLS_DH_DSS_WITH_DES_CBC_SHA	ch07/tls.h	/^  TLS_DH_DSS_WITH_DES_CBC_SHA           = 0x000C,$/;"	e	enum:__anon45
+TLS_DH_DSS_WITH_DES_CBC_SHA	ch08/tls.h	/^  TLS_DH_DSS_WITH_DES_CBC_SHA           = 0x000C,$/;"	e	enum:__anon66
+TLS_DH_DSS_WITH_DES_CBC_SHA	ch09/tls.h	/^  TLS_DH_DSS_WITH_DES_CBC_SHA           = 0x000C,$/;"	e	enum:__anon100
+TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA	ch06/tls.h	/^  TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA  = 0x000E,$/;"	e	enum:__anon14
+TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA	ch07/tls.h	/^  TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA  = 0x000E,$/;"	e	enum:__anon45
+TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA	ch08/tls.h	/^  TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA  = 0x000E,$/;"	e	enum:__anon66
+TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA	ch09/tls.h	/^  TLS_DH_RSA_EXPORT_WITH_DES40_CBC_SHA  = 0x000E,$/;"	e	enum:__anon100
+TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA	ch06/tls.h	/^  TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA      = 0x0010,$/;"	e	enum:__anon14
+TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA	ch07/tls.h	/^  TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA      = 0x0010,$/;"	e	enum:__anon45
+TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA	ch08/tls.h	/^  TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA      = 0x0010,$/;"	e	enum:__anon66
+TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA	ch09/tls.h	/^  TLS_DH_RSA_WITH_3DES_EDE_CBC_SHA      = 0x0010,$/;"	e	enum:__anon100
+TLS_DH_RSA_WITH_AES_128_CBC_SHA	ch06/tls.h	/^  TLS_DH_RSA_WITH_AES_128_CBC_SHA   = 0x0031,$/;"	e	enum:__anon14
+TLS_DH_RSA_WITH_AES_128_CBC_SHA	ch07/tls.h	/^  TLS_DH_RSA_WITH_AES_128_CBC_SHA   = 0x0031,$/;"	e	enum:__anon45
+TLS_DH_RSA_WITH_AES_128_CBC_SHA	ch08/tls.h	/^  TLS_DH_RSA_WITH_AES_128_CBC_SHA   = 0x0031,$/;"	e	enum:__anon66
+TLS_DH_RSA_WITH_AES_128_CBC_SHA	ch09/tls.h	/^  TLS_DH_RSA_WITH_AES_128_CBC_SHA   = 0x0031,$/;"	e	enum:__anon100
+TLS_DH_RSA_WITH_AES_256_CBC_SHA	ch06/tls.h	/^  TLS_DH_RSA_WITH_AES_256_CBC_SHA   = 0x0037,$/;"	e	enum:__anon14
+TLS_DH_RSA_WITH_AES_256_CBC_SHA	ch07/tls.h	/^  TLS_DH_RSA_WITH_AES_256_CBC_SHA   = 0x0037,$/;"	e	enum:__anon45
+TLS_DH_RSA_WITH_AES_256_CBC_SHA	ch08/tls.h	/^  TLS_DH_RSA_WITH_AES_256_CBC_SHA   = 0x0037,$/;"	e	enum:__anon66
+TLS_DH_RSA_WITH_AES_256_CBC_SHA	ch09/tls.h	/^  TLS_DH_RSA_WITH_AES_256_CBC_SHA   = 0x0037,$/;"	e	enum:__anon100
+TLS_DH_RSA_WITH_DES_CBC_SHA	ch06/tls.h	/^  TLS_DH_RSA_WITH_DES_CBC_SHA           = 0x000F,$/;"	e	enum:__anon14
+TLS_DH_RSA_WITH_DES_CBC_SHA	ch07/tls.h	/^  TLS_DH_RSA_WITH_DES_CBC_SHA           = 0x000F,$/;"	e	enum:__anon45
+TLS_DH_RSA_WITH_DES_CBC_SHA	ch08/tls.h	/^  TLS_DH_RSA_WITH_DES_CBC_SHA           = 0x000F,$/;"	e	enum:__anon66
+TLS_DH_RSA_WITH_DES_CBC_SHA	ch09/tls.h	/^  TLS_DH_RSA_WITH_DES_CBC_SHA           = 0x000F,$/;"	e	enum:__anon100
+TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA	ch06/tls.h	/^  TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA = 0x0019,$/;"	e	enum:__anon14
+TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA	ch07/tls.h	/^  TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA = 0x0019,$/;"	e	enum:__anon45
+TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA	ch08/tls.h	/^  TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA = 0x0019,$/;"	e	enum:__anon66
+TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA	ch09/tls.h	/^  TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA = 0x0019,$/;"	e	enum:__anon100
+TLS_DH_anon_EXPORT_WITH_RC4_40_MD5	ch06/tls.h	/^  TLS_DH_anon_EXPORT_WITH_RC4_40_MD5    = 0x0017,$/;"	e	enum:__anon14
+TLS_DH_anon_EXPORT_WITH_RC4_40_MD5	ch07/tls.h	/^  TLS_DH_anon_EXPORT_WITH_RC4_40_MD5    = 0x0017,$/;"	e	enum:__anon45
+TLS_DH_anon_EXPORT_WITH_RC4_40_MD5	ch08/tls.h	/^  TLS_DH_anon_EXPORT_WITH_RC4_40_MD5    = 0x0017,$/;"	e	enum:__anon66
+TLS_DH_anon_EXPORT_WITH_RC4_40_MD5	ch09/tls.h	/^  TLS_DH_anon_EXPORT_WITH_RC4_40_MD5    = 0x0017,$/;"	e	enum:__anon100
+TLS_DH_anon_WITH_3DES_EDE_CBC_SHA	ch06/tls.h	/^  TLS_DH_anon_WITH_3DES_EDE_CBC_SHA     = 0x001B,$/;"	e	enum:__anon14
+TLS_DH_anon_WITH_3DES_EDE_CBC_SHA	ch07/tls.h	/^  TLS_DH_anon_WITH_3DES_EDE_CBC_SHA     = 0x001B,$/;"	e	enum:__anon45
+TLS_DH_anon_WITH_3DES_EDE_CBC_SHA	ch08/tls.h	/^  TLS_DH_anon_WITH_3DES_EDE_CBC_SHA     = 0x001B,$/;"	e	enum:__anon66
+TLS_DH_anon_WITH_3DES_EDE_CBC_SHA	ch09/tls.h	/^  TLS_DH_anon_WITH_3DES_EDE_CBC_SHA     = 0x001B,$/;"	e	enum:__anon100
+TLS_DH_anon_WITH_AES_128_CBC_SHA	ch06/tls.h	/^  TLS_DH_anon_WITH_AES_128_CBC_SHA  = 0x0034,$/;"	e	enum:__anon14
+TLS_DH_anon_WITH_AES_128_CBC_SHA	ch07/tls.h	/^  TLS_DH_anon_WITH_AES_128_CBC_SHA  = 0x0034,$/;"	e	enum:__anon45
+TLS_DH_anon_WITH_AES_128_CBC_SHA	ch08/tls.h	/^  TLS_DH_anon_WITH_AES_128_CBC_SHA  = 0x0034,$/;"	e	enum:__anon66
+TLS_DH_anon_WITH_AES_128_CBC_SHA	ch09/tls.h	/^  TLS_DH_anon_WITH_AES_128_CBC_SHA  = 0x0034,$/;"	e	enum:__anon100
+TLS_DH_anon_WITH_AES_256_CBC_SHA	ch06/tls.h	/^  TLS_DH_anon_WITH_AES_256_CBC_SHA  = 0x003A,$/;"	e	enum:__anon14
+TLS_DH_anon_WITH_AES_256_CBC_SHA	ch07/tls.h	/^  TLS_DH_anon_WITH_AES_256_CBC_SHA  = 0x003A,$/;"	e	enum:__anon45
+TLS_DH_anon_WITH_AES_256_CBC_SHA	ch08/tls.h	/^  TLS_DH_anon_WITH_AES_256_CBC_SHA  = 0x003A,$/;"	e	enum:__anon66
+TLS_DH_anon_WITH_AES_256_CBC_SHA	ch09/tls.h	/^  TLS_DH_anon_WITH_AES_256_CBC_SHA  = 0x003A,$/;"	e	enum:__anon100
+TLS_DH_anon_WITH_DES_CBC_SHA	ch06/tls.h	/^  TLS_DH_anon_WITH_DES_CBC_SHA          = 0x001A,$/;"	e	enum:__anon14
+TLS_DH_anon_WITH_DES_CBC_SHA	ch07/tls.h	/^  TLS_DH_anon_WITH_DES_CBC_SHA          = 0x001A,$/;"	e	enum:__anon45
+TLS_DH_anon_WITH_DES_CBC_SHA	ch08/tls.h	/^  TLS_DH_anon_WITH_DES_CBC_SHA          = 0x001A,$/;"	e	enum:__anon66
+TLS_DH_anon_WITH_DES_CBC_SHA	ch09/tls.h	/^  TLS_DH_anon_WITH_DES_CBC_SHA          = 0x001A,$/;"	e	enum:__anon100
+TLS_DH_anon_WITH_RC4_128_MD5	ch06/tls.h	/^  TLS_DH_anon_WITH_RC4_128_MD5          = 0x0018,$/;"	e	enum:__anon14
+TLS_DH_anon_WITH_RC4_128_MD5	ch07/tls.h	/^  TLS_DH_anon_WITH_RC4_128_MD5          = 0x0018,$/;"	e	enum:__anon45
+TLS_DH_anon_WITH_RC4_128_MD5	ch08/tls.h	/^  TLS_DH_anon_WITH_RC4_128_MD5          = 0x0018,$/;"	e	enum:__anon66
+TLS_DH_anon_WITH_RC4_128_MD5	ch09/tls.h	/^  TLS_DH_anon_WITH_RC4_128_MD5          = 0x0018,$/;"	e	enum:__anon100
+TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA	ch09/tls.h	/^  TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA = 0xC009,$/;"	e	enum:__anon100
+TLS_H	ch06/tls.h	2;"	d
+TLS_H	ch07/tls.h	2;"	d
+TLS_H	ch08/tls.h	2;"	d
+TLS_H	ch09/tls.h	2;"	d
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5	ch06/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5 = 0x0029,$/;"	e	enum:__anon14
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5	ch07/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5 = 0x0029,$/;"	e	enum:__anon45
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5	ch08/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5 = 0x0029,$/;"	e	enum:__anon66
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5	ch09/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5 = 0x0029,$/;"	e	enum:__anon100
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA	ch06/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA = 0x0026,$/;"	e	enum:__anon14
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA	ch07/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA = 0x0026,$/;"	e	enum:__anon45
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA	ch08/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA = 0x0026,$/;"	e	enum:__anon66
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA	ch09/tls.h	/^  TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA = 0x0026,$/;"	e	enum:__anon100
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5	ch06/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5 = 0x002A,$/;"	e	enum:__anon14
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5	ch07/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5 = 0x002A,$/;"	e	enum:__anon45
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5	ch08/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5 = 0x002A,$/;"	e	enum:__anon66
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5	ch09/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_MD5 = 0x002A,$/;"	e	enum:__anon100
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA	ch06/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA = 0x0027,$/;"	e	enum:__anon14
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA	ch07/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA = 0x0027,$/;"	e	enum:__anon45
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA	ch08/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA = 0x0027,$/;"	e	enum:__anon66
+TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA	ch09/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC2_CBC_40_SHA = 0x0027,$/;"	e	enum:__anon100
+TLS_KRB5_EXPORT_WITH_RC4_40_MD5	ch06/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_MD5     = 0x002B,$/;"	e	enum:__anon14
+TLS_KRB5_EXPORT_WITH_RC4_40_MD5	ch07/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_MD5     = 0x002B,$/;"	e	enum:__anon45
+TLS_KRB5_EXPORT_WITH_RC4_40_MD5	ch08/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_MD5     = 0x002B,$/;"	e	enum:__anon66
+TLS_KRB5_EXPORT_WITH_RC4_40_MD5	ch09/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_MD5     = 0x002B,$/;"	e	enum:__anon100
+TLS_KRB5_EXPORT_WITH_RC4_40_SHA	ch06/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_SHA     = 0x0028,$/;"	e	enum:__anon14
+TLS_KRB5_EXPORT_WITH_RC4_40_SHA	ch07/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_SHA     = 0x0028,$/;"	e	enum:__anon45
+TLS_KRB5_EXPORT_WITH_RC4_40_SHA	ch08/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_SHA     = 0x0028,$/;"	e	enum:__anon66
+TLS_KRB5_EXPORT_WITH_RC4_40_SHA	ch09/tls.h	/^  TLS_KRB5_EXPORT_WITH_RC4_40_SHA     = 0x0028,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_3DES_EDE_CBC_MD5	ch06/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_MD5      = 0x0023,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_3DES_EDE_CBC_MD5	ch07/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_MD5      = 0x0023,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_3DES_EDE_CBC_MD5	ch08/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_MD5      = 0x0023,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_3DES_EDE_CBC_MD5	ch09/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_MD5      = 0x0023,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_3DES_EDE_CBC_SHA	ch06/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_SHA      = 0x001F,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_3DES_EDE_CBC_SHA	ch07/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_SHA      = 0x001F,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_3DES_EDE_CBC_SHA	ch08/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_SHA      = 0x001F,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_3DES_EDE_CBC_SHA	ch09/tls.h	/^  TLS_KRB5_WITH_3DES_EDE_CBC_SHA      = 0x001F,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_DES_CBC_MD5	ch06/tls.h	/^  TLS_KRB5_WITH_DES_CBC_MD5           = 0x0022,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_DES_CBC_MD5	ch07/tls.h	/^  TLS_KRB5_WITH_DES_CBC_MD5           = 0x0022,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_DES_CBC_MD5	ch08/tls.h	/^  TLS_KRB5_WITH_DES_CBC_MD5           = 0x0022,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_DES_CBC_MD5	ch09/tls.h	/^  TLS_KRB5_WITH_DES_CBC_MD5           = 0x0022,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_DES_CBC_SHA	ch06/tls.h	/^  TLS_KRB5_WITH_DES_CBC_SHA           = 0x001E,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_DES_CBC_SHA	ch07/tls.h	/^  TLS_KRB5_WITH_DES_CBC_SHA           = 0x001E,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_DES_CBC_SHA	ch08/tls.h	/^  TLS_KRB5_WITH_DES_CBC_SHA           = 0x001E,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_DES_CBC_SHA	ch09/tls.h	/^  TLS_KRB5_WITH_DES_CBC_SHA           = 0x001E,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_IDEA_CBC_MD5	ch06/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_MD5          = 0x0025,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_IDEA_CBC_MD5	ch07/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_MD5          = 0x0025,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_IDEA_CBC_MD5	ch08/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_MD5          = 0x0025,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_IDEA_CBC_MD5	ch09/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_MD5          = 0x0025,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_IDEA_CBC_SHA	ch06/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_SHA          = 0x0021,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_IDEA_CBC_SHA	ch07/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_SHA          = 0x0021,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_IDEA_CBC_SHA	ch08/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_SHA          = 0x0021,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_IDEA_CBC_SHA	ch09/tls.h	/^  TLS_KRB5_WITH_IDEA_CBC_SHA          = 0x0021,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_RC4_128_MD5	ch06/tls.h	/^  TLS_KRB5_WITH_RC4_128_MD5           = 0x0024,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_RC4_128_MD5	ch07/tls.h	/^  TLS_KRB5_WITH_RC4_128_MD5           = 0x0024,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_RC4_128_MD5	ch08/tls.h	/^  TLS_KRB5_WITH_RC4_128_MD5           = 0x0024,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_RC4_128_MD5	ch09/tls.h	/^  TLS_KRB5_WITH_RC4_128_MD5           = 0x0024,$/;"	e	enum:__anon100
+TLS_KRB5_WITH_RC4_128_SHA	ch06/tls.h	/^  TLS_KRB5_WITH_RC4_128_SHA           = 0x0020,$/;"	e	enum:__anon14
+TLS_KRB5_WITH_RC4_128_SHA	ch07/tls.h	/^  TLS_KRB5_WITH_RC4_128_SHA           = 0x0020,$/;"	e	enum:__anon45
+TLS_KRB5_WITH_RC4_128_SHA	ch08/tls.h	/^  TLS_KRB5_WITH_RC4_128_SHA           = 0x0020,$/;"	e	enum:__anon66
+TLS_KRB5_WITH_RC4_128_SHA	ch09/tls.h	/^  TLS_KRB5_WITH_RC4_128_SHA           = 0x0020,$/;"	e	enum:__anon100
+TLS_NULL_WITH_NULL_NULL	ch06/tls.h	/^  TLS_NULL_WITH_NULL_NULL               = 0x0000,$/;"	e	enum:__anon14
+TLS_NULL_WITH_NULL_NULL	ch07/tls.h	/^  TLS_NULL_WITH_NULL_NULL               = 0x0000,$/;"	e	enum:__anon45
+TLS_NULL_WITH_NULL_NULL	ch08/tls.h	/^  TLS_NULL_WITH_NULL_NULL               = 0x0000,$/;"	e	enum:__anon66
+TLS_NULL_WITH_NULL_NULL	ch09/tls.h	/^  TLS_NULL_WITH_NULL_NULL               = 0x0000,$/;"	e	enum:__anon100
+TLS_RSA_EXPORT_WITH_DES40_CBC_SHA	ch06/tls.h	/^  TLS_RSA_EXPORT_WITH_DES40_CBC_SHA     = 0x0008,$/;"	e	enum:__anon14
+TLS_RSA_EXPORT_WITH_DES40_CBC_SHA	ch07/tls.h	/^  TLS_RSA_EXPORT_WITH_DES40_CBC_SHA     = 0x0008,$/;"	e	enum:__anon45
+TLS_RSA_EXPORT_WITH_DES40_CBC_SHA	ch08/tls.h	/^  TLS_RSA_EXPORT_WITH_DES40_CBC_SHA     = 0x0008,$/;"	e	enum:__anon66
+TLS_RSA_EXPORT_WITH_DES40_CBC_SHA	ch09/tls.h	/^  TLS_RSA_EXPORT_WITH_DES40_CBC_SHA     = 0x0008,$/;"	e	enum:__anon100
+TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5	ch06/tls.h	/^  TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5    = 0x0006,$/;"	e	enum:__anon14
+TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5	ch07/tls.h	/^  TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5    = 0x0006,$/;"	e	enum:__anon45
+TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5	ch08/tls.h	/^  TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5    = 0x0006,$/;"	e	enum:__anon66
+TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5	ch09/tls.h	/^  TLS_RSA_EXPORT_WITH_RC2_CBC_40_MD5    = 0x0006,$/;"	e	enum:__anon100
+TLS_RSA_EXPORT_WITH_RC4_40_MD5	ch06/tls.h	/^  TLS_RSA_EXPORT_WITH_RC4_40_MD5        = 0x0003,$/;"	e	enum:__anon14
+TLS_RSA_EXPORT_WITH_RC4_40_MD5	ch07/tls.h	/^  TLS_RSA_EXPORT_WITH_RC4_40_MD5        = 0x0003,$/;"	e	enum:__anon45
+TLS_RSA_EXPORT_WITH_RC4_40_MD5	ch08/tls.h	/^  TLS_RSA_EXPORT_WITH_RC4_40_MD5        = 0x0003,$/;"	e	enum:__anon66
+TLS_RSA_EXPORT_WITH_RC4_40_MD5	ch09/tls.h	/^  TLS_RSA_EXPORT_WITH_RC4_40_MD5        = 0x0003,$/;"	e	enum:__anon100
+TLS_RSA_WITH_3DES_EDE_CBC_SHA	ch06/tls.h	/^  TLS_RSA_WITH_3DES_EDE_CBC_SHA         = 0x000A,$/;"	e	enum:__anon14
+TLS_RSA_WITH_3DES_EDE_CBC_SHA	ch07/tls.h	/^  TLS_RSA_WITH_3DES_EDE_CBC_SHA         = 0x000A,$/;"	e	enum:__anon45
+TLS_RSA_WITH_3DES_EDE_CBC_SHA	ch08/tls.h	/^  TLS_RSA_WITH_3DES_EDE_CBC_SHA         = 0x000A,$/;"	e	enum:__anon66
+TLS_RSA_WITH_3DES_EDE_CBC_SHA	ch09/tls.h	/^  TLS_RSA_WITH_3DES_EDE_CBC_SHA         = 0x000A,$/;"	e	enum:__anon100
+TLS_RSA_WITH_AES_128_CBC_SHA	ch06/tls.h	/^  TLS_RSA_WITH_AES_128_CBC_SHA      = 0x002F,$/;"	e	enum:__anon14
+TLS_RSA_WITH_AES_128_CBC_SHA	ch07/tls.h	/^  TLS_RSA_WITH_AES_128_CBC_SHA      = 0x002F,$/;"	e	enum:__anon45
+TLS_RSA_WITH_AES_128_CBC_SHA	ch08/tls.h	/^  TLS_RSA_WITH_AES_128_CBC_SHA      = 0x002F,$/;"	e	enum:__anon66
+TLS_RSA_WITH_AES_128_CBC_SHA	ch09/tls.h	/^  TLS_RSA_WITH_AES_128_CBC_SHA      = 0x002F,$/;"	e	enum:__anon100
+TLS_RSA_WITH_AES_128_GCM_SHA256	ch09/tls.h	/^  TLS_RSA_WITH_AES_128_GCM_SHA256   = 0x009C,$/;"	e	enum:__anon100
+TLS_RSA_WITH_AES_256_CBC_SHA	ch06/tls.h	/^  TLS_RSA_WITH_AES_256_CBC_SHA      = 0x0035,$/;"	e	enum:__anon14
+TLS_RSA_WITH_AES_256_CBC_SHA	ch07/tls.h	/^  TLS_RSA_WITH_AES_256_CBC_SHA      = 0x0035,$/;"	e	enum:__anon45
+TLS_RSA_WITH_AES_256_CBC_SHA	ch08/tls.h	/^  TLS_RSA_WITH_AES_256_CBC_SHA      = 0x0035,$/;"	e	enum:__anon66
+TLS_RSA_WITH_AES_256_CBC_SHA	ch09/tls.h	/^  TLS_RSA_WITH_AES_256_CBC_SHA      = 0x0035,$/;"	e	enum:__anon100
+TLS_RSA_WITH_DES_CBC_SHA	ch06/tls.h	/^  TLS_RSA_WITH_DES_CBC_SHA              = 0x0009,$/;"	e	enum:__anon14
+TLS_RSA_WITH_DES_CBC_SHA	ch07/tls.h	/^  TLS_RSA_WITH_DES_CBC_SHA              = 0x0009,$/;"	e	enum:__anon45
+TLS_RSA_WITH_DES_CBC_SHA	ch08/tls.h	/^  TLS_RSA_WITH_DES_CBC_SHA              = 0x0009,$/;"	e	enum:__anon66
+TLS_RSA_WITH_DES_CBC_SHA	ch09/tls.h	/^  TLS_RSA_WITH_DES_CBC_SHA              = 0x0009,$/;"	e	enum:__anon100
+TLS_RSA_WITH_IDEA_CBC_SHA	ch06/tls.h	/^  TLS_RSA_WITH_IDEA_CBC_SHA             = 0x0007,$/;"	e	enum:__anon14
+TLS_RSA_WITH_IDEA_CBC_SHA	ch07/tls.h	/^  TLS_RSA_WITH_IDEA_CBC_SHA             = 0x0007,$/;"	e	enum:__anon45
+TLS_RSA_WITH_IDEA_CBC_SHA	ch08/tls.h	/^  TLS_RSA_WITH_IDEA_CBC_SHA             = 0x0007,$/;"	e	enum:__anon66
+TLS_RSA_WITH_IDEA_CBC_SHA	ch09/tls.h	/^  TLS_RSA_WITH_IDEA_CBC_SHA             = 0x0007,$/;"	e	enum:__anon100
+TLS_RSA_WITH_NULL_MD5	ch06/tls.h	/^  TLS_RSA_WITH_NULL_MD5                 = 0x0001,$/;"	e	enum:__anon14
+TLS_RSA_WITH_NULL_MD5	ch07/tls.h	/^  TLS_RSA_WITH_NULL_MD5                 = 0x0001,$/;"	e	enum:__anon45
+TLS_RSA_WITH_NULL_MD5	ch08/tls.h	/^  TLS_RSA_WITH_NULL_MD5                 = 0x0001,$/;"	e	enum:__anon66
+TLS_RSA_WITH_NULL_MD5	ch09/tls.h	/^  TLS_RSA_WITH_NULL_MD5                 = 0x0001,$/;"	e	enum:__anon100
+TLS_RSA_WITH_NULL_SHA	ch06/tls.h	/^  TLS_RSA_WITH_NULL_SHA                 = 0x0002,$/;"	e	enum:__anon14
+TLS_RSA_WITH_NULL_SHA	ch07/tls.h	/^  TLS_RSA_WITH_NULL_SHA                 = 0x0002,$/;"	e	enum:__anon45
+TLS_RSA_WITH_NULL_SHA	ch08/tls.h	/^  TLS_RSA_WITH_NULL_SHA                 = 0x0002,$/;"	e	enum:__anon66
+TLS_RSA_WITH_NULL_SHA	ch09/tls.h	/^  TLS_RSA_WITH_NULL_SHA                 = 0x0002,$/;"	e	enum:__anon100
+TLS_RSA_WITH_RC4_128_MD5	ch06/tls.h	/^  TLS_RSA_WITH_RC4_128_MD5              = 0x0004,$/;"	e	enum:__anon14
+TLS_RSA_WITH_RC4_128_MD5	ch07/tls.h	/^  TLS_RSA_WITH_RC4_128_MD5              = 0x0004,$/;"	e	enum:__anon45
+TLS_RSA_WITH_RC4_128_MD5	ch08/tls.h	/^  TLS_RSA_WITH_RC4_128_MD5              = 0x0004,$/;"	e	enum:__anon66
+TLS_RSA_WITH_RC4_128_MD5	ch09/tls.h	/^  TLS_RSA_WITH_RC4_128_MD5              = 0x0004,$/;"	e	enum:__anon100
+TLS_RSA_WITH_RC4_128_SHA	ch06/tls.h	/^  TLS_RSA_WITH_RC4_128_SHA              = 0x0005,$/;"	e	enum:__anon14
+TLS_RSA_WITH_RC4_128_SHA	ch07/tls.h	/^  TLS_RSA_WITH_RC4_128_SHA              = 0x0005,$/;"	e	enum:__anon45
+TLS_RSA_WITH_RC4_128_SHA	ch08/tls.h	/^  TLS_RSA_WITH_RC4_128_SHA              = 0x0005,$/;"	e	enum:__anon66
+TLS_RSA_WITH_RC4_128_SHA	ch09/tls.h	/^  TLS_RSA_WITH_RC4_128_SHA              = 0x0005,$/;"	e	enum:__anon100
+TLS_VERSION_MAJOR	ch06/tls.h	107;"	d
+TLS_VERSION_MAJOR	ch07/tls.h	109;"	d
+TLS_VERSION_MAJOR	ch08/tls.h	109;"	d
+TLS_VERSION_MAJOR	ch09/tls.h	146;"	d
+TLS_VERSION_MINOR	ch06/tls.h	108;"	d
+TLS_VERSION_MINOR	ch07/tls.h	110;"	d
+TLS_VERSION_MINOR	ch08/tls.h	110;"	d
+TLS_VERSION_MINOR	ch09/tls.h	147;"	d
+TestModulus	ch03/rsa.c	/^const unsigned char TestModulus[] = {$/;"	v
+TestModulus	ch08/rsa.c	/^const unsigned char TestModulus[] = {$/;"	v
+TestPrivateKey	ch03/rsa.c	/^const unsigned char TestPrivateKey[] = {$/;"	v
+TestPrivateKey	ch08/rsa.c	/^const unsigned char TestPrivateKey[] = {$/;"	v
+TestPublicKey	ch03/rsa.c	/^const unsigned char TestPublicKey[] = { 0x01, 0x00, 0x01 };$/;"	v
+TestPublicKey	ch08/rsa.c	/^const unsigned char TestPublicKey[] = { 0x01, 0x00, 0x01 };$/;"	v
+VERIFY_DATA_LEN	ch06/tls.c	703;"	d	file:
+VERIFY_DATA_LEN	ch07/tls.c	987;"	d	file:
+VERIFY_DATA_LEN	ch08/tls.h	122;"	d
+VERIFY_DATA_LEN	ch09/tls.h	159;"	d
+X509_H	ch05/x509.h	2;"	d
+X509_H	ch06/x509.h	2;"	d
+X509_H	ch09/x509.h	2;"	d
+Y	ch03/dh.h	/^  huge Y; \/\/ Ys for server or Yc for client$/;"	m	struct:__anon4
+a	ch03/ecc_int.h	/^  int a; $/;"	m	struct:__anon3
+a	ch04/ecc.h	/^  huge a;$/;"	m	struct:__anon41
+a	ch09/ecc.h	/^  huge a;$/;"	m	struct:__anon98
+access_denied	ch06/tls.h	/^  access_denied = 49,$/;"	e	enum:__anon20
+access_denied	ch07/tls.h	/^  access_denied = 49,$/;"	e	enum:__anon52
+access_denied	ch08/tls.h	/^  access_denied = 49,$/;"	e	enum:__anon73
+access_denied	ch09/tls.h	/^  access_denied = 49,$/;"	e	enum:__anon109
+active_cipher_spec	appC/ssl.h	/^  CipherSpec *active_cipher_spec;$/;"	m	struct:__anon30
+active_recv_parameters	ch06/tls.h	/^  ProtectionParameters  active_recv_parameters;$/;"	m	struct:__anon17
+active_recv_parameters	ch07/tls.h	/^  ProtectionParameters  active_recv_parameters;$/;"	m	struct:__anon49
+active_recv_parameters	ch08/tls.h	/^  ProtectionParameters  active_recv_parameters;$/;"	m	struct:__anon70
+active_recv_parameters	ch09/tls.h	/^  ProtectionParameters  active_recv_parameters;$/;"	m	struct:__anon106
+active_send_parameters	ch06/tls.h	/^  ProtectionParameters  active_send_parameters;$/;"	m	struct:__anon17
+active_send_parameters	ch07/tls.h	/^  ProtectionParameters  active_send_parameters;$/;"	m	struct:__anon49
+active_send_parameters	ch08/tls.h	/^  ProtectionParameters  active_send_parameters;$/;"	m	struct:__anon70
+active_send_parameters	ch09/tls.h	/^  ProtectionParameters  active_send_parameters;$/;"	m	struct:__anon106
+add	ch03/huge.c	/^void add( huge *h1, huge *h2 )$/;"	f
+add_client_hello_extensions	ch08/tls.c	/^static unsigned short add_client_hello_extensions( unsigned char **extensions,$/;"	f	file:
+add_client_hello_extensions	ch09/tls.c	/^static unsigned short add_client_hello_extensions( unsigned char **extensions,$/;"	f	file:
+add_mac	appC/ssl.c	/^static void add_mac( unsigned char *target, $/;"	f	file:
+add_magnitude	ch03/huge.c	/^void add_magnitude( huge *h1, huge *h2 )$/;"	f
+add_points	ch03/ecc_int.c	/^static void add_points( point *p1, point *p2, int p ) $/;"	f	file:
+add_points	ch04/ecc.c	/^void add_points( point *p1, point *p2, huge *p )$/;"	f
+add_points	ch09/ecc.c	/^void add_points( point *p1, point *p2, huge *p )$/;"	f
+add_renegotiation_extension	ch08/tls.c	/^static unsigned short add_renegotiation_extension($/;"	f	file:
+add_renegotiation_extension	ch09/tls.c	/^static unsigned short add_renegotiation_extension($/;"	f	file:
+add_round_key	ch02/aes.c	/^static void add_round_key( unsigned char state[ ][ 4 ], $/;"	f	file:
+add_round_key	ch09/aes.c	/^static void add_round_key( unsigned char state[ ][ 4 ], $/;"	f	file:
+aead_decrypt	ch09/tls.h	/^  int (*aead_decrypt)( const unsigned char *ciphertext,$/;"	m	struct:__anon103
+aead_encrypt	ch09/tls.h	/^  int (*aead_encrypt)( const unsigned char *plaintext,$/;"	m	struct:__anon103
+aes_128_decrypt	ch02/aes.c	/^void aes_128_decrypt( const unsigned char *ciphertext,$/;"	f
+aes_128_decrypt	ch09/aes.c	/^void aes_128_decrypt( const unsigned char *ciphertext,$/;"	f
+aes_128_encrypt	ch02/aes.c	/^void aes_128_encrypt( const unsigned char *plaintext,$/;"	f
+aes_128_encrypt	ch09/aes.c	/^void aes_128_encrypt( const unsigned char *plaintext,$/;"	f
+aes_256_decrypt	ch02/aes.c	/^void aes_256_decrypt( const unsigned char *ciphertext,$/;"	f
+aes_256_decrypt	ch09/aes.c	/^void aes_256_decrypt( const unsigned char *ciphertext,$/;"	f
+aes_256_encrypt	ch02/aes.c	/^void aes_256_encrypt( const unsigned char *plaintext,$/;"	f
+aes_256_encrypt	ch09/aes.c	/^void aes_256_encrypt( const unsigned char *plaintext,$/;"	f
+aes_block_decrypt	ch02/aes.c	/^static void aes_block_decrypt( const unsigned char *input_block,$/;"	f	file:
+aes_block_decrypt	ch09/aes.c	/^static void aes_block_decrypt( const unsigned char *input_block,$/;"	f	file:
+aes_block_encrypt	ch02/aes.c	/^static void aes_block_encrypt( const unsigned char *input_block,$/;"	f	file:
+aes_block_encrypt	ch09/aes.c	/^static void aes_block_encrypt( const unsigned char *input_block,$/;"	f	file:
+aes_cbc_mac	ch09/aes.c	/^void aes_cbc_mac( const unsigned char *key,$/;"	f
+aes_ccm_decrypt	ch09/aes.c	/^int aes_ccm_decrypt( const unsigned char *input,$/;"	f
+aes_ccm_encrypt	ch09/aes.c	/^int aes_ccm_encrypt( const unsigned char *input,$/;"	f
+aes_ccm_process	ch09/aes.c	/^int aes_ccm_process( const unsigned char *input,$/;"	f
+aes_ctr_encrypt	ch09/aes.c	/^void aes_ctr_encrypt( const unsigned char *input,$/;"	f
+aes_decrypt	ch02/aes.c	/^static void aes_decrypt( const unsigned char *input,$/;"	f	file:
+aes_decrypt	ch09/aes.c	/^static void aes_decrypt( const unsigned char *input,$/;"	f	file:
+aes_encrypt	ch02/aes.c	/^static void aes_encrypt( const unsigned char *input,$/;"	f	file:
+aes_encrypt	ch09/aes.c	/^static void aes_encrypt( const unsigned char *input,$/;"	f	file:
+aes_gcm_decrypt	ch09/aes.c	/^int aes_gcm_decrypt( const unsigned char *input,$/;"	f
+aes_gcm_encrypt	ch09/aes.c	/^int aes_gcm_encrypt( const unsigned char *input,$/;"	f
+aes_gcm_process	ch09/aes.c	/^int aes_gcm_process( const unsigned char *input,$/;"	f
+algorithm	ch05/x509.h	/^  algorithmIdentifier algorithm;$/;"	m	struct:__anon122
+algorithm	ch05/x509.h	/^  signatureAlgorithmIdentifier algorithm;$/;"	m	struct:__anon124
+algorithm	ch06/x509.h	/^  algorithmIdentifier algorithm;$/;"	m	struct:__anon11
+algorithm	ch06/x509.h	/^  signatureAlgorithmIdentifier algorithm;$/;"	m	struct:__anon13
+algorithm	ch09/x509.h	/^  algorithmIdentifier algorithm;$/;"	m	struct:__anon86
+algorithm	ch09/x509.h	/^  signatureAlgorithmIdentifier algorithm;$/;"	m	struct:__anon88
+algorithmIdentifier	ch05/x509.h	/^algorithmIdentifier;$/;"	t	typeref:enum:__anon118
+algorithmIdentifier	ch06/x509.h	/^algorithmIdentifier;$/;"	t	typeref:enum:__anon7
+algorithmIdentifier	ch09/x509.h	/^algorithmIdentifier;$/;"	t	typeref:enum:__anon82
+anonymous	ch09/tls.h	/^  anonymous = 0,$/;"	e	enum:__anon102
+append_buffer	appC/ssl.c	/^static char *append_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+append_buffer	ch06/tls.c	/^static char *append_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+append_buffer	ch07/tls.c	/^static char *append_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+append_buffer	ch08/tls.c	/^static char *append_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+append_buffer	ch09/tls.c	/^static char *append_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+asn1_get_bit	ch05/x509.c	/^int asn1_get_bit( const int length,$/;"	f
+asn1_get_bit	ch06/x509.c	/^int asn1_get_bit( const int length,$/;"	f
+asn1_get_bit	ch08/x509.c	/^int asn1_get_bit( const int length,$/;"	f
+asn1_get_bit	ch09/x509.c	/^int asn1_get_bit( const int length,$/;"	f
+asn1free	ch05/asn1.c	/^void asn1free( struct asn1struct *node )$/;"	f
+asn1parse	ch05/asn1.c	/^int asn1parse( const unsigned char *buffer, $/;"	f
+asn1show	ch05/asn1.c	/^void asn1show( int depth, struct asn1struct *certificate )$/;"	f
+asn1struct	ch05/asn1.h	/^struct asn1struct$/;"	s
+b	ch03/ecc_int.h	/^  int b; $/;"	m	struct:__anon3
+b	ch04/ecc.h	/^  huge b;$/;"	m	struct:__anon41
+b	ch09/ecc.h	/^  huge b;$/;"	m	struct:__anon98
+bad_certificate	ch06/tls.h	/^  bad_certificate = 42,$/;"	e	enum:__anon20
+bad_certificate	ch07/tls.h	/^  bad_certificate = 42,$/;"	e	enum:__anon52
+bad_certificate	ch08/tls.h	/^  bad_certificate = 42,$/;"	e	enum:__anon73
+bad_certificate	ch09/tls.h	/^  bad_certificate = 42,$/;"	e	enum:__anon109
+bad_record_mac	ch06/tls.h	/^  bad_record_mac = 20,$/;"	e	enum:__anon20
+bad_record_mac	ch07/tls.h	/^  bad_record_mac = 20,$/;"	e	enum:__anon52
+bad_record_mac	ch08/tls.h	/^  bad_record_mac = 20,$/;"	e	enum:__anon73
+bad_record_mac	ch09/tls.h	/^  bad_record_mac = 20,$/;"	e	enum:__anon109
+base64	ch01/base64.c	/^static char *base64 = $/;"	v	file:
+base64_decode	ch01/base64.c	/^int base64_decode( const unsigned char *input, int len, unsigned char *output )$/;"	f
+base64_encode	ch01/base64.c	/^void base64_encode( const unsigned char *input, int len, unsigned char *output )$/;"	f
+block	ch04/digest.h	/^  unsigned char block[ DIGEST_BLOCK_SIZE ];$/;"	m	struct:__anon37
+block_finalize	ch04/digest.h	/^  void (*block_finalize)(unsigned char *block, int length );$/;"	m	struct:__anon37
+block_len	ch04/digest.h	/^  int block_len;$/;"	m	struct:__anon37
+block_operate	ch04/digest.h	/^  void (*block_operate)(const unsigned char *input, unsigned int hash[] );$/;"	m	struct:__anon37
+block_size	appC/ssl.h	/^  int                   block_size;$/;"	m	struct:__anon29
+block_size	ch06/tls.h	/^  int                   block_size;$/;"	m	struct:__anon15
+block_size	ch07/tls.h	/^  int                   block_size;$/;"	m	struct:__anon46
+block_size	ch08/tls.h	/^  int                   block_size;$/;"	m	struct:__anon67
+block_size	ch09/tls.h	/^  int                   block_size;$/;"	m	struct:__anon103
+build_error_response	ch01/webserver.c	/^static void build_error_response( int connection, int error_code )$/;"	f	file:
+build_error_response	ch07/ssl_webserver.c	/^static void build_error_response( int connection, $/;"	f	file:
+build_success_response	ch01/webserver.c	/^static void build_success_response( int connection )$/;"	f	file:
+build_success_response	ch07/ssl_webserver.c	/^static void build_success_response( int connection, TLSParameters *tls_context )$/;"	f	file:
+bulk_decrypt	appC/ssl.h	/^  void (*bulk_decrypt)( const unsigned char *ciphertext,$/;"	m	struct:__anon29
+bulk_decrypt	ch06/tls.h	/^  void (*bulk_decrypt)( const unsigned char *ciphertext,$/;"	m	struct:__anon15
+bulk_decrypt	ch07/tls.h	/^  void (*bulk_decrypt)( const unsigned char *ciphertext,$/;"	m	struct:__anon46
+bulk_decrypt	ch08/tls.h	/^  void (*bulk_decrypt)( const unsigned char *ciphertext,$/;"	m	struct:__anon67
+bulk_decrypt	ch09/tls.h	/^  void (*bulk_decrypt)( const unsigned char *ciphertext,$/;"	m	struct:__anon103
+bulk_encrypt	appC/ssl.h	/^  void (*bulk_encrypt)( const unsigned char *plaintext,$/;"	m	struct:__anon29
+bulk_encrypt	ch06/tls.h	/^  void (*bulk_encrypt)( const unsigned char *plaintext,$/;"	m	struct:__anon15
+bulk_encrypt	ch07/tls.h	/^  void (*bulk_encrypt)( const unsigned char *plaintext,$/;"	m	struct:__anon46
+bulk_encrypt	ch08/tls.h	/^  void (*bulk_encrypt)( const unsigned char *plaintext,$/;"	m	struct:__anon67
+bulk_encrypt	ch09/tls.h	/^  void (*bulk_encrypt)( const unsigned char *plaintext,$/;"	m	struct:__anon103
+calculate_keys	ch06/tls.c	/^static void calculate_keys( TLSParameters *parameters )$/;"	f	file:
+calculate_keys	ch07/tls.c	/^static void calculate_keys( TLSParameters *parameters )$/;"	f	file:
+calculate_keys	ch08/tls.c	/^static void calculate_keys( TLSParameters *parameters )$/;"	f	file:
+calculate_keys	ch09/tls.c	/^static void calculate_keys( TLSParameters *parameters )$/;"	f	file:
+certificate	appC/ssl.h	/^  signed_x509_certificate certificate; $/;"	m	struct:__anon32
+certificate	ch06/tls.h	/^  certificate = 11,$/;"	e	enum:__anon25
+certificate	ch07/tls.h	/^  certificate = 11,$/;"	e	enum:__anon57
+certificate	ch08/tls.h	/^  certificate = 11,$/;"	e	enum:__anon78
+certificate	ch09/tls.h	/^  certificate = 11,$/;"	e	enum:__anon114
+certificate_authority	ch05/x509.h	/^  int certificate_authority; \/\/ 1 if this is a CA, 0 if not$/;"	m	struct:__anon123
+certificate_authority	ch06/x509.h	/^  int certificate_authority; \/\/ 1 if this is a CA, 0 if not$/;"	m	struct:__anon12
+certificate_authority	ch09/x509.h	/^  int certificate_authority; \/\/ 1 if this is a CA, 0 if not$/;"	m	struct:__anon87
+certificate_expired	ch06/tls.h	/^  certificate_expired = 45,$/;"	e	enum:__anon20
+certificate_expired	ch07/tls.h	/^  certificate_expired = 45,$/;"	e	enum:__anon52
+certificate_expired	ch08/tls.h	/^  certificate_expired = 45,$/;"	e	enum:__anon73
+certificate_expired	ch09/tls.h	/^  certificate_expired = 45,$/;"	e	enum:__anon109
+certificate_length	appC/ssl.h	/^  unsigned short certificate_length; $/;"	m	struct:__anon32
+certificate_request	ch06/tls.h	/^  certificate_request = 13,$/;"	e	enum:__anon25
+certificate_request	ch07/tls.h	/^  certificate_request = 13,$/;"	e	enum:__anon57
+certificate_request	ch08/tls.h	/^  certificate_request = 13,$/;"	e	enum:__anon78
+certificate_request	ch09/tls.h	/^  certificate_request = 13,$/;"	e	enum:__anon114
+certificate_revoked	ch06/tls.h	/^  certificate_revoked = 44,$/;"	e	enum:__anon20
+certificate_revoked	ch07/tls.h	/^  certificate_revoked = 44,$/;"	e	enum:__anon52
+certificate_revoked	ch08/tls.h	/^  certificate_revoked = 44,$/;"	e	enum:__anon73
+certificate_revoked	ch09/tls.h	/^  certificate_revoked = 44,$/;"	e	enum:__anon109
+certificate_type	appC/ssl.h	/^  unsigned char certificate_type; $/;"	m	struct:__anon32
+certificate_type	ch08/tls.c	/^certificate_type;$/;"	t	typeref:enum:__anon63	file:
+certificate_type	ch09/tls.c	/^certificate_type;$/;"	t	typeref:enum:__anon94	file:
+certificate_types_count	ch08/tls.c	/^  unsigned char certificate_types_count;$/;"	m	struct:__anon64	file:
+certificate_types_count	ch09/tls.c	/^  unsigned char certificate_types_count;$/;"	m	struct:__anon96	file:
+certificate_unknown	ch06/tls.h	/^  certificate_unknown = 46,$/;"	e	enum:__anon20
+certificate_unknown	ch07/tls.h	/^  certificate_unknown = 46,$/;"	e	enum:__anon52
+certificate_unknown	ch08/tls.h	/^  certificate_unknown = 46,$/;"	e	enum:__anon73
+certificate_unknown	ch09/tls.h	/^  certificate_unknown = 46,$/;"	e	enum:__anon109
+certificate_verify	ch06/tls.h	/^  certificate_verify = 15,$/;"	e	enum:__anon25
+certificate_verify	ch07/tls.h	/^  certificate_verify = 15,$/;"	e	enum:__anon57
+certificate_verify	ch08/tls.h	/^  certificate_verify = 15,$/;"	e	enum:__anon78
+certificate_verify	ch09/tls.h	/^  certificate_verify = 15,$/;"	e	enum:__anon114
+ch	ch04/sha.c	/^unsigned int ch( unsigned int x, unsigned int y, unsigned int z )$/;"	f
+challenge	appC/ssl.h	/^  unsigned char *challenge; $/;"	m	struct:__anon31
+challenge	appC/ssl.h	/^  unsigned char challenge[ CHALLENGE_LEN ]; $/;"	m	struct:__anon35
+challenge	appC/ssl.h	/^  unsigned char challenge[ CHALLENGE_LEN ];$/;"	m	struct:__anon30
+challenge_length	appC/ssl.h	/^  unsigned short challenge_length; $/;"	m	struct:__anon31
+children	ch05/asn1.h	/^ struct asn1struct *children;$/;"	m	struct:asn1struct	typeref:struct:asn1struct::asn1struct
+cipher_kind	appC/ssl.h	/^  unsigned char cipher_kind[ 3 ]; $/;"	m	struct:__anon33
+cipher_spec_code	appC/ssl.h	/^  int cipher_spec_code;$/;"	m	struct:__anon29
+cipher_specs	appC/ssl.h	/^  unsigned char *cipher_specs; $/;"	m	struct:__anon31
+cipher_specs	appC/ssl.h	/^  unsigned char *cipher_specs; $/;"	m	struct:__anon32
+cipher_specs_length	appC/ssl.h	/^  unsigned short cipher_specs_length; $/;"	m	struct:__anon31
+cipher_specs_length	appC/ssl.h	/^  unsigned short cipher_specs_length; $/;"	m	struct:__anon32
+cipher_suite	ch06/tls.h	/^  unsigned short    cipher_suite;$/;"	m	struct:__anon28
+cipher_suite	ch07/tls.h	/^  unsigned short    cipher_suite;$/;"	m	struct:__anon60
+cipher_suite	ch08/tls.h	/^  unsigned short    cipher_suite;$/;"	m	struct:__anon81
+cipher_suite	ch09/tls.h	/^  unsigned short    cipher_suite;$/;"	m	struct:__anon117
+cipher_suites	ch06/tls.h	/^  unsigned short *cipher_suites;$/;"	m	struct:__anon27
+cipher_suites	ch07/tls.h	/^  unsigned short *cipher_suites;$/;"	m	struct:__anon59
+cipher_suites	ch08/tls.h	/^  unsigned short *cipher_suites;$/;"	m	struct:__anon80
+cipher_suites	ch09/tls.h	/^  unsigned short *cipher_suites;$/;"	m	struct:__anon116
+cipher_suites_length	ch06/tls.h	/^  unsigned short cipher_suites_length;$/;"	m	struct:__anon27
+cipher_suites_length	ch07/tls.h	/^  unsigned short cipher_suites_length;$/;"	m	struct:__anon59
+cipher_suites_length	ch08/tls.h	/^  unsigned short cipher_suites_length;$/;"	m	struct:__anon80
+cipher_suites_length	ch09/tls.h	/^  unsigned short cipher_suites_length;$/;"	m	struct:__anon116
+clear_key	appC/ssl.h	/^  unsigned char *clear_key; $/;"	m	struct:__anon33
+clear_key_len	appC/ssl.h	/^  unsigned short clear_key_len; $/;"	m	struct:__anon33
+client_hello	ch06/tls.h	/^  client_hello = 1,$/;"	e	enum:__anon25
+client_hello	ch07/tls.h	/^  client_hello = 1,$/;"	e	enum:__anon57
+client_hello	ch08/tls.h	/^  client_hello = 1,$/;"	e	enum:__anon78
+client_hello	ch09/tls.h	/^  client_hello = 1,$/;"	e	enum:__anon114
+client_key_exchange	ch06/tls.h	/^  client_key_exchange = 16,$/;"	e	enum:__anon25
+client_key_exchange	ch07/tls.h	/^  client_key_exchange = 16,$/;"	e	enum:__anon57
+client_key_exchange	ch08/tls.h	/^  client_key_exchange = 16,$/;"	e	enum:__anon78
+client_key_exchange	ch09/tls.h	/^  client_key_exchange = 16,$/;"	e	enum:__anon114
+client_random	ch06/tls.h	/^  random_type           client_random;$/;"	m	struct:__anon17
+client_random	ch07/tls.h	/^  random_type           client_random;$/;"	m	struct:__anon49
+client_random	ch08/tls.h	/^  random_type           client_random;$/;"	m	struct:__anon70
+client_random	ch09/tls.h	/^  random_type           client_random;$/;"	m	struct:__anon106
+client_verify_data	ch08/tls.h	/^  unsigned char         client_verify_data[ VERIFY_DATA_LEN ];$/;"	m	struct:__anon70
+client_verify_data	ch09/tls.h	/^  unsigned char         client_verify_data[ VERIFY_DATA_LEN ];$/;"	m	struct:__anon106
+client_version	ch06/tls.h	/^  ProtocolVersion client_version;$/;"	m	struct:__anon27
+client_version	ch07/tls.h	/^  ProtocolVersion client_version;$/;"	m	struct:__anon59
+client_version	ch08/tls.h	/^  ProtocolVersion client_version;$/;"	m	struct:__anon80
+client_version	ch09/tls.h	/^  ProtocolVersion client_version;$/;"	m	struct:__anon116
+close_notify	ch06/tls.h	/^  close_notify = 0,$/;"	e	enum:__anon20
+close_notify	ch07/tls.h	/^  close_notify = 0,$/;"	e	enum:__anon52
+close_notify	ch08/tls.h	/^  close_notify = 0,$/;"	e	enum:__anon73
+close_notify	ch09/tls.h	/^  close_notify = 0,$/;"	e	enum:__anon109
+compare	ch03/huge.c	/^int compare( huge *h1, huge *h2 )$/;"	f
+compressed	ch09/tls.c	/^  compressed = 3,$/;"	e	enum:__anon93	file:
+compression_method	ch06/tls.h	/^  unsigned char     compression_method;$/;"	m	struct:__anon28
+compression_method	ch07/tls.h	/^  unsigned char     compression_method;$/;"	m	struct:__anon60
+compression_method	ch08/tls.h	/^  unsigned char     compression_method;$/;"	m	struct:__anon81
+compression_method	ch09/tls.h	/^  unsigned char     compression_method;$/;"	m	struct:__anon117
+compression_methods	ch06/tls.h	/^  unsigned char *compression_methods;$/;"	m	struct:__anon27
+compression_methods	ch07/tls.h	/^  unsigned char *compression_methods;$/;"	m	struct:__anon59
+compression_methods	ch08/tls.h	/^  unsigned char *compression_methods;$/;"	m	struct:__anon80
+compression_methods	ch09/tls.h	/^  unsigned char *compression_methods;$/;"	m	struct:__anon116
+compression_methods_length	ch06/tls.h	/^  unsigned char compression_methods_length;$/;"	m	struct:__anon27
+compression_methods_length	ch07/tls.h	/^  unsigned char compression_methods_length;$/;"	m	struct:__anon59
+compression_methods_length	ch08/tls.h	/^  unsigned char compression_methods_length;$/;"	m	struct:__anon80
+compression_methods_length	ch09/tls.h	/^  unsigned char compression_methods_length;$/;"	m	struct:__anon116
+compute_handshake_hash	ch06/tls.c	/^void compute_handshake_hash( TLSParameters *parameters, unsigned char *handshake_hash )$/;"	f
+compute_handshake_hash	ch07/tls.c	/^void compute_handshake_hash( TLSParameters *parameters, unsigned char *handshake_hash )$/;"	f
+compute_handshake_hash	ch08/tls.c	/^void compute_handshake_hash( TLSParameters *parameters, unsigned char *handshake_hash )$/;"	f
+compute_handshake_hash	ch09/tls.c	/^void compute_handshake_hash( TLSParameters *parameters, unsigned char *handshake_hash )$/;"	f
+compute_key_schedule	ch02/aes.c	/^static void compute_key_schedule( const unsigned char *key,$/;"	f	file:
+compute_key_schedule	ch09/aes.c	/^static void compute_key_schedule( const unsigned char *key,$/;"	f	file:
+compute_keys	appC/ssl.c	/^static void compute_keys( SSLParameters *parameters ) $/;"	f	file:
+compute_master_secret	ch06/tls.c	/^static void compute_master_secret( const unsigned char *premaster_secret,$/;"	f	file:
+compute_master_secret	ch07/tls.c	/^static void compute_master_secret( const unsigned char *premaster_secret,$/;"	f	file:
+compute_master_secret	ch08/tls.c	/^static void compute_master_secret( const unsigned char *premaster_secret,$/;"	f	file:
+compute_master_secret	ch09/tls.c	/^static void compute_master_secret( const unsigned char *premaster_secret,$/;"	f	file:
+compute_verify_data	ch06/tls.c	/^static void compute_verify_data( const char *finished_label,$/;"	f	file:
+compute_verify_data	ch07/tls.c	/^static void compute_verify_data( const char *finished_label,$/;"	f	file:
+compute_verify_data	ch08/tls.c	/^static void compute_verify_data( const char *finished_label,$/;"	f	file:
+compute_verify_data	ch09/tls.c	/^static void compute_verify_data( const char *finished_label,$/;"	f	file:
+connection_end	ch07/tls.h	/^  ConnectionEnd         connection_end;$/;"	m	struct:__anon49
+connection_end	ch08/tls.h	/^  ConnectionEnd         connection_end;$/;"	m	struct:__anon70
+connection_end	ch09/tls.h	/^  ConnectionEnd         connection_end;$/;"	m	struct:__anon106
+connection_end_client	ch07/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	e	enum:__anon48
+connection_end_client	ch08/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	e	enum:__anon69
+connection_end_client	ch09/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	e	enum:__anon105
+connection_end_server	ch07/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	e	enum:__anon48
+connection_end_server	ch08/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	e	enum:__anon69
+connection_end_server	ch09/tls.h	/^typedef enum { connection_end_client, connection_end_server } ConnectionEnd;$/;"	e	enum:__anon105
+connection_id	appC/ssl.h	/^  unsigned char *connection_id; $/;"	m	struct:__anon32
+connection_id	appC/ssl.h	/^  unsigned char *connection_id; $/;"	m	struct:__anon34
+connection_id	appC/ssl.h	/^  unsigned char *connection_id;$/;"	m	struct:__anon30
+connection_id_len	appC/ssl.h	/^  int connection_id_len;$/;"	m	struct:__anon30
+connection_id_length	appC/ssl.h	/^  unsigned short connection_id_length; $/;"	m	struct:__anon32
+constructed	ch05/asn1.h	/^ int constructed;  \/\/ bit 6 of the identifier byte$/;"	m	struct:asn1struct
+content_alert	ch06/tls.h	/^  content_alert = 21, $/;"	e	enum:__anon18
+content_alert	ch07/tls.h	/^  content_alert = 21, $/;"	e	enum:__anon50
+content_alert	ch08/tls.h	/^  content_alert = 21, $/;"	e	enum:__anon71
+content_alert	ch09/tls.h	/^  content_alert = 21, $/;"	e	enum:__anon107
+content_application_data	ch06/tls.h	/^  content_application_data = 23$/;"	e	enum:__anon18
+content_application_data	ch07/tls.h	/^  content_application_data = 23$/;"	e	enum:__anon50
+content_application_data	ch08/tls.h	/^  content_application_data = 23$/;"	e	enum:__anon71
+content_application_data	ch09/tls.h	/^  content_application_data = 23$/;"	e	enum:__anon107
+content_change_cipher_spec	ch06/tls.h	/^  content_change_cipher_spec = 20,$/;"	e	enum:__anon18
+content_change_cipher_spec	ch07/tls.h	/^  content_change_cipher_spec = 20,$/;"	e	enum:__anon50
+content_change_cipher_spec	ch08/tls.h	/^  content_change_cipher_spec = 20,$/;"	e	enum:__anon71
+content_change_cipher_spec	ch09/tls.h	/^  content_change_cipher_spec = 20,$/;"	e	enum:__anon107
+content_handshake	ch06/tls.h	/^  content_handshake = 22,$/;"	e	enum:__anon18
+content_handshake	ch07/tls.h	/^  content_handshake = 22,$/;"	e	enum:__anon50
+content_handshake	ch08/tls.h	/^  content_handshake = 22,$/;"	e	enum:__anon71
+content_handshake	ch09/tls.h	/^  content_handshake = 22,$/;"	e	enum:__anon107
+contract	ch03/huge.c	/^void contract( huge *h )$/;"	f
+copy_huge	ch03/huge.c	/^void copy_huge( huge *tgt, huge *src )$/;"	f
+d	ch04/ecc.h	/^  huge d;  \/\/ random integer < n; this is the private key$/;"	m	struct:__anon42
+d	ch09/ecc.h	/^  huge d;  \/\/ random integer < n; this is the private key$/;"	m	struct:__anon99
+data	ch05/asn1.h	/^ const unsigned char *data;$/;"	m	struct:asn1struct
+decode_error	ch06/tls.h	/^  decode_error = 50,$/;"	e	enum:__anon20
+decode_error	ch07/tls.h	/^  decode_error = 50,$/;"	e	enum:__anon52
+decode_error	ch08/tls.h	/^  decode_error = 50,$/;"	e	enum:__anon73
+decode_error	ch09/tls.h	/^  decode_error = 50,$/;"	e	enum:__anon109
+decompression_failure	ch06/tls.h	/^  decompression_failure = 30,$/;"	e	enum:__anon20
+decompression_failure	ch07/tls.h	/^  decompression_failure = 30,$/;"	e	enum:__anon52
+decompression_failure	ch08/tls.h	/^  decompression_failure = 30,$/;"	e	enum:__anon73
+decompression_failure	ch09/tls.h	/^  decompression_failure = 30,$/;"	e	enum:__anon109
+decrypt_error	ch06/tls.h	/^  decrypt_error = 51,$/;"	e	enum:__anon20
+decrypt_error	ch07/tls.h	/^  decrypt_error = 51,$/;"	e	enum:__anon52
+decrypt_error	ch08/tls.h	/^  decrypt_error = 51,$/;"	e	enum:__anon73
+decrypt_error	ch09/tls.h	/^  decrypt_error = 51,$/;"	e	enum:__anon109
+decryption_failed	ch06/tls.h	/^  decryption_failed = 21,$/;"	e	enum:__anon20
+decryption_failed	ch07/tls.h	/^  decryption_failed = 21,$/;"	e	enum:__anon52
+decryption_failed	ch08/tls.h	/^  decryption_failed = 21,$/;"	e	enum:__anon73
+decryption_failed	ch09/tls.h	/^  decryption_failed = 21,$/;"	e	enum:__anon109
+des3_decrypt	ch02/des.c	/^void des3_decrypt( const unsigned char *ciphertext, $/;"	f
+des3_encrypt	ch02/des.c	/^void des3_encrypt( const unsigned char *plaintext, $/;"	f
+des_block_operate	ch02/des.c	/^static void des_block_operate( const unsigned char plaintext[ DES_BLOCK_SIZE ],$/;"	f	file:
+des_decrypt	ch02/des.c	/^void des_decrypt( const unsigned char *ciphertext, $/;"	f
+des_encrypt	ch02/des.c	/^void des_encrypt( const unsigned char *plaintext, $/;"	f
+des_operate	ch02/des.c	/^static void des_operate( const unsigned char *input, $/;"	f	file:
+description	ch06/tls.h	/^  unsigned char description;$/;"	m	struct:__anon21
+description	ch07/tls.h	/^  unsigned char description;$/;"	m	struct:__anon53
+description	ch08/tls.h	/^  unsigned char description;$/;"	m	struct:__anon74
+description	ch09/tls.h	/^  unsigned char description;$/;"	m	struct:__anon110
+dh	ch05/x509.h	/^  dh$/;"	e	enum:__anon118
+dh	ch06/x509.h	/^  dh$/;"	e	enum:__anon7
+dh	ch09/x509.h	/^  dh,$/;"	e	enum:__anon82
+dh_key	ch03/dh.h	/^dh_key;$/;"	t	typeref:struct:__anon4
+dh_key_exchange	ch06/tls.c	/^int dh_key_exchange( dh_key *server_dh_key,$/;"	f
+dh_key_exchange	ch07/tls.c	/^int dh_key_exchange( dh_key *server_dh_key,$/;"	f
+dh_key_exchange	ch08/tls.c	/^int dh_key_exchange( dh_key *server_dh_key,$/;"	f
+dh_key_exchange	ch09/tls.c	/^int dh_key_exchange( dh_key *server_dh_key,$/;"	f
+digest_ctx	ch04/digest.h	/^digest_ctx;$/;"	t	typeref:struct:__anon37
+digest_hash	ch04/digest.c	/^int digest_hash( unsigned char *input, $/;"	f
+display_result	appC/https.c	/^void display_result( int connection, SSLParameters *ssl_context )$/;"	f
+display_result	ch01/http.c	/^void display_result( int connection )$/;"	f
+display_result	ch06/https.c	/^void display_result( int connection, TLSParameters *tls_context )$/;"	f
+display_result	ch08/https.c	/^void display_result( int connection, TLSParameters *tls_context )$/;"	f
+display_result	ch10/https.c	/^void display_result( int connection, TLSParameters *tls_context )$/;"	f
+display_result	ch10/https_openssl.c	/^void display_result( int connection, SSL *ssl )$/;"	f
+display_x509_certificate	ch05/x509.c	/^static void display_x509_certificate( signed_x509_certificate *certificate )$/;"	f	file:
+display_x509_certificate	ch06/x509.c	/^static void display_x509_certificate( signed_x509_certificate *certificate )$/;"	f	file:
+display_x509_certificate	ch08/x509.c	/^static void display_x509_certificate( signed_x509_certificate *certificate )$/;"	f	file:
+display_x509_certificate	ch09/x509.c	/^static void display_x509_certificate( signed_x509_certificate *certificate )$/;"	f	file:
+divide	ch03/huge.c	/^void divide( huge *dividend, huge *divisor, huge *quotient )$/;"	f
+domain_parameters	ch03/ecc_int.h	/^domain_parameters;$/;"	t	typeref:struct:__anon3
+dot	ch02/aes.c	/^unsigned char dot( unsigned char x, unsigned char y )$/;"	f
+dot	ch09/aes.c	/^unsigned char dot( unsigned char x, unsigned char y )$/;"	f
+double_point	ch03/ecc_int.c	/^static void double_point( point *p1, int p, int a ) $/;"	f	file:
+double_point	ch04/ecc.c	/^static void double_point( point *p1, huge *a, huge *p )$/;"	f	file:
+double_point	ch09/ecc.c	/^static void double_point( point *p1, huge *a, huge *p )$/;"	f	file:
+dsa	ch05/x509.h	/^  dsa,$/;"	e	enum:__anon118
+dsa	ch06/x509.h	/^  dsa,$/;"	e	enum:__anon7
+dsa	ch09/x509.h	/^  dsa,$/;"	e	enum:__anon82
+dsa_parameters	ch05/x509.h	/^  dsa_params dsa_parameters;$/;"	m	struct:__anon122
+dsa_parameters	ch06/x509.h	/^  dsa_params dsa_parameters;$/;"	m	struct:__anon11
+dsa_parameters	ch09/x509.h	/^  dsa_params dsa_parameters;$/;"	m	struct:__anon86
+dsa_params	ch04/dsa.h	/^dsa_params;$/;"	t	typeref:struct:__anon38
+dsa_public_key	ch05/x509.h	/^  huge dsa_public_key;$/;"	m	struct:__anon122
+dsa_public_key	ch06/x509.h	/^  huge dsa_public_key;$/;"	m	struct:__anon11
+dsa_public_key	ch09/x509.h	/^  huge dsa_public_key;$/;"	m	struct:__anon86
+dsa_sign	ch04/dsa.c	/^void dsa_sign( dsa_params *params,$/;"	f
+dsa_signature	ch04/dsa.h	/^dsa_signature;$/;"	t	typeref:struct:__anon39
+dsa_signature_value	ch05/x509.h	/^  dsa_signature dsa_signature_value;$/;"	m	struct:__anon124
+dsa_signature_value	ch06/x509.h	/^  dsa_signature dsa_signature_value;$/;"	m	struct:__anon13
+dsa_signature_value	ch09/x509.h	/^  dsa_signature dsa_signature_value;$/;"	m	struct:__anon88
+dsa_verify	ch04/dsa.c	/^int dsa_verify( dsa_params *params,$/;"	f
+dss_fixed_dh	ch08/tls.c	/^  dss_fixed_dh = 4$/;"	e	enum:__anon63	file:
+dss_fixed_dh	ch09/tls.c	/^  dss_fixed_dh = 4$/;"	e	enum:__anon94	file:
+dss_signed	ch08/tls.c	/^  dss_signed = 2,$/;"	e	enum:__anon63	file:
+dss_signed	ch09/tls.c	/^  dss_signed = 2,$/;"	e	enum:__anon94	file:
+ec_curve_type	ch09/tls.c	/^ec_curve_type;$/;"	t	typeref:enum:__anon92	file:
+ec_point_type	ch09/tls.c	/^ec_point_type;$/;"	t	typeref:enum:__anon93	file:
+ecc_key	ch04/ecc.h	/^ecc_key;$/;"	t	typeref:struct:__anon42
+ecc_key	ch09/ecc.h	/^ecc_key;$/;"	t	typeref:struct:__anon99
+ecdh_key_exchange	ch09/tls.c	/^int ecdh_key_exchange( point *server_ecdh_key,$/;"	f
+ecdsa	ch09/x509.h	/^  ecdsa$/;"	e	enum:__anon82
+ecdsa_curve	ch09/x509.h	/^  elliptic_curve ecdsa_curve;$/;"	m	struct:__anon86
+ecdsa_public_key	ch09/x509.h	/^  point ecdsa_public_key;$/;"	m	struct:__anon86
+ecdsa_sign	ch04/ecdsa.c	/^void ecdsa_sign( elliptic_curve *params, $/;"	f
+ecdsa_verify	ch04/ecdsa.c	/^int ecdsa_verify( elliptic_curve *params,$/;"	f
+elliptic_curve	ch04/ecc.h	/^elliptic_curve;$/;"	t	typeref:struct:__anon41
+elliptic_curve	ch09/ecc.h	/^elliptic_curve;$/;"	t	typeref:struct:__anon98
+encrypted_key	appC/ssl.h	/^  unsigned char *encrypted_key; $/;"	m	struct:__anon33
+encrypted_key_len	appC/ssl.h	/^  unsigned short encrypted_key_len; $/;"	m	struct:__anon33
+expand	ch03/huge.c	/^void expand( huge *h )$/;"	f
+expansion_table	ch02/des.c	/^static const int expansion_table[] = { $/;"	v	file:
+explicit_char2	ch09/tls.c	/^  explicit_char2 = 2,$/;"	e	enum:__anon92	file:
+explicit_prime	ch09/tls.c	/^  explicit_prime = 1,$/;"	e	enum:__anon92	file:
+exponent	ch03/rsa.h	/^  huge *exponent;$/;"	m	struct:__anon5
+exponent	ch08/rsa.h	/^  huge *exponent;$/;"	m	struct:__anon65
+exponentiate	ch03/huge.c	/^void exponentiate( huge *h1, huge *exp )$/;"	f
+export_restriction	ch06/tls.h	/^  export_restriction = 60,$/;"	e	enum:__anon20
+export_restriction	ch07/tls.h	/^  export_restriction = 60,$/;"	e	enum:__anon52
+export_restriction	ch08/tls.h	/^  export_restriction = 60,$/;"	e	enum:__anon73
+export_restriction	ch09/tls.h	/^  export_restriction = 60,$/;"	e	enum:__anon109
+ext_euclid	ch03/ecc_int.c	/^int ext_euclid( int z, int a )$/;"	f
+fatal	ch06/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon19
+fatal	ch07/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon51
+fatal	ch08/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon72
+fatal	ch09/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon108
+finalize_digest	ch04/digest.c	/^void finalize_digest( digest_ctx *context )$/;"	f
+find_stored_session	ch08/tls.c	/^static void find_stored_session( int session_id_length,$/;"	f	file:
+find_stored_session	ch09/tls.c	/^static void find_stored_session( int session_id_length,$/;"	f	file:
+finished	ch06/tls.h	/^  finished = 20$/;"	e	enum:__anon25
+finished	ch07/tls.h	/^  finished = 20$/;"	e	enum:__anon57
+finished	ch08/tls.h	/^  finished = 20$/;"	e	enum:__anon78
+finished	ch09/tls.h	/^  finished = 20$/;"	e	enum:__anon114
+fp_table	ch02/des.c	/^static const int fp_table[] = { 40, 8, 48, 16, 56, 24, 64, 32,$/;"	v	file:
+free_huge	ch03/huge.c	/^void free_huge( huge *h )$/;"	f
+free_protection_parameters	ch06/tls.c	/^static void free_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+free_protection_parameters	ch07/tls.c	/^static void free_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+free_protection_parameters	ch08/tls.c	/^static void free_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+free_protection_parameters	ch09/tls.c	/^static void free_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+free_x500_name	ch05/x509.c	/^static void free_x500_name( name *x500_name )$/;"	f	file:
+free_x500_name	ch06/x509.c	/^static void free_x500_name( name *x500_name )$/;"	f	file:
+free_x500_name	ch08/x509.c	/^static void free_x500_name( name *x500_name )$/;"	f	file:
+free_x500_name	ch09/x509.c	/^static void free_x500_name( name *x500_name )$/;"	f	file:
+free_x509_certificate	ch05/x509.c	/^void free_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+free_x509_certificate	ch06/x509.c	/^void free_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+free_x509_certificate	ch08/x509.c	/^void free_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+free_x509_certificate	ch09/x509.c	/^void free_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+g	ch03/dh.h	/^  huge g;$/;"	m	struct:__anon4
+g	ch04/dsa.h	/^  huge g;$/;"	m	struct:__anon38
+generate_message_secret	ch04/dsa.c	/^static void generate_message_secret( dsa_params *params, huge *k )$/;"	f	file:
+get_named_curve	ch09/ecc.c	/^int get_named_curve( const char *curve_name, elliptic_curve *target )$/;"	f
+gf_multiply	ch09/aes.c	/^static void gf_multiply( const unsigned char *X,$/;"	f	file:
+ghash	ch09/aes.c	/^static void ghash( unsigned char *H,$/;"	f	file:
+gmt_unix_time	ch06/tls.h	/^  unsigned int  gmt_unix_time;$/;"	m	struct:__anon24
+gmt_unix_time	ch07/tls.h	/^  unsigned int  gmt_unix_time;$/;"	m	struct:__anon56
+gmt_unix_time	ch08/tls.h	/^  unsigned int  gmt_unix_time;$/;"	m	struct:__anon77
+gmt_unix_time	ch09/tls.h	/^  unsigned int  gmt_unix_time;$/;"	m	struct:__anon113
+got_certificate_request	ch08/tls.h	/^  int                   got_certificate_request;$/;"	m	struct:__anon70
+got_certificate_request	ch09/tls.h	/^  int                   got_certificate_request;$/;"	m	struct:__anon106
+got_client_hello	ch07/tls.h	/^  int                   got_client_hello;$/;"	m	struct:__anon49
+got_client_hello	ch08/tls.h	/^  int                   got_client_hello;$/;"	m	struct:__anon70
+got_client_hello	ch09/tls.h	/^  int                   got_client_hello;$/;"	m	struct:__anon106
+got_server_finished	appC/ssl.h	/^  int got_server_finished;$/;"	m	struct:__anon30
+got_server_hello	appC/ssl.h	/^  int got_server_hello;$/;"	m	struct:__anon30
+got_server_verify	appC/ssl.h	/^  int got_server_verify;$/;"	m	struct:__anon30
+h	ch04/ecc.h	/^  huge h; \/\/ h = #E(F_p)\/n (# is the number of points on the curve)$/;"	m	struct:__anon41
+h	ch09/ecc.h	/^  huge h; \/\/ h = #E(F_p)\/n (# is the number of points on the curve)$/;"	m	struct:__anon98
+handshake_failure	ch06/tls.h	/^  handshake_failure = 40,$/;"	e	enum:__anon20
+handshake_failure	ch07/tls.h	/^  handshake_failure = 40,$/;"	e	enum:__anon52
+handshake_failure	ch08/tls.h	/^  handshake_failure = 40,$/;"	e	enum:__anon73
+handshake_failure	ch09/tls.h	/^  handshake_failure = 40,$/;"	e	enum:__anon109
+handshake_finished	appC/ssl.h	/^  int handshake_finished;$/;"	m	struct:__anon30
+hash	ch04/digest.h	/^  unsigned int *hash;$/;"	m	struct:__anon37
+hash	ch05/x509.h	/^  unsigned int *hash; \/\/ hash code of tbsCertificate$/;"	m	struct:__anon124
+hash	ch06/x509.h	/^  unsigned int *hash; \/\/ hash code of tbsCertificate$/;"	m	struct:__anon13
+hash	ch09/tls.c	/^  HashAlgorithm hash;$/;"	m	struct:__anon95	file:
+hash	ch09/x509.h	/^  unsigned int *hash; \/\/ hash code of tbsCertificate$/;"	m	struct:__anon88
+hash_len	ch04/digest.h	/^  int hash_len;$/;"	m	struct:__anon37
+hash_len	ch05/x509.h	/^  int hash_len;$/;"	m	struct:__anon124
+hash_len	ch06/x509.h	/^  int hash_len;$/;"	m	struct:__anon13
+hash_len	ch09/x509.h	/^  int hash_len;$/;"	m	struct:__anon88
+hash_size	appC/ssl.h	/^  int                   hash_size;$/;"	m	struct:__anon29
+hash_size	ch06/tls.h	/^  int                   hash_size;$/;"	m	struct:__anon15
+hash_size	ch07/tls.h	/^  int                   hash_size;$/;"	m	struct:__anon46
+hash_size	ch08/tls.h	/^  int                   hash_size;$/;"	m	struct:__anon67
+hash_size	ch09/tls.h	/^  int                   hash_size;$/;"	m	struct:__anon103
+hello_request	ch06/tls.h	/^  hello_request = 0,$/;"	e	enum:__anon25
+hello_request	ch07/tls.h	/^  hello_request = 0,$/;"	e	enum:__anon57
+hello_request	ch08/tls.h	/^  hello_request = 0,$/;"	e	enum:__anon78
+hello_request	ch09/tls.h	/^  hello_request = 0,$/;"	e	enum:__anon114
+hex_decode	ch02/hex.c	/^int hex_decode( const unsigned char *input, unsigned char **decoded )$/;"	f
+hmac	ch04/hmac.c	/^void hmac( const unsigned char *key, $/;"	f
+host_name	ch08/tls.c	/^  host_name = 0$/;"	e	enum:__anon62	file:
+host_name	ch09/tls.c	/^  host_name = 0$/;"	e	enum:__anon90	file:
+http_connect	ch10/https.c	/^int http_connect( int connection,$/;"	f
+http_connect	ch10/https_openssl.c	/^int http_connect( int connection,$/;"	f
+http_get	appC/https.c	/^int http_get( int connection, const char *path, const char *host,$/;"	f
+http_get	ch01/http.c	/^int http_get( int connection, const char *path, const char *host,$/;"	f
+http_get	ch06/https.c	/^int http_get( int connection, const char *path, const char *host,$/;"	f
+http_get	ch08/https.c	/^int http_get( int connection, const char *path, const char *host,$/;"	f
+http_get	ch10/https.c	/^int http_get( int connection, const char *path, const char *host,$/;"	f
+http_get	ch10/https_openssl.c	/^int http_get( int connection, const char *path, const char *host,$/;"	f
+huge	ch03/huge.h	/^huge;$/;"	t	typeref:struct:__anon6
+i	ch02/rc4.h	/^  int i;$/;"	m	struct:__anon44
+id	ch06/tls.h	/^  CipherSuiteIdentifier id;$/;"	m	struct:__anon15
+id	ch07/tls.h	/^  CipherSuiteIdentifier id;$/;"	m	struct:__anon46
+id	ch08/tls.h	/^  CipherSuiteIdentifier id;$/;"	m	struct:__anon67
+id	ch09/tls.h	/^  CipherSuiteIdentifier id;$/;"	m	struct:__anon103
+idAtCommonName	ch05/x509.h	/^  char *idAtCommonName;$/;"	m	struct:__anon120
+idAtCommonName	ch06/x509.h	/^  char *idAtCommonName;$/;"	m	struct:__anon9
+idAtCommonName	ch09/x509.h	/^  char *idAtCommonName;$/;"	m	struct:__anon84
+idAtCountryName	ch05/x509.h	/^  char *idAtCountryName;$/;"	m	struct:__anon120
+idAtCountryName	ch06/x509.h	/^  char *idAtCountryName;$/;"	m	struct:__anon9
+idAtCountryName	ch09/x509.h	/^  char *idAtCountryName;$/;"	m	struct:__anon84
+idAtLocalityName	ch05/x509.h	/^  char *idAtLocalityName;$/;"	m	struct:__anon120
+idAtLocalityName	ch06/x509.h	/^  char *idAtLocalityName;$/;"	m	struct:__anon9
+idAtLocalityName	ch09/x509.h	/^  char *idAtLocalityName;$/;"	m	struct:__anon84
+idAtOrganizationName	ch05/x509.h	/^  char *idAtOrganizationName;$/;"	m	struct:__anon120
+idAtOrganizationName	ch06/x509.h	/^  char *idAtOrganizationName;$/;"	m	struct:__anon9
+idAtOrganizationName	ch09/x509.h	/^  char *idAtOrganizationName;$/;"	m	struct:__anon84
+idAtOrganizationalUnitName	ch05/x509.h	/^  char *idAtOrganizationalUnitName;$/;"	m	struct:__anon120
+idAtOrganizationalUnitName	ch06/x509.h	/^  char *idAtOrganizationalUnitName;$/;"	m	struct:__anon9
+idAtOrganizationalUnitName	ch09/x509.h	/^  char *idAtOrganizationalUnitName;$/;"	m	struct:__anon84
+idAtStateOrProvinceName	ch05/x509.h	/^  char *idAtStateOrProvinceName;$/;"	m	struct:__anon120
+idAtStateOrProvinceName	ch06/x509.h	/^  char *idAtStateOrProvinceName;$/;"	m	struct:__anon9
+idAtStateOrProvinceName	ch09/x509.h	/^  char *idAtStateOrProvinceName;$/;"	m	struct:__anon84
+illegal_parameter	ch06/tls.h	/^  illegal_parameter = 47,$/;"	e	enum:__anon20
+illegal_parameter	ch07/tls.h	/^  illegal_parameter = 47,$/;"	e	enum:__anon52
+illegal_parameter	ch08/tls.h	/^  illegal_parameter = 47,$/;"	e	enum:__anon73
+illegal_parameter	ch09/tls.h	/^  illegal_parameter = 47,$/;"	e	enum:__anon109
+init_parameters	appC/ssl.c	/^static void init_parameters( SSLParameters *parameters ) $/;"	f	file:
+init_parameters	ch06/tls.c	/^static void init_parameters( TLSParameters *parameters )$/;"	f	file:
+init_parameters	ch07/tls.c	/^static void init_parameters( TLSParameters *parameters )$/;"	f	file:
+init_parameters	ch08/tls.c	/^static void init_parameters( TLSParameters *parameters,$/;"	f	file:
+init_parameters	ch09/tls.c	/^static void init_parameters( TLSParameters *parameters,$/;"	f	file:
+init_protection_parameters	ch06/tls.c	/^static void init_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+init_protection_parameters	ch07/tls.c	/^static void init_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+init_protection_parameters	ch08/tls.c	/^static void init_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+init_protection_parameters	ch09/tls.c	/^static void init_protection_parameters( ProtectionParameters *parameters )$/;"	f	file:
+init_tls	ch08/tls.c	/^void init_tls()$/;"	f
+init_tls	ch09/tls.c	/^void init_tls()$/;"	f
+init_x509_certificate	ch05/x509.c	/^void init_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+init_x509_certificate	ch06/x509.c	/^void init_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+init_x509_certificate	ch08/x509.c	/^void init_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+init_x509_certificate	ch09/x509.c	/^void init_x509_certificate( signed_x509_certificate *certificate )$/;"	f
+input_len	ch04/digest.h	/^  unsigned int input_len;$/;"	m	struct:__anon37
+insufficient_security	ch06/tls.h	/^  insufficient_security = 71,$/;"	e	enum:__anon20
+insufficient_security	ch07/tls.h	/^  insufficient_security = 71,$/;"	e	enum:__anon52
+insufficient_security	ch08/tls.h	/^  insufficient_security = 71,$/;"	e	enum:__anon73
+insufficient_security	ch09/tls.h	/^  insufficient_security = 71,$/;"	e	enum:__anon109
+internal_error	ch06/tls.h	/^  internal_error = 80,$/;"	e	enum:__anon20
+internal_error	ch07/tls.h	/^  internal_error = 80,$/;"	e	enum:__anon52
+internal_error	ch08/tls.h	/^  internal_error = 80,$/;"	e	enum:__anon73
+internal_error	ch09/tls.h	/^  internal_error = 80,$/;"	e	enum:__anon109
+inv	ch03/huge.c	/^void inv( huge *z, huge *a )$/;"	f
+inv_mix_columns	ch02/aes.c	/^static void inv_mix_columns( unsigned char s[ ][ 4 ] )$/;"	f	file:
+inv_mix_columns	ch09/aes.c	/^static void inv_mix_columns( unsigned char s[ ][ 4 ] )$/;"	f	file:
+inv_sbox	ch02/aes.c	/^static unsigned char inv_sbox[ 16 ][ 16 ] = {$/;"	v	file:
+inv_sbox	ch09/aes.c	/^static unsigned char inv_sbox[ 16 ][ 16 ] = {$/;"	v	file:
+inv_shift_rows	ch02/aes.c	/^static void inv_shift_rows( unsigned char state[ ][ 4 ] )$/;"	f	file:
+inv_shift_rows	ch09/aes.c	/^static void inv_shift_rows( unsigned char state[ ][ 4 ] )$/;"	f	file:
+inv_sub_bytes	ch02/aes.c	/^static void inv_sub_bytes( unsigned char state[ ][ 4 ] )$/;"	f	file:
+inv_sub_bytes	ch09/aes.c	/^static void inv_sub_bytes( unsigned char state[ ][ 4 ] )$/;"	f	file:
+invert	ch03/ecc_int.c	/^static int invert( int x, int y, int p ) $/;"	f	file:
+ip_table	ch02/des.c	/^static const int ip_table[] = { $/;"	v	file:
+issuer	ch05/x509.h	/^  name issuer;$/;"	m	struct:__anon123
+issuer	ch06/x509.h	/^  name issuer;$/;"	m	struct:__anon12
+issuer	ch09/x509.h	/^  name issuer;$/;"	m	struct:__anon87
+issuerUniqueId	ch05/x509.h	/^  uniqueIdentifier issuerUniqueId;$/;"	m	struct:__anon123
+issuerUniqueId	ch06/x509.h	/^  uniqueIdentifier issuerUniqueId;$/;"	m	struct:__anon12
+issuerUniqueId	ch09/x509.h	/^  uniqueIdentifier issuerUniqueId;$/;"	m	struct:__anon87
+j	ch02/rc4.h	/^  int j;$/;"	m	struct:__anon44
+k	ch04/sha.c	/^static const int k[] = { $/;"	v	file:
+key	ch06/tls.h	/^  unsigned char *key;$/;"	m	struct:__anon16
+key	ch07/tls.h	/^  unsigned char *key;$/;"	m	struct:__anon47
+key	ch08/tls.h	/^  unsigned char *key;$/;"	m	struct:__anon68
+key	ch09/tls.h	/^  unsigned char *key;$/;"	m	struct:__anon104
+key_arg	appC/ssl.h	/^  unsigned char *key_arg; $/;"	m	struct:__anon33
+key_arg_len	appC/ssl.h	/^  unsigned short key_arg_len; $/;"	m	struct:__anon33
+key_pair	ch03/ecc_int.h	/^key_pair; $/;"	t	typeref:struct:__anon2
+key_size	appC/ssl.h	/^  int                   key_size;$/;"	m	struct:__anon29
+key_size	ch06/tls.h	/^  int                   key_size;$/;"	m	struct:__anon15
+key_size	ch07/tls.h	/^  int                   key_size;$/;"	m	struct:__anon46
+key_size	ch08/tls.h	/^  int                   key_size;$/;"	m	struct:__anon67
+key_size	ch09/tls.h	/^  int                   key_size;$/;"	m	struct:__anon103
+left_shift	ch03/huge.c	/^void left_shift( huge *h1 )$/;"	f
+length	ch05/asn1.h	/^ int length;$/;"	m	struct:asn1struct
+length	ch06/tls.h	/^  unsigned int        length;       \/\/ 24 bits(!)$/;"	m	struct:__anon26
+length	ch06/tls.h	/^  unsigned short  length;$/;"	m	struct:__anon23
+length	ch07/tls.h	/^  unsigned int        length;       \/\/ 24 bits(!)$/;"	m	struct:__anon58
+length	ch07/tls.h	/^  unsigned short  length;$/;"	m	struct:__anon55
+length	ch08/tls.h	/^  unsigned int        length;       \/\/ 24 bits(!)$/;"	m	struct:__anon79
+length	ch08/tls.h	/^  unsigned short  length;$/;"	m	struct:__anon76
+length	ch09/tls.h	/^  unsigned int        length;       \/\/ 24 bits(!)$/;"	m	struct:__anon115
+length	ch09/tls.h	/^  unsigned short  length;$/;"	m	struct:__anon112
+level	ch06/tls.h	/^  unsigned char level;$/;"	m	struct:__anon21
+level	ch07/tls.h	/^  unsigned char level;$/;"	m	struct:__anon53
+level	ch08/tls.h	/^  unsigned char level;$/;"	m	struct:__anon74
+level	ch09/tls.h	/^  unsigned char level;$/;"	m	struct:__anon110
+load_file_into_memory	ch07/file.c	/^char *load_file_into_memory( char *filename, int *buffer_length )$/;"	f
+load_huge	ch03/huge.c	/^void load_huge( huge *h, const unsigned char *bytes, int length )$/;"	f
+main	appC/https.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch01/http.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch01/webserver.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch02/aes.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch02/des.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch02/rc4.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch03/rsa.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch04/digest.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch04/dsa.c	/^int main( int argc, char *argv[] )$/;"	f
+main	ch04/ecdsa.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch04/hmac.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch05/asn1.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch05/x509.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch06/https.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch06/prf.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch06/x509.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch07/privkey.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch07/ssl_webserver.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch08/https.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch08/rsa.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch08/x509.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch09/aes.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch09/prf.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch09/x509.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch10/https.c	/^int main( int argc, char *argv[ ] )$/;"	f
+main	ch10/https_openssl.c	/^int main( int argc, char *argv[ ] )$/;"	f
+maj	ch04/sha.c	/^unsigned int maj( unsigned int x, unsigned int y, unsigned int z )$/;"	f
+major	ch06/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon22
+major	ch07/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon54
+major	ch08/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon75
+major	ch09/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon111
+master_key	appC/ssl.h	/^  unsigned char *master_key;   $/;"	m	struct:__anon30
+master_secret	ch06/tls.h	/^  master_secret_type    master_secret;$/;"	m	struct:__anon17
+master_secret	ch07/tls.h	/^  master_secret_type    master_secret;$/;"	m	struct:__anon49
+master_secret	ch08/tls.c	/^  unsigned char master_secret[ MASTER_SECRET_LENGTH ];$/;"	m	struct:StoredSessionsList_t	file:
+master_secret	ch08/tls.h	/^  master_secret_type    master_secret;$/;"	m	struct:__anon70
+master_secret	ch09/tls.c	/^  unsigned char master_secret[ MASTER_SECRET_LENGTH ];$/;"	m	struct:StoredSessionsList_t	file:
+master_secret	ch09/tls.h	/^  master_secret_type    master_secret;$/;"	m	struct:__anon106
+master_secret_type	ch06/tls.h	/^typedef unsigned char master_secret_type[ MASTER_SECRET_LENGTH ];$/;"	t
+master_secret_type	ch07/tls.h	/^typedef unsigned char master_secret_type[ MASTER_SECRET_LENGTH ];$/;"	t
+master_secret_type	ch08/tls.h	/^typedef unsigned char master_secret_type[ MASTER_SECRET_LENGTH ];$/;"	t
+master_secret_type	ch09/tls.h	/^typedef unsigned char master_secret_type[ MASTER_SECRET_LENGTH ];$/;"	t
+md5	ch09/tls.h	/^  md5 = 1,$/;"	e	enum:__anon101
+md5WithRSAEncryption	ch05/x509.h	/^  md5WithRSAEncryption,$/;"	e	enum:__anon119
+md5WithRSAEncryption	ch06/x509.h	/^  md5WithRSAEncryption,$/;"	e	enum:__anon8
+md5WithRSAEncryption	ch09/x509.h	/^  md5WithRSAEncryption,$/;"	e	enum:__anon83
+md5_block_operate	ch04/md5.c	/^void md5_block_operate( const unsigned char *input, $/;"	f
+md5_finalize	ch04/md5.c	/^void md5_finalize( unsigned char *padded_block, int length_in_bits )$/;"	f
+md5_handshake_digest	ch06/tls.h	/^  digest_ctx            md5_handshake_digest;$/;"	m	struct:__anon17
+md5_handshake_digest	ch07/tls.h	/^  digest_ctx            md5_handshake_digest;$/;"	m	struct:__anon49
+md5_handshake_digest	ch08/tls.h	/^  digest_ctx            md5_handshake_digest;$/;"	m	struct:__anon70
+md5_hash	ch04/md5.c	/^int md5_hash( const unsigned char *input, $/;"	f
+md5_initial_hash	ch04/md5.c	/^unsigned int md5_initial_hash[ ] = {$/;"	v
+md5_initial_hash	ch04/md5.h	/^unsigned int md5_initial_hash[ MD5_RESULT_SIZE ];$/;"	v
+minor	ch06/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon22
+minor	ch07/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon54
+minor	ch08/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon75
+minor	ch09/tls.h	/^  unsigned char major, minor;$/;"	m	struct:__anon111
+mix_columns	ch02/aes.c	/^static void mix_columns( unsigned char s[ ][ 4 ] )$/;"	f	file:
+mix_columns	ch09/aes.c	/^static void mix_columns( unsigned char s[ ][ 4 ] )$/;"	f	file:
+mod_pow	ch03/huge.c	/^void mod_pow( huge *h1, huge *exp, huge *n, huge *h2 )$/;"	f
+modulus	ch03/rsa.h	/^  huge *modulus;$/;"	m	struct:__anon5
+modulus	ch08/rsa.h	/^  huge *modulus;$/;"	m	struct:__anon65
+msg_type	ch06/tls.h	/^  unsigned char         msg_type;$/;"	m	struct:__anon26
+msg_type	ch07/tls.h	/^  unsigned char         msg_type;$/;"	m	struct:__anon58
+msg_type	ch08/tls.h	/^  unsigned char         msg_type;$/;"	m	struct:__anon79
+msg_type	ch09/tls.h	/^  unsigned char         msg_type;$/;"	m	struct:__anon115
+multiply	ch03/huge.c	/^void multiply( huge *h1, huge *h2 )$/;"	f
+multiply_point	ch03/ecc_int.c	/^static void multiply_point( point *p1, int k, int a, int p ) $/;"	f	file:
+multiply_point	ch04/ecc.c	/^void multiply_point( point *p1, huge *k, huge *a, huge *p )$/;"	f
+multiply_point	ch09/ecc.c	/^void multiply_point( point *p1, huge *k, huge *a, huge *p )$/;"	f
+n	ch04/ecc.h	/^  huge n; \/\/ n is prime and is the "order" of G$/;"	m	struct:__anon41
+n	ch09/ecc.h	/^  huge n; \/\/ n is prime and is the "order" of G$/;"	m	struct:__anon98
+name	ch05/x509.h	/^name;$/;"	t	typeref:struct:__anon120
+name	ch06/x509.h	/^name;$/;"	t	typeref:struct:__anon9
+name	ch09/x509.h	/^name;$/;"	t	typeref:struct:__anon84
+named	ch09/tls.c	/^  named = 3$/;"	e	enum:__anon92	file:
+named_curve	ch09/tls.c	/^named_curve;$/;"	t	typeref:enum:__anon91	file:
+new_digest	appC/ssl.h	/^  void (*new_digest)( digest_ctx *context );$/;"	m	struct:__anon29
+new_digest	ch06/tls.h	/^  void (*new_digest)( digest_ctx *context );$/;"	m	struct:__anon15
+new_digest	ch07/tls.h	/^  void (*new_digest)( digest_ctx *context );$/;"	m	struct:__anon46
+new_digest	ch08/tls.h	/^  void (*new_digest)( digest_ctx *context );$/;"	m	struct:__anon67
+new_digest	ch09/tls.h	/^  void (*new_digest)( digest_ctx *context );$/;"	m	struct:__anon103
+new_md5_digest	ch04/md5.c	/^void new_md5_digest( digest_ctx *context )$/;"	f
+new_sha1_digest	ch04/sha.c	/^void new_sha1_digest( digest_ctx *context )$/;"	f
+new_sha256_digest	ch04/sha.c	/^void new_sha256_digest( digest_ctx *context )$/;"	f
+next	ch05/asn1.h	/^ struct asn1struct *next;$/;"	m	struct:asn1struct	typeref:struct:asn1struct::asn1struct
+next	ch08/tls.c	/^  struct StoredSessions_list_t *next;$/;"	m	struct:StoredSessionsList_t	typeref:struct:StoredSessionsList_t::StoredSessions_list_t	file:
+next	ch09/tls.c	/^  struct StoredSessions_list_t *next;$/;"	m	struct:StoredSessionsList_t	typeref:struct:StoredSessionsList_t::StoredSessions_list_t	file:
+next_session_id	ch08/tls.c	/^static int next_session_id = 1;$/;"	v	file:
+next_session_id	ch09/tls.c	/^static int next_session_id = 1;$/;"	v	file:
+no_renegotiation	ch06/tls.h	/^  no_renegotiation = 100$/;"	e	enum:__anon20
+no_renegotiation	ch07/tls.h	/^  no_renegotiation = 100$/;"	e	enum:__anon52
+no_renegotiation	ch08/tls.h	/^  no_renegotiation = 100$/;"	e	enum:__anon73
+no_renegotiation	ch09/tls.h	/^  no_renegotiation = 100$/;"	e	enum:__anon109
+none	ch09/tls.h	/^  none = 0,$/;"	e	enum:__anon101
+notAfter	ch05/x509.h	/^  time_t notAfter;$/;"	m	struct:__anon121
+notAfter	ch06/x509.h	/^  time_t notAfter;$/;"	m	struct:__anon10
+notAfter	ch09/x509.h	/^  time_t notAfter;$/;"	m	struct:__anon85
+notBefore	ch05/x509.h	/^  time_t notBefore;$/;"	m	struct:__anon121
+notBefore	ch06/x509.h	/^  time_t notBefore;$/;"	m	struct:__anon10
+notBefore	ch09/x509.h	/^  time_t notBefore;$/;"	m	struct:__anon85
+objectIdentifier	ch05/x509.h	/^typedef huge objectIdentifier;$/;"	t
+objectIdentifier	ch06/x509.h	/^typedef huge objectIdentifier;$/;"	t
+objectIdentifier	ch09/x509.h	/^typedef huge objectIdentifier;$/;"	t
+op_type	ch02/des.c	/^typedef enum { OP_ENCRYPT, OP_DECRYPT } op_type;$/;"	t	typeref:enum:__anon43	file:
+output_x500_name	ch05/x509.c	/^static void output_x500_name( name *x500_name )$/;"	f	file:
+output_x500_name	ch06/x509.c	/^static void output_x500_name( name *x500_name )$/;"	f	file:
+output_x500_name	ch08/x509.c	/^static void output_x500_name( name *x500_name )$/;"	f	file:
+output_x500_name	ch09/x509.c	/^static void output_x500_name( name *x500_name )$/;"	f	file:
+p	ch03/dh.h	/^  huge p;$/;"	m	struct:__anon4
+p	ch03/ecc_int.h	/^  int p; $/;"	m	struct:__anon3
+p	ch04/dsa.h	/^  huge p;$/;"	m	struct:__anon38
+p	ch04/ecc.h	/^  huge p;$/;"	m	struct:__anon41
+p	ch09/ecc.h	/^  huge p;$/;"	m	struct:__anon98
+p_table	ch02/des.c	/^static const int p_table[] = { 16,  7, 20, 21,$/;"	v	file:
+parity	ch04/sha.c	/^unsigned int parity( unsigned int x, unsigned int y, unsigned int z )$/;"	f
+parse_algorithm_identifier	ch05/x509.c	/^static int parse_algorithm_identifier( signatureAlgorithmIdentifier *target, $/;"	f	file:
+parse_algorithm_identifier	ch06/x509.c	/^static int parse_algorithm_identifier( signatureAlgorithmIdentifier *target, $/;"	f	file:
+parse_algorithm_identifier	ch08/x509.c	/^static int parse_algorithm_identifier( signatureAlgorithmIdentifier *target, $/;"	f	file:
+parse_algorithm_identifier	ch09/x509.c	/^static int parse_algorithm_identifier( signatureAlgorithmIdentifier *target, $/;"	f	file:
+parse_certificate_request	ch08/tls.c	/^static unsigned char *parse_certificate_request( unsigned char *read_pos,$/;"	f	file:
+parse_certificate_request	ch09/tls.c	/^static unsigned char *parse_certificate_request( unsigned char *read_pos,$/;"	f	file:
+parse_client_hello	ch07/tls.c	/^static char *parse_client_hello( char *read_pos, $/;"	f	file:
+parse_client_hello	ch08/tls.c	/^static char *parse_client_hello( char *read_pos, $/;"	f	file:
+parse_client_hello	ch09/tls.c	/^static char *parse_client_hello( char *read_pos, $/;"	f	file:
+parse_client_hello_extensions	ch08/tls.c	/^static char *parse_client_hello_extensions( char *read_pos,$/;"	f	file:
+parse_client_hello_extensions	ch09/tls.c	/^static char *parse_client_hello_extensions( char *read_pos,$/;"	f	file:
+parse_client_key_exchange	ch07/tls.c	/^static unsigned char *parse_client_key_exchange( unsigned char *read_pos,$/;"	f	file:
+parse_client_key_exchange	ch08/tls.c	/^static unsigned char *parse_client_key_exchange( unsigned char *read_pos,$/;"	f	file:
+parse_client_key_exchange	ch09/tls.c	/^static unsigned char *parse_client_key_exchange( unsigned char *read_pos,$/;"	f	file:
+parse_dsa_params	ch05/x509.c	/^static int parse_dsa_params( public_key_info *target, struct asn1struct *source )$/;"	f	file:
+parse_dsa_params	ch06/x509.c	/^static int parse_dsa_params( public_key_info *target, struct asn1struct *source )$/;"	f	file:
+parse_dsa_params	ch08/x509.c	/^static int parse_dsa_params( public_key_info *target, struct asn1struct *source )$/;"	f	file:
+parse_dsa_params	ch09/x509.c	/^static int parse_dsa_params( public_key_info *target, struct asn1struct *source )$/;"	f	file:
+parse_dsa_signature_value	ch05/x509.c	/^static int parse_dsa_signature_value( signed_x509_certificate *target,$/;"	f	file:
+parse_dsa_signature_value	ch06/x509.c	/^static int parse_dsa_signature_value( signed_x509_certificate *target,$/;"	f	file:
+parse_dsa_signature_value	ch08/x509.c	/^static int parse_dsa_signature_value( signed_x509_certificate *target,$/;"	f	file:
+parse_dsa_signature_value	ch09/x509.c	/^static int parse_dsa_signature_value( signed_x509_certificate *target,$/;"	f	file:
+parse_extension	ch05/x509.c	/^static int parse_extension( x509_certificate *certificate,$/;"	f	file:
+parse_extension	ch06/x509.c	/^static int parse_extension( x509_certificate *certificate,$/;"	f	file:
+parse_extension	ch08/x509.c	/^static int parse_extension( x509_certificate *certificate,$/;"	f	file:
+parse_extension	ch09/x509.c	/^static int parse_extension( x509_certificate *certificate,$/;"	f	file:
+parse_extensions	ch05/x509.c	/^static int parse_extensions( x509_certificate *certificate,$/;"	f	file:
+parse_extensions	ch06/x509.c	/^static int parse_extensions( x509_certificate *certificate,$/;"	f	file:
+parse_extensions	ch08/x509.c	/^static int parse_extensions( x509_certificate *certificate,$/;"	f	file:
+parse_extensions	ch09/x509.c	/^static int parse_extensions( x509_certificate *certificate,$/;"	f	file:
+parse_finished	ch06/tls.c	/^static unsigned char *parse_finished( unsigned char *read_pos,$/;"	f	file:
+parse_finished	ch07/tls.c	/^static unsigned char *parse_finished( unsigned char *read_pos,$/;"	f	file:
+parse_finished	ch08/tls.c	/^static unsigned char *parse_finished( unsigned char *read_pos,$/;"	f	file:
+parse_finished	ch09/tls.c	/^static unsigned char *parse_finished( unsigned char *read_pos,$/;"	f	file:
+parse_huge	ch05/x509.c	/^static int parse_huge( huge *target, struct asn1struct *source )$/;"	f	file:
+parse_huge	ch06/x509.c	/^static int parse_huge( huge *target, struct asn1struct *source )$/;"	f	file:
+parse_huge	ch08/x509.c	/^static int parse_huge( huge *target, struct asn1struct *source )$/;"	f	file:
+parse_huge	ch09/x509.c	/^static int parse_huge( huge *target, struct asn1struct *source )$/;"	f	file:
+parse_name	ch05/x509.c	/^int parse_name( name *target, struct asn1struct *source )$/;"	f
+parse_name	ch06/x509.c	/^int parse_name( name *target, struct asn1struct *source )$/;"	f
+parse_name	ch08/x509.c	/^int parse_name( name *target, struct asn1struct *source )$/;"	f
+parse_name	ch09/x509.c	/^int parse_name( name *target, struct asn1struct *source )$/;"	f
+parse_pkcs8_private_key	ch07/privkey.c	/^int parse_pkcs8_private_key( rsa_key *privkey, $/;"	f
+parse_private_key	ch07/privkey.c	/^int parse_private_key( rsa_key *privkey, $/;"	f
+parse_proxy_param	ch01/http.c	/^int parse_proxy_param( char *proxy_spec,$/;"	f
+parse_proxy_param	ch06/https.c	/^int parse_proxy_param( char *proxy_spec,$/;"	f
+parse_proxy_param	ch08/https.c	/^int parse_proxy_param( char *proxy_spec,$/;"	f
+parse_proxy_param	ch10/https.c	/^int parse_proxy_param( char *proxy_spec,$/;"	f
+parse_proxy_param	ch10/https_openssl.c	/^int parse_proxy_param( char *proxy_spec,$/;"	f
+parse_public_key_info	ch05/x509.c	/^static int parse_public_key_info( public_key_info *target, $/;"	f	file:
+parse_public_key_info	ch06/x509.c	/^static int parse_public_key_info( public_key_info *target, $/;"	f	file:
+parse_public_key_info	ch08/x509.c	/^static int parse_public_key_info( public_key_info *target, $/;"	f	file:
+parse_public_key_info	ch09/x509.c	/^static int parse_public_key_info( public_key_info *target, $/;"	f	file:
+parse_renegotiation_info	ch08/tls.c	/^static int parse_renegotiation_info( const char *read_pos,$/;"	f	file:
+parse_renegotiation_info	ch09/tls.c	/^static int parse_renegotiation_info( const char *read_pos,$/;"	f	file:
+parse_rsa_signature_value	ch05/x509.c	/^static int parse_rsa_signature_value( signed_x509_certificate *target, $/;"	f	file:
+parse_rsa_signature_value	ch06/x509.c	/^static int parse_rsa_signature_value( signed_x509_certificate *target, $/;"	f	file:
+parse_rsa_signature_value	ch08/x509.c	/^static int parse_rsa_signature_value( signed_x509_certificate *target, $/;"	f	file:
+parse_rsa_signature_value	ch09/x509.c	/^static int parse_rsa_signature_value( signed_x509_certificate *target, $/;"	f	file:
+parse_server_error	appC/ssl.c	/^static int parse_server_error( SSLParameters *parameters, $/;"	f	file:
+parse_server_finished	appC/ssl.c	/^static int parse_server_finished( SSLParameters *parameters, $/;"	f	file:
+parse_server_hello	appC/ssl.c	/^static int parse_server_hello( SSLParameters *parameters, $/;"	f	file:
+parse_server_hello	ch06/tls.c	/^static char *parse_server_hello( char *read_pos, $/;"	f	file:
+parse_server_hello	ch07/tls.c	/^static char *parse_server_hello( char *read_pos, $/;"	f	file:
+parse_server_hello	ch08/tls.c	/^static char *parse_server_hello( char *read_pos, $/;"	f	file:
+parse_server_hello	ch09/tls.c	/^static char *parse_server_hello( char *read_pos, $/;"	f	file:
+parse_server_hello_extensions	ch08/tls.c	/^static char *parse_server_hello_extensions( char *read_pos,$/;"	f	file:
+parse_server_hello_extensions	ch09/tls.c	/^static char *parse_server_hello_extensions( char *read_pos,$/;"	f	file:
+parse_server_key_exchange	ch08/tls.c	/^static char *parse_server_key_exchange( unsigned char *read_pos, $/;"	f	file:
+parse_server_key_exchange	ch09/tls.c	/^static char *parse_server_key_exchange( unsigned char *read_pos, $/;"	f	file:
+parse_server_name_extension	ch08/tls.c	/^static void parse_server_name_extension( unsigned char *data,$/;"	f	file:
+parse_server_name_extension	ch09/tls.c	/^static void parse_server_name_extension( unsigned char *data,$/;"	f	file:
+parse_server_verify	appC/ssl.c	/^static int parse_server_verify( SSLParameters *parameters, $/;"	f	file:
+parse_tbs_certificate	ch05/x509.c	/^static int parse_tbs_certificate( x509_certificate *target, $/;"	f	file:
+parse_tbs_certificate	ch06/x509.c	/^static int parse_tbs_certificate( x509_certificate *target, $/;"	f	file:
+parse_tbs_certificate	ch08/x509.c	/^static int parse_tbs_certificate( x509_certificate *target, $/;"	f	file:
+parse_tbs_certificate	ch09/x509.c	/^static int parse_tbs_certificate( x509_certificate *target, $/;"	f	file:
+parse_url	appC/https.c	/^int parse_url( char *uri, char **host, char **path )$/;"	f
+parse_url	ch01/http.c	/^int parse_url( char *uri, char **host, char **path )$/;"	f
+parse_url	ch06/https.c	/^int parse_url( char *uri, char **host, char **path )$/;"	f
+parse_url	ch08/https.c	/^int parse_url( char *uri, char **host, char **path )$/;"	f
+parse_url	ch10/https.c	/^int parse_url( char *uri, char **host, char **path )$/;"	f
+parse_url	ch10/https_openssl.c	/^int parse_url( char *uri, char **host, char **path )$/;"	f
+parse_validity	ch05/x509.c	/^static int parse_validity( validity_period *target, struct asn1struct *source )$/;"	f	file:
+parse_validity	ch06/x509.c	/^static int parse_validity( validity_period *target, struct asn1struct *source )$/;"	f	file:
+parse_validity	ch08/x509.c	/^static int parse_validity( validity_period *target, struct asn1struct *source )$/;"	f	file:
+parse_validity	ch09/x509.c	/^static int parse_validity( validity_period *target, struct asn1struct *source )$/;"	f	file:
+parse_x509_certificate	ch05/x509.c	/^int parse_x509_certificate( const unsigned char *buffer,$/;"	f
+parse_x509_certificate	ch06/x509.c	/^int parse_x509_certificate( const unsigned char *buffer,$/;"	f
+parse_x509_certificate	ch08/x509.c	/^int parse_x509_certificate( const unsigned char *buffer,$/;"	f
+parse_x509_certificate	ch09/x509.c	/^int parse_x509_certificate( const unsigned char *buffer,$/;"	f
+parse_x509_chain	ch06/x509.c	/^char *parse_x509_chain( unsigned char *buffer,$/;"	f
+parse_x509_chain	ch08/x509.c	/^char *parse_x509_chain( unsigned char *buffer,$/;"	f
+parse_x509_chain	ch09/x509.c	/^char *parse_x509_chain( unsigned char *buffer,$/;"	f
+pc1_table	ch02/des.c	/^static const int pc1_table[] = { 57, 49, 41, 33, 25, 17,  9, 1,$/;"	v	file:
+pc2_table	ch02/des.c	/^static const int pc2_table[] = { 14, 17, 11, 24,  1,  5,$/;"	v	file:
+peer_finished	ch07/tls.h	/^  int                   peer_finished;$/;"	m	struct:__anon49
+peer_finished	ch08/tls.h	/^  int                   peer_finished;$/;"	m	struct:__anon70
+peer_finished	ch09/tls.h	/^  int                   peer_finished;$/;"	m	struct:__anon106
+pem_decode	ch05/asn1.c	/^int pem_decode( unsigned char *pem_buffer, unsigned char *der_buffer )$/;"	f
+pending_recv_parameters	ch06/tls.h	/^  ProtectionParameters  pending_recv_parameters;$/;"	m	struct:__anon17
+pending_recv_parameters	ch07/tls.h	/^  ProtectionParameters  pending_recv_parameters;$/;"	m	struct:__anon49
+pending_recv_parameters	ch08/tls.h	/^  ProtectionParameters  pending_recv_parameters;$/;"	m	struct:__anon70
+pending_recv_parameters	ch09/tls.h	/^  ProtectionParameters  pending_recv_parameters;$/;"	m	struct:__anon106
+pending_send_parameters	ch06/tls.h	/^  ProtectionParameters  pending_send_parameters;$/;"	m	struct:__anon17
+pending_send_parameters	ch07/tls.h	/^  ProtectionParameters  pending_send_parameters;$/;"	m	struct:__anon49
+pending_send_parameters	ch08/tls.h	/^  ProtectionParameters  pending_send_parameters;$/;"	m	struct:__anon70
+pending_send_parameters	ch09/tls.h	/^  ProtectionParameters  pending_send_parameters;$/;"	m	struct:__anon106
+permute	ch02/des.c	/^static void permute( unsigned char target[],$/;"	f	file:
+point	ch03/ecc_int.h	/^point; $/;"	t	typeref:struct:__anon1
+point	ch04/ecc.h	/^point;$/;"	t	typeref:struct:__anon40
+point	ch09/ecc.h	/^point;$/;"	t	typeref:struct:__anon97
+prime192v1_A	ch09/ecc.c	/^unsigned char prime192v1_A[] = {$/;"	v
+prime192v1_B	ch09/ecc.c	/^unsigned char prime192v1_B[] = {$/;"	v
+prime192v1_Gx	ch09/ecc.c	/^unsigned char prime192v1_Gx[] = {$/;"	v
+prime192v1_Gy	ch09/ecc.c	/^unsigned char prime192v1_Gy[] = {$/;"	v
+prime192v1_N	ch09/ecc.c	/^unsigned char prime192v1_N[] = {$/;"	v
+prime192v1_P	ch09/ecc.c	/^unsigned char prime192v1_P[] = {$/;"	v
+prime256v1_A	ch09/ecc.c	/^unsigned char prime256v1_A[] = {$/;"	v
+prime256v1_B	ch09/ecc.c	/^unsigned char prime256v1_B[] = {$/;"	v
+prime256v1_Gx	ch09/ecc.c	/^unsigned char prime256v1_Gx[] = {$/;"	v
+prime256v1_Gy	ch09/ecc.c	/^unsigned char prime256v1_Gy[] = {$/;"	v
+prime256v1_N	ch09/ecc.c	/^unsigned char prime256v1_N[] = {$/;"	v
+prime256v1_P	ch09/ecc.c	/^unsigned char prime256v1_P[] = {$/;"	v
+print_huge	ch05/x509.c	/^static void print_huge( huge *h )$/;"	f	file:
+print_huge	ch06/x509.c	/^static void print_huge( huge *h )$/;"	f	file:
+print_huge	ch08/x509.c	/^static void print_huge( huge *h )$/;"	f	file:
+print_huge	ch09/x509.c	/^static void print_huge( huge *h )$/;"	f	file:
+private_key	ch03/ecc_int.h	/^  int private_key; $/;"	m	struct:__anon2
+process_http_request	ch01/webserver.c	/^static void process_http_request( int connection )$/;"	f	file:
+process_https_request	ch07/ssl_webserver.c	/^static void process_https_request( int connection )$/;"	f	file:
+proposed_cipher_spec	appC/ssl.h	/^  CipherSpec *proposed_cipher_spec;$/;"	m	struct:__anon30
+protocol_version	ch06/tls.h	/^  protocol_version = 70,$/;"	e	enum:__anon20
+protocol_version	ch07/tls.h	/^  protocol_version = 70,$/;"	e	enum:__anon52
+protocol_version	ch08/tls.h	/^  protocol_version = 70,$/;"	e	enum:__anon73
+protocol_version	ch09/tls.h	/^  protocol_version = 70,$/;"	e	enum:__anon109
+public_key	ch03/ecc_int.h	/^  point public_key; $/;"	m	struct:__anon2
+public_key_info	ch05/x509.h	/^public_key_info;$/;"	t	typeref:struct:__anon122
+public_key_info	ch06/x509.h	/^public_key_info;$/;"	t	typeref:struct:__anon11
+public_key_info	ch09/x509.h	/^public_key_info;$/;"	t	typeref:struct:__anon86
+q	ch04/dsa.h	/^  huge q;$/;"	m	struct:__anon38
+r	ch04/dsa.h	/^  huge r;$/;"	m	struct:__anon39
+random	ch06/tls.h	/^  Random            random;$/;"	m	struct:__anon28
+random	ch06/tls.h	/^  Random random;$/;"	m	struct:__anon27
+random	ch07/tls.h	/^  Random            random;$/;"	m	struct:__anon60
+random	ch07/tls.h	/^  Random random;$/;"	m	struct:__anon59
+random	ch08/tls.h	/^  Random            random;$/;"	m	struct:__anon81
+random	ch08/tls.h	/^  Random random;$/;"	m	struct:__anon80
+random	ch09/tls.h	/^  Random            random;$/;"	m	struct:__anon117
+random	ch09/tls.h	/^  Random random;$/;"	m	struct:__anon116
+random_bytes	ch06/tls.h	/^  unsigned char  random_bytes[ 28 ];$/;"	m	struct:__anon24
+random_bytes	ch07/tls.h	/^  unsigned char  random_bytes[ 28 ];$/;"	m	struct:__anon56
+random_bytes	ch08/tls.h	/^  unsigned char  random_bytes[ 28 ];$/;"	m	struct:__anon77
+random_bytes	ch09/tls.h	/^  unsigned char  random_bytes[ 28 ];$/;"	m	struct:__anon113
+random_type	ch06/tls.h	/^typedef unsigned char random_type[ RANDOM_LENGTH ];$/;"	t
+random_type	ch07/tls.h	/^typedef unsigned char random_type[ RANDOM_LENGTH ];$/;"	t
+random_type	ch08/tls.h	/^typedef unsigned char random_type[ RANDOM_LENGTH ];$/;"	t
+random_type	ch09/tls.h	/^typedef unsigned char random_type[ RANDOM_LENGTH ];$/;"	t
+rc4_128_decrypt	ch02/rc4.c	/^void rc4_128_decrypt( const unsigned char *ciphertext, $/;"	f
+rc4_128_encrypt	ch02/rc4.c	/^void rc4_128_encrypt( const unsigned char *plaintext, $/;"	f
+rc4_40_decrypt	ch02/rc4.c	/^void rc4_40_decrypt( const unsigned char *ciphertext, $/;"	f
+rc4_40_encrypt	ch02/rc4.c	/^void rc4_40_encrypt( const unsigned char *plaintext, $/;"	f
+rc4_operate	ch02/rc4.c	/^static void rc4_operate( const unsigned char *plaintext,$/;"	f	file:
+rc4_state	ch02/rc4.h	/^rc4_state;$/;"	t	typeref:struct:__anon44
+read_buffer	appC/ssl.c	/^static char *read_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+read_buffer	ch06/tls.c	/^static char *read_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+read_buffer	ch07/tls.c	/^static char *read_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+read_buffer	ch08/tls.c	/^static char *read_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+read_buffer	ch09/tls.c	/^static char *read_buffer( char *dest, char *src, size_t n )$/;"	f	file:
+read_iv	appC/ssl.h	/^  unsigned char *read_iv;$/;"	m	struct:__anon30
+read_key	appC/ssl.h	/^  unsigned char *read_key;$/;"	m	struct:__anon30
+read_line	ch01/webserver.c	/^char *read_line( int connection )$/;"	f
+read_line	ch07/ssl_webserver.c	/^char *read_line( int connection, TLSParameters *tls_context )$/;"	f
+read_sequence_number	appC/ssl.h	/^  int read_sequence_number;$/;"	m	struct:__anon30
+read_state	appC/ssl.h	/^  void *read_state;$/;"	m	struct:__anon30
+receive_ssl_message	appC/ssl.c	/^static int receive_ssl_message( int connection, $/;"	f	file:
+receive_tls_msg	ch06/tls.c	/^static int receive_tls_msg( int connection,$/;"	f	file:
+receive_tls_msg	ch07/tls.c	/^static int receive_tls_msg( int connection,$/;"	f	file:
+receive_tls_msg	ch08/tls.c	/^static int receive_tls_msg( int connection,$/;"	f	file:
+receive_tls_msg	ch09/tls.c	/^static int receive_tls_msg( int connection,$/;"	f	file:
+record_overflow	ch06/tls.h	/^  record_overflow = 22,$/;"	e	enum:__anon20
+record_overflow	ch07/tls.h	/^  record_overflow = 22,$/;"	e	enum:__anon52
+record_overflow	ch08/tls.h	/^  record_overflow = 22,$/;"	e	enum:__anon73
+record_overflow	ch09/tls.h	/^  record_overflow = 22,$/;"	e	enum:__anon109
+remember_session	ch08/tls.c	/^static void remember_session( TLSParameters *parameters )$/;"	f	file:
+remember_session	ch09/tls.c	/^static void remember_session( TLSParameters *parameters )$/;"	f	file:
+rep	ch03/huge.h	/^  unsigned char *rep;$/;"	m	struct:__anon6
+report_alert	ch06/tls.c	/^static void report_alert( Alert *alert )$/;"	f	file:
+report_alert	ch07/tls.c	/^static void report_alert( Alert *alert )$/;"	f	file:
+report_alert	ch08/tls.c	/^static void report_alert( Alert *alert )$/;"	f	file:
+report_alert	ch09/tls.c	/^static void report_alert( Alert *alert )$/;"	f	file:
+right_shift	ch03/huge.c	/^static void right_shift( huge *h1 )$/;"	f	file:
+rol	ch02/des.c	/^static void rol( unsigned char *target )$/;"	f	file:
+ror	ch02/des.c	/^static void ror(unsigned char *target )$/;"	f	file:
+rot_word	ch02/aes.c	/^static void rot_word( unsigned char *w )$/;"	f	file:
+rot_word	ch09/aes.c	/^static void rot_word( unsigned char *w )$/;"	f	file:
+rotr	ch04/sha.c	/^unsigned int rotr( unsigned int x, unsigned int n )$/;"	f
+rsa	ch05/x509.h	/^  rsa,$/;"	e	enum:__anon118
+rsa	ch06/x509.h	/^  rsa,$/;"	e	enum:__anon7
+rsa	ch09/x509.h	/^  rsa,$/;"	e	enum:__anon82
+rsa_compute	ch03/rsa.c	/^void rsa_compute( huge *m, huge *e, huge *n, huge *c )$/;"	f
+rsa_compute	ch08/rsa.c	/^void rsa_compute( huge *m, huge *e, huge *n, huge *c )$/;"	f
+rsa_decrypt	ch03/rsa.c	/^int rsa_decrypt( unsigned char *input,$/;"	f
+rsa_decrypt	ch08/rsa.c	/^int rsa_decrypt( unsigned char *input,$/;"	f
+rsa_encrypt	ch03/rsa.c	/^int rsa_encrypt( unsigned char *input,$/;"	f
+rsa_encrypt	ch08/rsa.c	/^int rsa_encrypt( unsigned char *input,$/;"	f
+rsa_fixed_dh	ch08/tls.c	/^  rsa_fixed_dh = 3,$/;"	e	enum:__anon63	file:
+rsa_fixed_dh	ch09/tls.c	/^  rsa_fixed_dh = 3,$/;"	e	enum:__anon94	file:
+rsa_key	ch03/rsa.h	/^rsa_key;$/;"	t	typeref:struct:__anon5
+rsa_key	ch08/rsa.h	/^rsa_key;$/;"	t	typeref:struct:__anon65
+rsa_key_exchange	ch06/tls.c	/^int rsa_key_exchange( rsa_key *public_key,$/;"	f
+rsa_key_exchange	ch07/tls.c	/^int rsa_key_exchange( rsa_key *public_key,$/;"	f
+rsa_key_exchange	ch08/tls.c	/^int rsa_key_exchange( rsa_key *public_key,$/;"	f
+rsa_key_exchange	ch09/tls.c	/^int rsa_key_exchange( rsa_key *public_key,$/;"	f
+rsa_process	ch08/rsa.c	/^int rsa_process( unsigned char *input,$/;"	f
+rsa_public_key	ch05/x509.h	/^  rsa_key rsa_public_key;$/;"	m	struct:__anon122
+rsa_public_key	ch06/x509.h	/^  rsa_key rsa_public_key;$/;"	m	struct:__anon11
+rsa_public_key	ch09/x509.h	/^  rsa_key rsa_public_key;$/;"	m	struct:__anon86
+rsa_sign	ch08/rsa.c	/^int rsa_sign( unsigned char *input, $/;"	f
+rsa_signature_value	ch05/x509.h	/^  huge rsa_signature_value;$/;"	m	struct:__anon124
+rsa_signature_value	ch06/x509.h	/^  huge rsa_signature_value;$/;"	m	struct:__anon13
+rsa_signature_value	ch09/x509.h	/^  huge rsa_signature_value;$/;"	m	struct:__anon88
+rsa_signed	ch08/tls.c	/^  rsa_signed = 1,$/;"	e	enum:__anon63	file:
+rsa_signed	ch09/tls.c	/^  rsa_signed = 1,$/;"	e	enum:__anon94	file:
+s	ch04/dsa.h	/^  huge s;$/;"	m	struct:__anon39
+sbox	ch02/aes.c	/^static unsigned char sbox[ 16 ][ 16 ] = {$/;"	v	file:
+sbox	ch02/des.c	/^static const int sbox[8][64] = {$/;"	v	file:
+sbox	ch09/aes.c	/^static unsigned char sbox[ 16 ][ 16 ] = {$/;"	v	file:
+secp192r1	ch09/tls.c	/^  secp192r1 = 19,$/;"	e	enum:__anon91	file:
+secp256r1	ch09/tls.c	/^  secp256r1 = 23$/;"	e	enum:__anon91	file:
+secure_renegotiation	ch08/tls.c	/^  secure_renegotiation = 0xFF01$/;"	e	enum:__anon61	file:
+secure_renegotiation	ch09/tls.c	/^  secure_renegotiation = 0xFF01$/;"	e	enum:__anon89	file:
+send_alert_message	ch06/tls.c	/^static int send_alert_message( int connection, $/;"	f	file:
+send_alert_message	ch07/tls.c	/^static int send_alert_message( int connection, $/;"	f	file:
+send_alert_message	ch08/tls.c	/^static int send_alert_message( int connection, $/;"	f	file:
+send_alert_message	ch09/tls.c	/^static int send_alert_message( int connection, $/;"	f	file:
+send_certificate	ch07/tls.c	/^static int send_certificate( int connection, TLSParameters *parameters )$/;"	f	file:
+send_certificate	ch08/tls.c	/^static int send_certificate( int connection, TLSParameters *parameters )$/;"	f	file:
+send_certificate	ch09/tls.c	/^static int send_certificate( int connection, TLSParameters *parameters )$/;"	f	file:
+send_certificate_verify	ch08/tls.c	/^static int send_certificate_verify( int connection,$/;"	f	file:
+send_certificate_verify	ch09/tls.c	/^static int send_certificate_verify( int connection,$/;"	f	file:
+send_change_cipher_spec	ch06/tls.c	/^static int send_change_cipher_spec( int connection, TLSParameters *parameters )$/;"	f	file:
+send_change_cipher_spec	ch07/tls.c	/^static int send_change_cipher_spec( int connection, TLSParameters *parameters )$/;"	f	file:
+send_change_cipher_spec	ch08/tls.c	/^static int send_change_cipher_spec( int connection, TLSParameters *parameters )$/;"	f	file:
+send_change_cipher_spec	ch09/tls.c	/^static int send_change_cipher_spec( int connection, TLSParameters *parameters )$/;"	f	file:
+send_client_finished	appC/ssl.c	/^static int send_client_finished( int connection, $/;"	f	file:
+send_client_hello	appC/ssl.c	/^static int send_client_hello( int connection, $/;"	f	file:
+send_client_hello	ch06/tls.c	/^static int send_client_hello( int connection, TLSParameters *parameters )$/;"	f	file:
+send_client_hello	ch07/tls.c	/^static int send_client_hello( int connection, TLSParameters *parameters )$/;"	f	file:
+send_client_hello	ch08/tls.c	/^static int send_client_hello( int connection, $/;"	f	file:
+send_client_hello	ch09/tls.c	/^static int send_client_hello( int connection, $/;"	f	file:
+send_client_key_exchange	ch06/tls.c	/^static int send_client_key_exchange( int connection, TLSParameters *parameters )$/;"	f	file:
+send_client_key_exchange	ch07/tls.c	/^static int send_client_key_exchange( int connection, TLSParameters *parameters )$/;"	f	file:
+send_client_key_exchange	ch08/tls.c	/^static int send_client_key_exchange( int connection, TLSParameters *parameters )$/;"	f	file:
+send_client_key_exchange	ch09/tls.c	/^static int send_client_key_exchange( int connection, TLSParameters *parameters )$/;"	f	file:
+send_client_master_key	appC/ssl.c	/^static int send_client_master_key( int connection, $/;"	f	file:
+send_error	appC/ssl.c	/^static int send_error( int connection, $/;"	f	file:
+send_finished	ch06/tls.c	/^static int send_finished( int connection, $/;"	f	file:
+send_finished	ch07/tls.c	/^static int send_finished( int connection, $/;"	f	file:
+send_finished	ch08/tls.c	/^static int send_finished( int connection, $/;"	f	file:
+send_finished	ch09/tls.c	/^static int send_finished( int connection, $/;"	f	file:
+send_handshake_message	appC/ssl.c	/^static int send_handshake_message( int connection, $/;"	f	file:
+send_handshake_message	ch06/tls.c	/^static int send_handshake_message( int connection,$/;"	f	file:
+send_handshake_message	ch07/tls.c	/^static int send_handshake_message( int connection,$/;"	f	file:
+send_handshake_message	ch08/tls.c	/^static int send_handshake_message( int connection,$/;"	f	file:
+send_handshake_message	ch09/tls.c	/^static int send_handshake_message( int connection,$/;"	f	file:
+send_message	appC/ssl.c	/^static int send_message( int connection, $/;"	f	file:
+send_message	ch06/tls.c	/^static int send_message( int connection,$/;"	f	file:
+send_message	ch07/tls.c	/^static int send_message( int connection,$/;"	f	file:
+send_message	ch08/tls.c	/^static int send_message( int connection,$/;"	f	file:
+send_message	ch09/tls.c	/^static int send_message( int connection,$/;"	f	file:
+send_server_hello	ch07/tls.c	/^static int send_server_hello( int connection, TLSParameters *parameters )$/;"	f	file:
+send_server_hello	ch08/tls.c	/^static int send_server_hello( int connection, TLSParameters *parameters )$/;"	f	file:
+send_server_hello	ch09/tls.c	/^static int send_server_hello( int connection, TLSParameters *parameters )$/;"	f	file:
+send_server_hello_done	ch07/tls.c	/^static int send_server_hello_done( int connection, TLSParameters *parameters )$/;"	f	file:
+send_server_hello_done	ch08/tls.c	/^static int send_server_hello_done( int connection, TLSParameters *parameters )$/;"	f	file:
+send_server_hello_done	ch09/tls.c	/^static int send_server_hello_done( int connection, TLSParameters *parameters )$/;"	f	file:
+seq_num	ch06/tls.h	/^  unsigned long         seq_num;$/;"	m	struct:__anon16
+seq_num	ch07/tls.h	/^  unsigned long         seq_num;$/;"	m	struct:__anon47
+seq_num	ch08/tls.h	/^  unsigned long         seq_num;$/;"	m	struct:__anon68
+seq_num	ch09/tls.h	/^  unsigned long         seq_num;$/;"	m	struct:__anon104
+serialNumber	ch05/x509.h	/^  huge serialNumber; \/\/ This can be much longer than a 4-byte long allows$/;"	m	struct:__anon123
+serialNumber	ch06/x509.h	/^  huge serialNumber; \/\/ This can be much longer than a 4-byte long allows$/;"	m	struct:__anon12
+serialNumber	ch09/x509.h	/^  huge serialNumber; \/\/ This can be much longer than a 4-byte long allows$/;"	m	struct:__anon87
+server_dh_key	ch06/tls.h	/^  dh_key                server_dh_key;$/;"	m	struct:__anon17
+server_dh_key	ch07/tls.h	/^  dh_key                server_dh_key;$/;"	m	struct:__anon49
+server_dh_key	ch08/tls.h	/^  dh_key                server_dh_key;$/;"	m	struct:__anon70
+server_dh_key	ch09/tls.h	/^  dh_key                server_dh_key;$/;"	m	struct:__anon106
+server_ecdh_key	ch09/tls.h	/^  point                 server_ecdh_key;$/;"	m	struct:__anon106
+server_ecdh_params	ch09/tls.h	/^  elliptic_curve        server_ecdh_params;$/;"	m	struct:__anon106
+server_finished	ch06/tls.h	/^  int                   server_finished;$/;"	m	struct:__anon17
+server_hello	ch06/tls.h	/^  server_hello = 2,$/;"	e	enum:__anon25
+server_hello	ch07/tls.h	/^  server_hello = 2,$/;"	e	enum:__anon57
+server_hello	ch08/tls.h	/^  server_hello = 2,$/;"	e	enum:__anon78
+server_hello	ch09/tls.h	/^  server_hello = 2,$/;"	e	enum:__anon114
+server_hello_done	ch06/tls.h	/^  int                   server_hello_done;$/;"	m	struct:__anon17
+server_hello_done	ch06/tls.h	/^  server_hello_done = 14,$/;"	e	enum:__anon25
+server_hello_done	ch07/tls.h	/^  int                   server_hello_done;$/;"	m	struct:__anon49
+server_hello_done	ch07/tls.h	/^  server_hello_done = 14,$/;"	e	enum:__anon57
+server_hello_done	ch08/tls.h	/^  int                   server_hello_done;$/;"	m	struct:__anon70
+server_hello_done	ch08/tls.h	/^  server_hello_done = 14,$/;"	e	enum:__anon78
+server_hello_done	ch09/tls.h	/^  int                   server_hello_done;$/;"	m	struct:__anon106
+server_hello_done	ch09/tls.h	/^  server_hello_done = 14,$/;"	e	enum:__anon114
+server_key_exchange	ch06/tls.h	/^  server_key_exchange = 12,$/;"	e	enum:__anon25
+server_key_exchange	ch07/tls.h	/^  server_key_exchange = 12,$/;"	e	enum:__anon57
+server_key_exchange	ch08/tls.h	/^  server_key_exchange = 12,$/;"	e	enum:__anon78
+server_key_exchange	ch09/tls.h	/^  server_key_exchange = 12,$/;"	e	enum:__anon114
+server_name	ch08/tls.c	/^  server_name = 0,$/;"	e	enum:__anon61	file:
+server_name	ch09/tls.c	/^  server_name = 0,$/;"	e	enum:__anon89	file:
+server_public_key	appC/ssl.h	/^  rsa_key server_public_key;$/;"	m	struct:__anon30
+server_public_key	ch06/tls.h	/^  public_key_info       server_public_key;$/;"	m	struct:__anon17
+server_public_key	ch07/tls.h	/^  public_key_info       server_public_key;$/;"	m	struct:__anon49
+server_public_key	ch08/tls.h	/^  public_key_info       server_public_key;$/;"	m	struct:__anon70
+server_public_key	ch09/tls.h	/^  public_key_info       server_public_key;$/;"	m	struct:__anon106
+server_random	ch06/tls.h	/^  random_type           server_random;$/;"	m	struct:__anon17
+server_random	ch07/tls.h	/^  random_type           server_random;$/;"	m	struct:__anon49
+server_random	ch08/tls.h	/^  random_type           server_random;$/;"	m	struct:__anon70
+server_random	ch09/tls.h	/^  random_type           server_random;$/;"	m	struct:__anon106
+server_verify_data	ch08/tls.h	/^  unsigned char         server_verify_data[ VERIFY_DATA_LEN ];$/;"	m	struct:__anon70
+server_verify_data	ch09/tls.h	/^  unsigned char         server_verify_data[ VERIFY_DATA_LEN ];$/;"	m	struct:__anon106
+server_version	ch06/tls.h	/^  ProtocolVersion   server_version;$/;"	m	struct:__anon28
+server_version	ch07/tls.h	/^  ProtocolVersion   server_version;$/;"	m	struct:__anon60
+server_version	ch08/tls.h	/^  ProtocolVersion   server_version;$/;"	m	struct:__anon81
+server_version	ch09/tls.h	/^  ProtocolVersion   server_version;$/;"	m	struct:__anon117
+server_version_major	appC/ssl.h	/^  unsigned char server_version_major; $/;"	m	struct:__anon32
+server_version_minor	appC/ssl.h	/^  unsigned char server_version_minor; $/;"	m	struct:__anon32
+session_id	appC/ssl.h	/^  unsigned char *session_id; $/;"	m	struct:__anon31
+session_id	appC/ssl.h	/^  unsigned char *session_id; $/;"	m	struct:__anon36
+session_id	ch06/tls.h	/^  unsigned char     session_id[ 32 ]; \/\/ technically, this len should be dynamic.$/;"	m	struct:__anon28
+session_id	ch06/tls.h	/^  unsigned char *session_id;$/;"	m	struct:__anon27
+session_id	ch07/tls.h	/^  unsigned char     session_id[ 32 ]; \/\/ technically, this len should be dynamic.$/;"	m	struct:__anon60
+session_id	ch07/tls.h	/^  unsigned char *session_id;$/;"	m	struct:__anon59
+session_id	ch08/tls.c	/^  unsigned char session_id[ MAX_SESSION_ID_LENGTH ];$/;"	m	struct:StoredSessionsList_t	file:
+session_id	ch08/tls.h	/^  unsigned char         session_id[ MAX_SESSION_ID_LENGTH ];$/;"	m	struct:__anon70
+session_id	ch08/tls.h	/^  unsigned char     session_id[ 32 ]; \/\/ technically, this len should be dynamic.$/;"	m	struct:__anon81
+session_id	ch08/tls.h	/^  unsigned char *session_id;$/;"	m	struct:__anon80
+session_id	ch09/tls.c	/^  unsigned char session_id[ MAX_SESSION_ID_LENGTH ];$/;"	m	struct:StoredSessionsList_t	file:
+session_id	ch09/tls.h	/^  unsigned char         session_id[ MAX_SESSION_ID_LENGTH ];$/;"	m	struct:__anon106
+session_id	ch09/tls.h	/^  unsigned char     session_id[ 32 ]; \/\/ technically, this len should be dynamic.$/;"	m	struct:__anon117
+session_id	ch09/tls.h	/^  unsigned char *session_id;$/;"	m	struct:__anon116
+session_id_hit	appC/ssl.h	/^  unsigned char session_id_hit; $/;"	m	struct:__anon32
+session_id_length	appC/ssl.h	/^  unsigned short session_id_length; $/;"	m	struct:__anon31
+session_id_length	ch06/tls.h	/^  unsigned char     session_id_length;$/;"	m	struct:__anon28
+session_id_length	ch06/tls.h	/^  unsigned char session_id_length;$/;"	m	struct:__anon27
+session_id_length	ch07/tls.h	/^  unsigned char     session_id_length;$/;"	m	struct:__anon60
+session_id_length	ch07/tls.h	/^  unsigned char session_id_length;$/;"	m	struct:__anon59
+session_id_length	ch08/tls.c	/^  int session_id_length;$/;"	m	struct:StoredSessionsList_t	file:
+session_id_length	ch08/tls.h	/^  int                   session_id_length;$/;"	m	struct:__anon70
+session_id_length	ch08/tls.h	/^  unsigned char     session_id_length;$/;"	m	struct:__anon81
+session_id_length	ch08/tls.h	/^  unsigned char session_id_length;$/;"	m	struct:__anon80
+session_id_length	ch09/tls.c	/^  int session_id_length;$/;"	m	struct:StoredSessionsList_t	file:
+session_id_length	ch09/tls.h	/^  int                   session_id_length;$/;"	m	struct:__anon106
+session_id_length	ch09/tls.h	/^  unsigned char     session_id_length;$/;"	m	struct:__anon117
+session_id_length	ch09/tls.h	/^  unsigned char session_id_length;$/;"	m	struct:__anon116
+set_huge	ch03/huge.c	/^void set_huge( huge *h, unsigned int val )$/;"	f
+sha1	ch09/tls.h	/^  sha1 = 2,$/;"	e	enum:__anon101
+sha1_block_operate	ch04/sha.c	/^void sha1_block_operate( const unsigned char *block, unsigned int hash[ SHA1_RESULT_SIZE ] )$/;"	f
+sha1_finalize	ch04/sha.c	/^void sha1_finalize( unsigned char *padded_block, int length_in_bits )$/;"	f
+sha1_handshake_digest	ch06/tls.h	/^  digest_ctx            sha1_handshake_digest;$/;"	m	struct:__anon17
+sha1_handshake_digest	ch07/tls.h	/^  digest_ctx            sha1_handshake_digest;$/;"	m	struct:__anon49
+sha1_handshake_digest	ch08/tls.h	/^  digest_ctx            sha1_handshake_digest;$/;"	m	struct:__anon70
+sha1_hash	ch04/sha.c	/^int sha1_hash( unsigned char *input, int len, $/;"	f
+sha1_initial_hash	ch04/sha.c	/^unsigned int sha1_initial_hash[ ] = { $/;"	v
+sha1_initial_hash	ch04/sha.h	/^unsigned int sha1_initial_hash[ SHA1_RESULT_SIZE ];$/;"	v
+sha224	ch09/tls.h	/^  sha224 = 3,$/;"	e	enum:__anon101
+sha256	ch09/tls.h	/^  sha256 = 4,$/;"	e	enum:__anon101
+sha256WithECDSA	ch09/x509.h	/^  sha256WithECDSA$/;"	e	enum:__anon83
+sha256_block_operate	ch04/sha.c	/^void sha256_block_operate( const unsigned char *block,$/;"	f
+sha256_handshake_digest	ch09/tls.h	/^  digest_ctx            sha256_handshake_digest;$/;"	m	struct:__anon106
+sha256_initial_hash	ch04/sha.c	/^static const unsigned int sha256_initial_hash[] =$/;"	v	file:
+sha384	ch09/tls.h	/^  sha384 = 5,$/;"	e	enum:__anon101
+sha512	ch09/tls.h	/^  sha512 = 6$/;"	e	enum:__anon101
+shaWithDSA	ch05/x509.h	/^  shaWithDSA$/;"	e	enum:__anon119
+shaWithDSA	ch06/x509.h	/^  shaWithDSA$/;"	e	enum:__anon8
+shaWithDSA	ch09/x509.h	/^  shaWithDSA,$/;"	e	enum:__anon83
+shaWithRSAEncryption	ch05/x509.h	/^  shaWithRSAEncryption,$/;"	e	enum:__anon119
+shaWithRSAEncryption	ch06/x509.h	/^  shaWithRSAEncryption,$/;"	e	enum:__anon8
+shaWithRSAEncryption	ch09/x509.h	/^  shaWithRSAEncryption,$/;"	e	enum:__anon83
+shift_rows	ch02/aes.c	/^static void shift_rows( unsigned char state[ ][ 4 ] )$/;"	f	file:
+shift_rows	ch09/aes.c	/^static void shift_rows( unsigned char state[ ][ 4 ] )$/;"	f	file:
+show_hex	ch02/hex.c	/^void show_hex( const unsigned char *array, int length )$/;"	f
+shr	ch04/sha.c	/^unsigned int shr( unsigned int x, unsigned int n )$/;"	f
+sig_dsa	ch09/tls.h	/^  sig_dsa = 2,$/;"	e	enum:__anon102
+sig_ecdsa	ch09/tls.h	/^  sig_ecdsa = 3$/;"	e	enum:__anon102
+sig_rsa	ch09/tls.h	/^  sig_rsa = 1,$/;"	e	enum:__anon102
+sigma_rot	ch04/sha.c	/^unsigned int sigma_rot( unsigned int x, int i )$/;"	f
+sigma_shr	ch04/sha.c	/^unsigned int sigma_shr( unsigned int x, int i )$/;"	f
+sign	ch03/huge.h	/^  int sign;$/;"	m	struct:__anon6
+signature	ch05/x509.h	/^  signatureAlgorithmIdentifier signature;$/;"	m	struct:__anon123
+signature	ch06/x509.h	/^  signatureAlgorithmIdentifier signature;$/;"	m	struct:__anon12
+signature	ch09/tls.c	/^  SignatureAlgorithm signature;$/;"	m	struct:__anon95	file:
+signature	ch09/x509.h	/^  signatureAlgorithmIdentifier signature;$/;"	m	struct:__anon87
+signatureAlgorithmIdentifier	ch05/x509.h	/^signatureAlgorithmIdentifier;$/;"	t	typeref:enum:__anon119
+signatureAlgorithmIdentifier	ch06/x509.h	/^signatureAlgorithmIdentifier;$/;"	t	typeref:enum:__anon8
+signatureAlgorithmIdentifier	ch09/x509.h	/^signatureAlgorithmIdentifier;$/;"	t	typeref:enum:__anon83
+signature_algorithms_length	ch09/tls.c	/^  unsigned char signature_algorithms_length;$/;"	m	struct:__anon96	file:
+signed_x509_certificate	ch05/x509.h	/^signed_x509_certificate;$/;"	t	typeref:struct:__anon124
+signed_x509_certificate	ch06/x509.h	/^signed_x509_certificate;$/;"	t	typeref:struct:__anon13
+signed_x509_certificate	ch09/x509.h	/^signed_x509_certificate;$/;"	t	typeref:struct:__anon88
+size	ch03/huge.h	/^  unsigned int size;$/;"	m	struct:__anon6
+specs	appC/ssl.c	/^static CipherSpec specs[] =$/;"	v	file:
+ssl_connect	appC/ssl.c	/^int ssl_connect( int connection,$/;"	f
+ssl_recv	appC/ssl.c	/^int ssl_recv( int connection, char *target_buffer, int buffer_size, $/;"	f
+ssl_send	appC/ssl.c	/^int ssl_send( int connection, const char *application_data, int length, $/;"	f
+stored_sessions	ch08/tls.c	/^static StoredSessionsList *stored_sessions[ HASH_TABLE_SIZE ];$/;"	v	file:
+stored_sessions	ch09/tls.c	/^static StoredSessionsList *stored_sessions[ HASH_TABLE_SIZE ];$/;"	v	file:
+sub_bytes	ch02/aes.c	/^static void sub_bytes( unsigned char state[ ][ 4 ] )$/;"	f	file:
+sub_bytes	ch09/aes.c	/^static void sub_bytes( unsigned char state[ ][ 4 ] )$/;"	f	file:
+sub_word	ch02/aes.c	/^static void sub_word( unsigned char *w )$/;"	f	file:
+sub_word	ch09/aes.c	/^static void sub_word( unsigned char *w )$/;"	f	file:
+subject	ch05/x509.h	/^  name subject;$/;"	m	struct:__anon123
+subject	ch06/x509.h	/^  name subject;$/;"	m	struct:__anon12
+subject	ch09/x509.h	/^  name subject;$/;"	m	struct:__anon87
+subjectPublicKeyInfo	ch05/x509.h	/^  public_key_info subjectPublicKeyInfo;$/;"	m	struct:__anon123
+subjectPublicKeyInfo	ch06/x509.h	/^  public_key_info subjectPublicKeyInfo;$/;"	m	struct:__anon12
+subjectPublicKeyInfo	ch09/x509.h	/^  public_key_info subjectPublicKeyInfo;$/;"	m	struct:__anon87
+subjectUniqueId	ch05/x509.h	/^  uniqueIdentifier subjectUniqueId;$/;"	m	struct:__anon123
+subjectUniqueId	ch06/x509.h	/^  uniqueIdentifier subjectUniqueId;$/;"	m	struct:__anon12
+subjectUniqueId	ch09/x509.h	/^  uniqueIdentifier subjectUniqueId;$/;"	m	struct:__anon87
+subtract	ch03/huge.c	/^void subtract( huge *h1, huge *h2 )$/;"	f
+subtract_magnitude	ch03/huge.c	/^static void subtract_magnitude( huge *h1, huge *h2 ) $/;"	f	file:
+suite	ch06/tls.h	/^  CipherSuiteIdentifier suite;$/;"	m	struct:__anon16
+suite	ch07/tls.h	/^  CipherSuiteIdentifier suite;$/;"	m	struct:__anon47
+suite	ch08/tls.h	/^  CipherSuiteIdentifier suite;$/;"	m	struct:__anon68
+suite	ch09/tls.h	/^  CipherSuiteIdentifier suite;$/;"	m	struct:__anon104
+suites	ch06/tls.c	/^static CipherSuite suites[] =$/;"	v	file:
+suites	ch07/tls.c	/^static CipherSuite suites[] =$/;"	v	file:
+suites	ch08/tls.c	/^static CipherSuite suites[] =$/;"	v	file:
+suites	ch09/tls.c	/^static CipherSuite suites[MAX_SUPPORTED_CIPHER_SUITE] =$/;"	v	file:
+support_secure_renegotiation	ch08/tls.h	/^  int                   support_secure_renegotiation;$/;"	m	struct:__anon70
+support_secure_renegotiation	ch09/tls.h	/^  int                   support_secure_renegotiation;$/;"	m	struct:__anon106
+supported_certificate_types	ch08/tls.c	/^  certificate_type supported_certificate_types[ MAX_CERTIFICATE_TYPES ];$/;"	m	struct:__anon64	file:
+supported_certificate_types	ch09/tls.c	/^  certificate_type supported_certificate_types[ MAX_CERTIFICATE_TYPES ];$/;"	m	struct:__anon96	file:
+supported_signature_algorithms	ch09/tls.c	/^  supported_signature_algorithms[ MAX_SIGNATURE_ALGORITHMS ];$/;"	m	struct:__anon96	file:
+tag	ch05/asn1.h	/^ int tag;      \/\/ bits 1-5 of the identifier byte$/;"	m	struct:asn1struct
+tag_class	ch05/asn1.h	/^ int tag_class;   \/\/ bits 7-8 of the identifier byte$/;"	m	struct:asn1struct
+tag_names	ch05/asn1.c	/^static char *tag_names[] = { $/;"	v	file:
+tbsCertificate	ch05/x509.h	/^  x509_certificate tbsCertificate;$/;"	m	struct:__anon124
+tbsCertificate	ch06/x509.h	/^  x509_certificate tbsCertificate;$/;"	m	struct:__anon13
+tbsCertificate	ch09/x509.h	/^  x509_certificate tbsCertificate;$/;"	m	struct:__anon88
+tls_accept	ch07/tls.c	/^int tls_accept( int connection,$/;"	f
+tls_accept	ch08/tls.c	/^int tls_accept( int connection,$/;"	f
+tls_accept	ch09/tls.c	/^int tls_accept( int connection,$/;"	f
+tls_connect	ch06/tls.c	/^int tls_connect( int connection,$/;"	f
+tls_connect	ch07/tls.c	/^int tls_connect( int connection,$/;"	f
+tls_connect	ch08/tls.c	/^int tls_connect( int connection,$/;"	f
+tls_connect	ch09/tls.c	/^int tls_connect( int connection,$/;"	f
+tls_decrypt	ch06/tls.c	/^static int tls_decrypt( const unsigned char *header, \/\/ needed for MAC verification$/;"	f	file:
+tls_decrypt	ch07/tls.c	/^static int tls_decrypt( const unsigned char *header, \/\/ needed for MAC verification$/;"	f	file:
+tls_decrypt	ch08/tls.c	/^static int tls_decrypt( const unsigned char *header, \/\/ needed for MAC verification$/;"	f	file:
+tls_decrypt	ch09/tls.c	/^static int tls_decrypt( const unsigned char *header, \/\/ needed for MAC verification$/;"	f	file:
+tls_recv	ch06/tls.c	/^int tls_recv( int connection, char *target_buffer, int buffer_size, int options,$/;"	f
+tls_recv	ch07/tls.c	/^int tls_recv( int connection, char *target_buffer, int buffer_size, int options,$/;"	f
+tls_recv	ch08/tls.c	/^int tls_recv( int connection, char *target_buffer, int buffer_size, int options,$/;"	f
+tls_recv	ch09/tls.c	/^int tls_recv( int connection, char *target_buffer, int buffer_size, int options,$/;"	f
+tls_resume	ch08/tls.c	/^int tls_resume( int connection,$/;"	f
+tls_resume	ch09/tls.c	/^int tls_resume( int connection,$/;"	f
+tls_send	ch06/tls.c	/^int tls_send( int connection,$/;"	f
+tls_send	ch07/tls.c	/^int tls_send( int connection,$/;"	f
+tls_send	ch08/tls.c	/^int tls_send( int connection,$/;"	f
+tls_send	ch09/tls.c	/^int tls_send( int connection,$/;"	f
+tls_shutdown	ch06/tls.c	/^int tls_shutdown( int connection, TLSParameters *parameters )$/;"	f
+tls_shutdown	ch07/tls.c	/^int tls_shutdown( int connection, TLSParameters *parameters )$/;"	f
+tls_shutdown	ch08/tls.c	/^int tls_shutdown( int connection, TLSParameters *parameters )$/;"	f
+tls_shutdown	ch09/tls.c	/^int tls_shutdown( int connection, TLSParameters *parameters )$/;"	f
+type	ch06/tls.h	/^  unsigned char   type;$/;"	m	struct:__anon23
+type	ch07/tls.h	/^  unsigned char   type;$/;"	m	struct:__anon55
+type	ch08/tls.h	/^  unsigned char   type;$/;"	m	struct:__anon76
+type	ch09/tls.h	/^  unsigned char   type;$/;"	m	struct:__anon112
+unbase64	ch01/base64.c	/^static int unbase64[] =$/;"	v	file:
+uncompressed	ch09/tls.c	/^  uncompressed = 4$/;"	e	enum:__anon93	file:
+unexpected_message	ch06/tls.h	/^  unexpected_message = 10,$/;"	e	enum:__anon20
+unexpected_message	ch07/tls.h	/^  unexpected_message = 10,$/;"	e	enum:__anon52
+unexpected_message	ch08/tls.h	/^  unexpected_message = 10,$/;"	e	enum:__anon73
+unexpected_message	ch09/tls.h	/^  unexpected_message = 10,$/;"	e	enum:__anon109
+uniqueIdentifier	ch05/x509.h	/^typedef huge uniqueIdentifier;$/;"	t
+uniqueIdentifier	ch06/x509.h	/^typedef huge uniqueIdentifier;$/;"	t
+uniqueIdentifier	ch09/x509.h	/^typedef huge uniqueIdentifier;$/;"	t
+unknown_ca	ch06/tls.h	/^  unknown_ca = 48,$/;"	e	enum:__anon20
+unknown_ca	ch07/tls.h	/^  unknown_ca = 48,$/;"	e	enum:__anon52
+unknown_ca	ch08/tls.h	/^  unknown_ca = 48,$/;"	e	enum:__anon73
+unknown_ca	ch09/tls.h	/^  unknown_ca = 48,$/;"	e	enum:__anon109
+unload_huge	ch03/huge.c	/^void unload_huge( const huge *h, unsigned char *bytes, int length )$/;"	f
+unread_buffer	appC/ssl.h	/^  unsigned char *unread_buffer;$/;"	m	struct:__anon30
+unread_buffer	ch06/tls.h	/^  char                  *unread_buffer;$/;"	m	struct:__anon17
+unread_buffer	ch07/tls.h	/^  char                  *unread_buffer;$/;"	m	struct:__anon49
+unread_buffer	ch08/tls.h	/^  char                  *unread_buffer;$/;"	m	struct:__anon70
+unread_buffer	ch09/tls.h	/^  char                  *unread_buffer;$/;"	m	struct:__anon106
+unread_length	appC/ssl.h	/^  int           unread_length;$/;"	m	struct:__anon30
+unread_length	ch06/tls.h	/^  int                   unread_length;$/;"	m	struct:__anon17
+unread_length	ch07/tls.h	/^  int                   unread_length;$/;"	m	struct:__anon49
+unread_length	ch08/tls.h	/^  int                   unread_length;$/;"	m	struct:__anon70
+unread_length	ch09/tls.h	/^  int                   unread_length;$/;"	m	struct:__anon106
+unsupported_certificate	ch06/tls.h	/^  unsupported_certificate = 43,$/;"	e	enum:__anon20
+unsupported_certificate	ch07/tls.h	/^  unsupported_certificate = 43,$/;"	e	enum:__anon52
+unsupported_certificate	ch08/tls.h	/^  unsupported_certificate = 43,$/;"	e	enum:__anon73
+unsupported_certificate	ch09/tls.h	/^  unsupported_certificate = 43,$/;"	e	enum:__anon109
+update_digest	ch04/digest.c	/^void update_digest( digest_ctx *context, const unsigned char *input, int input_len )$/;"	f
+user_canceled	ch06/tls.h	/^  user_canceled = 90,$/;"	e	enum:__anon20
+user_canceled	ch07/tls.h	/^  user_canceled = 90,$/;"	e	enum:__anon52
+user_canceled	ch08/tls.h	/^  user_canceled = 90,$/;"	e	enum:__anon73
+user_canceled	ch09/tls.h	/^  user_canceled = 90,$/;"	e	enum:__anon109
+validate_certificate_dsa	ch05/x509.c	/^static int validate_certificate_dsa( signed_x509_certificate *certificate )$/;"	f	file:
+validate_certificate_dsa	ch06/x509.c	/^static int validate_certificate_dsa( signed_x509_certificate *certificate )$/;"	f	file:
+validate_certificate_dsa	ch08/x509.c	/^static int validate_certificate_dsa( signed_x509_certificate *certificate )$/;"	f	file:
+validate_certificate_dsa	ch09/x509.c	/^static int validate_certificate_dsa( signed_x509_certificate *certificate )$/;"	f	file:
+validate_certificate_rsa	ch05/x509.c	/^static int validate_certificate_rsa( signed_x509_certificate *certificate,$/;"	f	file:
+validate_certificate_rsa	ch06/x509.c	/^static int validate_certificate_rsa( signed_x509_certificate *certificate,$/;"	f	file:
+validate_certificate_rsa	ch08/x509.c	/^static int validate_certificate_rsa( signed_x509_certificate *certificate,$/;"	f	file:
+validate_certificate_rsa	ch09/x509.c	/^static int validate_certificate_rsa( signed_x509_certificate *certificate,$/;"	f	file:
+validate_node	ch05/x509.c	/^int validate_node( struct asn1struct *source, $/;"	f
+validate_node	ch06/x509.c	/^int validate_node( struct asn1struct *source, $/;"	f
+validate_node	ch08/x509.c	/^int validate_node( struct asn1struct *source, $/;"	f
+validate_node	ch09/x509.c	/^int validate_node( struct asn1struct *source, $/;"	f
+validity	ch05/x509.h	/^  validity_period validity;$/;"	m	struct:__anon123
+validity	ch06/x509.h	/^  validity_period validity;$/;"	m	struct:__anon12
+validity	ch09/x509.h	/^  validity_period validity;$/;"	m	struct:__anon87
+validity_period	ch05/x509.h	/^validity_period;$/;"	t	typeref:struct:__anon121
+validity_period	ch06/x509.h	/^validity_period;$/;"	t	typeref:struct:__anon10
+validity_period	ch09/x509.h	/^validity_period;$/;"	t	typeref:struct:__anon85
+verify_mac	appC/ssl.c	/^static int verify_mac( const unsigned char *data, $/;"	f	file:
+verify_signature	ch08/tls.c	/^static int verify_signature( unsigned char *message,$/;"	f	file:
+verify_signature	ch09/tls.c	/^static int verify_signature( unsigned char *message,$/;"	f	file:
+version	ch05/x509.h	/^  int version;$/;"	m	struct:__anon123
+version	ch06/tls.h	/^  ProtocolVersion version;$/;"	m	struct:__anon23
+version	ch06/x509.h	/^  int version;$/;"	m	struct:__anon12
+version	ch07/tls.h	/^  ProtocolVersion version;$/;"	m	struct:__anon55
+version	ch08/tls.h	/^  ProtocolVersion version;$/;"	m	struct:__anon76
+version	ch09/tls.h	/^  ProtocolVersion version;$/;"	m	struct:__anon112
+version	ch09/x509.h	/^  int version;$/;"	m	struct:__anon87
+version_major	appC/ssl.h	/^  unsigned char version_major; $/;"	m	struct:__anon31
+version_minor	appC/ssl.h	/^  unsigned char version_minor; $/;"	m	struct:__anon31
+warning	ch06/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon19
+warning	ch07/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon51
+warning	ch08/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon72
+warning	ch09/tls.h	/^typedef enum { warning = 1, fatal = 2 } AlertLevel;$/;"	e	enum:__anon108
+write_iv	appC/ssl.h	/^  unsigned char *write_iv;$/;"	m	struct:__anon30
+write_key	appC/ssl.h	/^  unsigned char *write_key;$/;"	m	struct:__anon30
+write_sequence_number	appC/ssl.h	/^  int write_sequence_number;$/;"	m	struct:__anon30
+write_state	appC/ssl.h	/^  void *write_state;$/;"	m	struct:__anon30
+x	ch03/ecc_int.h	/^  int x; $/;"	m	struct:__anon1
+x	ch04/ecc.h	/^  huge x;$/;"	m	struct:__anon40
+x	ch09/ecc.h	/^  huge x;$/;"	m	struct:__anon97
+x509_certificate	ch05/x509.h	/^x509_certificate;$/;"	t	typeref:struct:__anon123
+x509_certificate	ch06/x509.h	/^x509_certificate;$/;"	t	typeref:struct:__anon12
+x509_certificate	ch09/x509.h	/^x509_certificate;$/;"	t	typeref:struct:__anon87
+xor	ch02/aes.c	/^static void xor( unsigned char *target, const unsigned char *src, int len )$/;"	f	file:
+xor	ch02/des.c	/^static void xor( unsigned char *target, const unsigned char *src, int len )$/;"	f	file:
+xor	ch09/aes.c	/^static void xor( unsigned char *target, const unsigned char *src, int len )$/;"	f	file:
+xtime	ch02/aes.c	/^unsigned char xtime( unsigned char x )$/;"	f
+xtime	ch09/aes.c	/^unsigned char xtime( unsigned char x )$/;"	f
+y	ch03/ecc_int.h	/^  int y; $/;"	m	struct:__anon1
+y	ch04/ecc.h	/^  huge y;$/;"	m	struct:__anon40
+y	ch09/ecc.h	/^  huge y;$/;"	m	struct:__anon97
